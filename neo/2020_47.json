@@ -1,0 +1,74 @@
+[
+    {
+        "songname": "迷失幻境",
+        "album": "迷失幻境 ",
+        "artist": [
+            "IN-K",
+            "王忻辰"
+        ],
+        "artistid": [
+            "002yupVT2XEFaA",
+            "004W8PqQ0EYrEr"
+        ],
+        "company": "音炬文化",
+        "genre": "Pop",
+        "lan": "国语",
+        "pub_time": "2020-09-27"
+    },
+    {
+        "songname": "执迷不悟",
+        "album": "执迷不悟",
+        "artist": [
+            "小乐哥"
+        ],
+        "artistid": [
+            "002ul7D70CpXpI"
+        ],
+        "company": "音炬文化",
+        "genre": "Pop",
+        "lan": "国语",
+        "pub_time": "2020-09-04"
+    },
+    {
+        "songname": "燕无歇",
+        "album": "燕无歇",
+        "artist": [
+            "是七叔呢"
+        ],
+        "artistid": [
+            "002wl8GA0aBbGI"
+        ],
+        "company": "好乐无荒",
+        "genre": "Pop",
+        "lan": "国语",
+        "pub_time": "2020-10-21"
+    },
+    {
+        "songname": "云与海",
+        "album": "云与海",
+        "artist": [
+            "阿YueYue"
+        ],
+        "artistid": [
+            "0009dWas0XxekN"
+        ],
+        "company": "鲸鱼向海（北京）文化有限公司",
+        "genre": "Pop",
+        "lan": "国语",
+        "pub_time": "2020-09-26"
+    },
+    {
+        "songname": "忘川彼岸 (DJ名龙版)",
+        "album": "忘川彼岸",
+        "artist": [
+            "零一九零贰"
+        ],
+        "artistid": [
+            "002G2rIh0GLNC3"
+        ],
+        "company": "冰曲文化",
+        "genre": "Pop",
+        "lan": "国语",
+        "pub_time": "2020-07-15"
+    }
+]

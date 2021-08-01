@@ -1,0 +1,4611 @@
+下山,下山专辑,album,Song,Album
+下山,要不要买菜,artist,Song,Artist
+下山,武汉嗨库文化传媒有限公司,company,Song,Company
+下山,国语,lan,Song,Lan
+下山,2019-11-22,pub_time,Song,Pub_Time
+句号,摩天动物园专辑,album,Song,Album
+句号,G.E.M. 邓紫棋,artist,Song,Artist
+句号,G Nation,company,Song,Company
+句号,Pop,genre,Song,Genre
+句号,国语,lan,Song,Lan
+句号,2019-12-27,pub_time,Song,Pub_Time
+透明,摩天动物园专辑,album,Song,Album
+透明,G.E.M. 邓紫棋,artist,Song,Artist
+透明,G Nation,company,Song,Company
+透明,Pop,genre,Song,Genre
+透明,国语,lan,Song,Lan
+透明,2019-12-27,pub_time,Song,Pub_Time
+麻雀,麻雀专辑,album,Song,Album
+麻雀,李荣浩,artist,Song,Artist
+麻雀,一样音乐,company,Song,Company
+麻雀,国语,lan,Song,Lan
+麻雀,2020-07-30,pub_time,Song,Pub_Time
+牧马城市 (《老男孩》电视剧片尾曲),老男孩 电视剧原声带专辑,album,Song,Album
+牧马城市 (《老男孩》电视剧片尾曲),毛不易,artist,Song,Artist
+牧马城市 (《老男孩》电视剧片尾曲),上海希瓜音乐制作有限公司,company,Song,Company
+牧马城市 (《老男孩》电视剧片尾曲),Soundtrack,genre,Song,Genre
+牧马城市 (《老男孩》电视剧片尾曲),国语,lan,Song,Lan
+牧马城市 (《老男孩》电视剧片尾曲),2018-03-29,pub_time,Song,Pub_Time
+桥边姑娘,桥边姑娘专辑,album,Song,Album
+桥边姑娘,海伦,artist,Song,Artist
+桥边姑娘,坚诚文化,company,Song,Company
+桥边姑娘,国语,lan,Song,Lan
+桥边姑娘,2019-11-09,pub_time,Song,Pub_Time
+你的答案,你的答案专辑,album,Song,Album
+你的答案,阿冗,artist,Song,Artist
+你的答案,好乐无荒,company,Song,Company
+你的答案,Pop,genre,Song,Genre
+你的答案,国语,lan,Song,Lan
+你的答案,2019-11-01,pub_time,Song,Pub_Time
+火红的萨日朗,火红的萨日朗专辑,album,Song,Album
+火红的萨日朗,要不要买菜,artist,Song,Artist
+火红的萨日朗,武汉嗨库文化传媒有限公司,company,Song,Company
+火红的萨日朗,国语,lan,Song,Lan
+火红的萨日朗,2019-12-10,pub_time,Song,Pub_Time
+嚣张,嚣张专辑,album,Song,Album
+嚣张,en,artist,Song,Artist
+嚣张,武汉嗨库文化传媒有限公司,company,Song,Company
+嚣张,国语,lan,Song,Lan
+嚣张,2019-08-07,pub_time,Song,Pub_Time
+别再对我好,别再对我好专辑,album,Song,Album
+别再对我好,Uu,artist,Song,Artist
+别再对我好,鲸鱼向海/新鲜制造,company,Song,Company
+别再对我好,国语,lan,Song,Lan
+别再对我好,2019-12-20,pub_time,Song,Pub_Time
+那女孩对我说,那女孩对我说专辑,album,Song,Album
+那女孩对我说,Uu,artist,Song,Artist
+那女孩对我说,鲸鱼向海（北京）文化有限公司,company,Song,Company
+那女孩对我说,Pop,genre,Song,Genre
+那女孩对我说,国语,lan,Song,Lan
+那女孩对我说,2019-07-02,pub_time,Song,Pub_Time
+野狼disco,野狼disco专辑,album,Song,Album
+野狼disco,宝石Gem,artist,Song,Artist
+野狼disco,北京小唱科技有限公司,company,Song,Company
+野狼disco, Rap/Hip Hop,genre,Song,Genre
+野狼disco,国语,lan,Song,Lan
+野狼disco,2019-09-02,pub_time,Song,Pub_Time
+红色高跟鞋 (《爱情左右》电影主题曲),若你碰到他专辑,album,Song,Album
+红色高跟鞋 (《爱情左右》电影主题曲),蔡健雅,artist,Song,Artist
+红色高跟鞋 (《爱情左右》电影主题曲),亚神音乐,company,Song,Company
+红色高跟鞋 (《爱情左右》电影主题曲),Pop,genre,Song,Genre
+红色高跟鞋 (《爱情左右》电影主题曲),国语,lan,Song,Lan
+红色高跟鞋 (《爱情左右》电影主题曲),2009-08-19,pub_time,Song,Pub_Time
+欧若拉,欧若拉（完整版）专辑,album,Song,Album
+欧若拉,胜屿,artist,Song,Artist
+欧若拉,重低音文化,company,Song,Company
+欧若拉,国语,lan,Song,Lan
+欧若拉,2019-12-03,pub_time,Song,Pub_Time
+勇气,勇气专辑,album,Song,Album
+勇气,棉子,artist,Song,Artist
+勇气,北京中视鸣达文化传媒有限公司,company,Song,Company
+勇气,Pop,genre,Song,Genre
+勇气,国语,lan,Song,Lan
+勇气,2019-12-22,pub_time,Song,Pub_Time
+安和桥,安和桥北专辑,album,Song,Album
+安和桥,宋冬野,artist,Song,Artist
+安和桥,摩登天空,company,Song,Company
+安和桥,Folk,genre,Song,Genre
+安和桥,国语,lan,Song,Lan
+安和桥,2013-08-26,pub_time,Song,Pub_Time
+来自星星,来自星星专辑,album,Song,Album
+来自星星,都智文,artist,Song,Artist
+来自星星,钻碟唱片/新鲜制造,company,Song,Company
+来自星星,国语,lan,Song,Lan
+来自星星,2019-12-24,pub_time,Song,Pub_Time
+你若三冬,你若三冬专辑,album,Song,Album
+你若三冬,阿悠悠,artist,Song,Artist
+你若三冬,重低音文化,company,Song,Company
+你若三冬,国语,lan,Song,Lan
+你若三冬,2019-12-26,pub_time,Song,Pub_Time
+摩天动物园,摩天动物园专辑,album,Song,Album
+摩天动物园,G.E.M. 邓紫棋,artist,Song,Artist
+摩天动物园,G Nation,company,Song,Company
+摩天动物园,Pop,genre,Song,Genre
+摩天动物园,国语,lan,Song,Lan
+摩天动物园,2019-12-27,pub_time,Song,Pub_Time
+说好不哭（with 五月天阿信）,说好不哭（with 五月天阿信）专辑,album,Song,Album
+说好不哭（with 五月天阿信）,周杰伦,artist,Song,Artist
+说好不哭（with 五月天阿信）,杰威尔音乐有限公司,company,Song,Company
+说好不哭（with 五月天阿信）,Pop,genre,Song,Genre
+说好不哭（with 五月天阿信）,国语,lan,Song,Lan
+说好不哭（with 五月天阿信）,2019-09-16,pub_time,Song,Pub_Time
+芒种,二十四节气专辑,album,Song,Album
+芒种,音阙诗听,artist,Song,Artist
+芒种,赵方婧,artist,Song,Artist
+芒种,独立乐,company,Song,Company
+芒种,国语,lan,Song,Lan
+芒种,2020-04-04,pub_time,Song,Pub_Time
+一生与你擦肩而过,一生与你擦肩而过专辑,album,Song,Album
+一生与你擦肩而过,阿悠悠,artist,Song,Artist
+一生与你擦肩而过,重低音（广州）文化传播有限公司,company,Song,Company
+一生与你擦肩而过,Pop,genre,Song,Genre
+一生与你擦肩而过,国语,lan,Song,Lan
+一生与你擦肩而过,2019-11-07,pub_time,Song,Pub_Time
+清新的小女孩（For Ma）,清新的小女孩（For Ma）专辑,album,Song,Album
+清新的小女孩（For Ma）,July Tun,artist,Song,Artist
+清新的小女孩（For Ma）,精彩光年,company,Song,Company
+清新的小女孩（For Ma）,,lan,Song,Lan
+清新的小女孩（For Ma）,2019-02-25,pub_time,Song,Pub_Time
+你的酒馆对我打了烊,你的酒馆对我打了烊专辑,album,Song,Album
+你的酒馆对我打了烊,陈雪凝,artist,Song,Artist
+你的酒馆对我打了烊,少城时代,company,Song,Company
+你的酒馆对我打了烊,国语,lan,Song,Lan
+你的酒馆对我打了烊,2019-02-19,pub_time,Song,Pub_Time
+这一生关于你的风景,这一生关于你的风景专辑,album,Song,Album
+这一生关于你的风景,枯木逢春,artist,Song,Artist
+这一生关于你的风景,极韵文化,company,Song,Company
+这一生关于你的风景,国语,lan,Song,Lan
+这一生关于你的风景,2019-03-30,pub_time,Song,Pub_Time
+年少有为,耳朵专辑,album,Song,Album
+年少有为,李荣浩,artist,Song,Artist
+年少有为,华纳唱片,company,Song,Company
+年少有为,Pop,genre,Song,Genre
+年少有为,国语,lan,Song,Lan
+年少有为,2018-10-17,pub_time,Song,Pub_Time
+一个人挺好,一个人挺好专辑,album,Song,Album
+一个人挺好,孟颖,artist,Song,Artist
+一个人挺好,乐巢文化,company,Song,Company
+一个人挺好,Pop,genre,Song,Genre
+一个人挺好,国语,lan,Song,Lan
+一个人挺好,2019-12-24,pub_time,Song,Pub_Time
+光年之外 (《太空旅客（Passengers）》电影中国区主题曲),光年之外专辑,album,Song,Album
+光年之外 (《太空旅客（Passengers）》电影中国区主题曲),G.E.M. 邓紫棋,artist,Song,Artist
+光年之外 (《太空旅客（Passengers）》电影中国区主题曲),蜂鸟音乐,company,Song,Company
+光年之外 (《太空旅客（Passengers）》电影中国区主题曲),Soundtrack,genre,Song,Genre
+光年之外 (《太空旅客（Passengers）》电影中国区主题曲),国语,lan,Song,Lan
+光年之外 (《太空旅客（Passengers）》电影中国区主题曲),2016-12-30,pub_time,Song,Pub_Time
+我是如此相信 (《天火》电影主题曲),我是如此相信专辑,album,Song,Album
+我是如此相信 (《天火》电影主题曲),周杰伦,artist,Song,Artist
+我是如此相信 (《天火》电影主题曲),杰威尔音乐有限公司,company,Song,Company
+我是如此相信 (《天火》电影主题曲),Pop,genre,Song,Genre
+我是如此相信 (《天火》电影主题曲),国语,lan,Song,Lan
+我是如此相信 (《天火》电影主题曲),2019-12-15,pub_time,Song,Pub_Time
+晴天,叶惠美专辑,album,Song,Album
+晴天,周杰伦,artist,Song,Artist
+晴天,杰威尔音乐有限公司,company,Song,Company
+晴天,Pop,genre,Song,Genre
+晴天,国语,lan,Song,Lan
+晴天,2003-07-31,pub_time,Song,Pub_Time
+处处吻,电光幻影专辑,album,Song,Album
+处处吻,杨千嬅,artist,Song,Artist
+处处吻,金牌大风,company,Song,Company
+处处吻,Pop,genre,Song,Genre
+处处吻, 粤语,lan,Song,Lan
+处处吻,2004-12-01,pub_time,Song,Pub_Time
+绿色,绿色专辑,album,Song,Album
+绿色,陈雪凝,artist,Song,Artist
+绿色,少城时代,company,Song,Company
+绿色,Pop,genre,Song,Genre
+绿色,国语,lan,Song,Lan
+绿色,2019-02-14,pub_time,Song,Pub_Time
+十年 (《明年今日》国语版|《隐婚男女》电影插曲|《摆渡人》电影插曲),黑白灰专辑,album,Song,Album
+十年 (《明年今日》国语版|《隐婚男女》电影插曲|《摆渡人》电影插曲),陈奕迅,artist,Song,Artist
+十年 (《明年今日》国语版|《隐婚男女》电影插曲|《摆渡人》电影插曲),英皇唱片,company,Song,Company
+十年 (《明年今日》国语版|《隐婚男女》电影插曲|《摆渡人》电影插曲),Pop,genre,Song,Genre
+十年 (《明年今日》国语版|《隐婚男女》电影插曲|《摆渡人》电影插曲),国语,lan,Song,Lan
+十年 (《明年今日》国语版|《隐婚男女》电影插曲|《摆渡人》电影插曲),2003-04-15,pub_time,Song,Pub_Time
+体面 (《前任3：再见前任》电影插曲),体面专辑,album,Song,Album
+体面 (《前任3：再见前任》电影插曲),于文文,artist,Song,Artist
+体面 (《前任3：再见前任》电影插曲),华谊音乐,company,Song,Company
+体面 (《前任3：再见前任》电影插曲),Pop,genre,Song,Genre
+体面 (《前任3：再见前任》电影插曲),国语,lan,Song,Lan
+体面 (《前任3：再见前任》电影插曲),2017-12-25,pub_time,Song,Pub_Time
+春娇与志明,春娇与志明专辑,album,Song,Album
+春娇与志明,街道办GDC,artist,Song,Artist
+春娇与志明,欧阳耀莹,artist,Song,Artist
+春娇与志明,腾讯音乐人,company,Song,Company
+春娇与志明, Rap/Hip Hop,genre,Song,Genre
+春娇与志明, 粤语,lan,Song,Lan
+春娇与志明,2017-06-25,pub_time,Song,Pub_Time
+孟婆的碗,A&B专辑,album,Song,Album
+孟婆的碗,魏佳艺,artist,Song,Artist
+孟婆的碗,北京市百艺星图文化传播有限公司,company,Song,Company
+孟婆的碗,Pop,genre,Song,Genre
+孟婆的碗,国语,lan,Song,Lan
+孟婆的碗,2017-09-07,pub_time,Song,Pub_Time
+来自天堂的魔鬼,新的心跳专辑,album,Song,Album
+来自天堂的魔鬼,G.E.M. 邓紫棋,artist,Song,Artist
+来自天堂的魔鬼,蜂鸟音乐,company,Song,Company
+来自天堂的魔鬼,Pop,genre,Song,Genre
+来自天堂的魔鬼,国语,lan,Song,Lan
+来自天堂的魔鬼,2015-11-06,pub_time,Song,Pub_Time
+告白气球,周杰伦的床边故事专辑,album,Song,Album
+告白气球,周杰伦,artist,Song,Artist
+告白气球,杰威尔音乐有限公司,company,Song,Company
+告白气球,R&B,genre,Song,Genre
+告白气球,国语,lan,Song,Lan
+告白气球,2016-06-24,pub_time,Song,Pub_Time
+缘分一道桥 (《长城》电影片尾曲),A.I. 爱专辑,album,Song,Album
+缘分一道桥 (《长城》电影片尾曲),王力宏,artist,Song,Artist
+缘分一道桥 (《长城》电影片尾曲),谭维维,artist,Song,Artist
+缘分一道桥 (《长城》电影片尾曲),宏声音乐,company,Song,Company
+缘分一道桥 (《长城》电影片尾曲),Pop,genre,Song,Genre
+缘分一道桥 (《长城》电影片尾曲),国语,lan,Song,Lan
+缘分一道桥 (《长城》电影片尾曲),2017-12-11,pub_time,Song,Pub_Time
+聊表心意,尘专辑,album,Song,Album
+聊表心意,薛之谦,artist,Song,Artist
+聊表心意,刘惜君,artist,Song,Artist
+聊表心意,华宇世博,company,Song,Company
+聊表心意,Pop,genre,Song,Genre
+聊表心意,国语,lan,Song,Lan
+聊表心意,2019-12-27,pub_time,Song,Pub_Time
+配合,尘专辑,album,Song,Album
+配合,薛之谦,artist,Song,Artist
+配合,华宇世博,company,Song,Company
+配合,Pop,genre,Song,Genre
+配合,国语,lan,Song,Lan
+配合,2019-12-27,pub_time,Song,Pub_Time
+七里香,七里香专辑,album,Song,Album
+七里香,周杰伦,artist,Song,Artist
+七里香,杰威尔音乐有限公司,company,Song,Company
+七里香,Pop,genre,Song,Genre
+七里香,国语,lan,Song,Lan
+七里香,2004-08-03,pub_time,Song,Pub_Time
+好几年,好几年专辑,album,Song,Album
+好几年,刘心,artist,Song,Artist
+好几年,YuGe音乐,company,Song,Company
+好几年,Pop,genre,Song,Genre
+好几年,国语,lan,Song,Lan
+好几年,2018-06-05,pub_time,Song,Pub_Time
+野狼Disco（feat.陈伟霆）,野狼Disco（feat.陈伟霆）专辑,album,Song,Album
+野狼Disco（feat.陈伟霆）,宝石Gem,artist,Song,Artist
+野狼Disco（feat.陈伟霆）,陈伟霆,artist,Song,Artist
+野狼Disco（feat.陈伟霆）,立风计划,company,Song,Company
+野狼Disco（feat.陈伟霆）, Rap/Hip Hop,genre,Song,Genre
+野狼Disco（feat.陈伟霆）,国语,lan,Song,Lan
+野狼Disco（feat.陈伟霆）,2019-10-15,pub_time,Song,Pub_Time
+Fly Away,摩天动物园专辑,album,Song,Album
+Fly Away,G.E.M. 邓紫棋,artist,Song,Artist
+Fly Away,G Nation,company,Song,Company
+Fly Away,Pop,genre,Song,Genre
+Fly Away,国语,lan,Song,Lan
+Fly Away,2019-12-27,pub_time,Song,Pub_Time
+牵丝戏,牵丝戏专辑,album,Song,Album
+牵丝戏,银临,artist,Song,Artist
+牵丝戏,Aki阿杰,artist,Song,Artist
+牵丝戏,独立发行,company,Song,Company
+牵丝戏,Pop,genre,Song,Genre
+牵丝戏,国语,lan,Song,Lan
+牵丝戏,2015-01-01,pub_time,Song,Pub_Time
+画 (Live Piano Session Ⅱ),画(Live Piano Session Ⅱ)专辑,album,Song,Album
+画 (Live Piano Session Ⅱ),G.E.M. 邓紫棋,artist,Song,Artist
+画 (Live Piano Session Ⅱ),蜂鸟音乐,company,Song,Company
+画 (Live Piano Session Ⅱ),Pop,genre,Song,Genre
+画 (Live Piano Session Ⅱ),国语,lan,Song,Lan
+画 (Live Piano Session Ⅱ),2016-05-16,pub_time,Song,Pub_Time
+遇见 (《向左走，向右走》电影主题曲),这一刻专辑,album,Song,Album
+遇见 (《向左走，向右走》电影主题曲),孙燕姿,artist,Song,Artist
+遇见 (《向左走，向右走》电影主题曲),华纳唱片,company,Song,Company
+遇见 (《向左走，向右走》电影主题曲),Pop,genre,Song,Genre
+遇见 (《向左走，向右走》电影主题曲),国语,lan,Song,Lan
+遇见 (《向左走，向右走》电影主题曲),2003-08-22,pub_time,Song,Pub_Time
+说散就散 (,说散就散("前任3:再见前任"电影主题曲)专辑,album,Song,Album
+说散就散 (,袁娅维,artist,Song,Artist
+说散就散 (,华纳唱片,company,Song,Company
+说散就散 (,Pop,genre,Song,Genre
+说散就散 (,国语,lan,Song,Lan
+说散就散 (,2017-12-22,pub_time,Song,Pub_Time
+像鱼,像鱼专辑,album,Song,Album
+像鱼,王贰浪,artist,Song,Artist
+像鱼,伯音时代,company,Song,Company
+像鱼,Pop,genre,Song,Genre
+像鱼,国语,lan,Song,Lan
+像鱼,2018-12-11,pub_time,Song,Pub_Time
+你笑起来真好看,你笑起来真好看专辑,album,Song,Album
+你笑起来真好看,李昕融,artist,Song,Artist
+你笑起来真好看,樊桐舟,artist,Song,Artist
+你笑起来真好看,李凯稠,artist,Song,Artist
+你笑起来真好看,北京乐海飞声文化发展有限公司,company,Song,Company
+你笑起来真好看,国语,lan,Song,Lan
+你笑起来真好看,2019-04-24,pub_time,Song,Pub_Time
+一曲相思,一曲相思专辑,album,Song,Album
+一曲相思,半阳,artist,Song,Artist
+一曲相思,坚诚文化,company,Song,Company
+一曲相思,Pop,genre,Song,Genre
+一曲相思,国语,lan,Song,Lan
+一曲相思,2018-09-21,pub_time,Song,Pub_Time
+可不可以,可不可以专辑,album,Song,Album
+可不可以,张紫豪,artist,Song,Artist
+可不可以,恬音文化,company,Song,Company
+可不可以,Pop,genre,Song,Genre
+可不可以,国语,lan,Song,Lan
+可不可以,2018-05-03,pub_time,Song,Pub_Time
+暗示分离,暗示分离专辑,album,Song,Album
+暗示分离,en,artist,Song,Artist
+暗示分离,北京亿格艾科技有限公司,company,Song,Company
+暗示分离,Pop,genre,Song,Genre
+暗示分离,国语,lan,Song,Lan
+暗示分离,2019-08-23,pub_time,Song,Pub_Time
+Faded,Faded专辑,album,Song,Album
+Faded,Alan Walker,artist,Song,Artist
+Faded,Iselin Solheim,artist,Song,Artist
+Faded,索尼音乐,company,Song,Company
+Faded,Dance,genre,Song,Genre
+Faded, 英语,lan,Song,Lan
+Faded,2015-12-04,pub_time,Song,Pub_Time
+好几年（完整版）,好几年专辑,album,Song,Album
+好几年（完整版）,好听的花,artist,Song,Artist
+好几年（完整版）,海豚音乐,company,Song,Company
+好几年（完整版）,国语,lan,Song,Lan
+好几年（完整版）,2019-12-02,pub_time,Song,Pub_Time
+山楂树の恋,山楂树の恋专辑,album,Song,Album
+山楂树の恋,程jiajia,artist,Song,Artist
+山楂树の恋,坚诚文化,company,Song,Company
+山楂树の恋,Pop,genre,Song,Genre
+山楂树の恋,国语,lan,Song,Lan
+山楂树の恋,2019-08-08,pub_time,Song,Pub_Time
+稻香,魔杰座专辑,album,Song,Album
+稻香,周杰伦,artist,Song,Artist
+稻香,杰威尔音乐有限公司,company,Song,Company
+稻香,Pop,genre,Song,Genre
+稻香,国语,lan,Song,Lan
+稻香,2008-10-15,pub_time,Song,Pub_Time
+等你下课 (with 杨瑞代),等你下课专辑,album,Song,Album
+等你下课 (with 杨瑞代),周杰伦,artist,Song,Artist
+等你下课 (with 杨瑞代),杰威尔音乐有限公司,company,Song,Company
+等你下课 (with 杨瑞代),Pop,genre,Song,Genre
+等你下课 (with 杨瑞代),国语,lan,Song,Lan
+等你下课 (with 杨瑞代),2018-01-18,pub_time,Song,Pub_Time
+一路向北 (《头文字D》电影插曲),J III MP3 Player专辑,album,Song,Album
+一路向北 (《头文字D》电影插曲),周杰伦,artist,Song,Artist
+一路向北 (《头文字D》电影插曲),杰威尔音乐有限公司,company,Song,Company
+一路向北 (《头文字D》电影插曲),Pop,genre,Song,Genre
+一路向北 (《头文字D》电影插曲),国语,lan,Song,Lan
+一路向北 (《头文字D》电影插曲),2005-06-24,pub_time,Song,Pub_Time
+圣诞结 (《Lonely Christmas》国语版),七专辑,album,Song,Album
+圣诞结 (《Lonely Christmas》国语版),陈奕迅,artist,Song,Artist
+圣诞结 (《Lonely Christmas》国语版),英皇唱片,company,Song,Company
+圣诞结 (《Lonely Christmas》国语版),Pop,genre,Song,Genre
+圣诞结 (《Lonely Christmas》国语版),国语,lan,Song,Lan
+圣诞结 (《Lonely Christmas》国语版),2003-11-18,pub_time,Song,Pub_Time
+心如止水,心如止水专辑,album,Song,Album
+心如止水,Ice Paper,artist,Song,Artist
+心如止水,绍兴市上虞创新文化传媒有限公司,company,Song,Company
+心如止水,Pop,genre,Song,Genre
+心如止水,国语,lan,Song,Lan
+心如止水,2019-04-18,pub_time,Song,Pub_Time
+Psycho,‘The ReVe Festival’ Finale专辑,album,Song,Album
+Psycho,Red Velvet (레드벨벳),artist,Song,Artist
+Psycho,SM Entertainment,company,Song,Company
+Psycho,Dance,genre,Song,Genre
+Psycho, 韩语,lan,Song,Lan
+Psycho,2019-12-23,pub_time,Song,Pub_Time
+为情所伤,一万个舍不得专辑,album,Song,Album
+为情所伤,庄心妍,artist,Song,Artist
+为情所伤,致力音乐,company,Song,Company
+为情所伤,Pop,genre,Song,Genre
+为情所伤,国语,lan,Song,Lan
+为情所伤,2013-03-15,pub_time,Song,Pub_Time
+悬溺,第二街区专辑,album,Song,Album
+悬溺,葛东琪,artist,Song,Artist
+悬溺,湖南音讯影视传媒有限公司,company,Song,Company
+悬溺,国语,lan,Song,Lan
+悬溺,2019-10-18,pub_time,Song,Pub_Time
+可惜没如果 (《杜鹃之巢》韩剧中文主题曲|《对我而言，可爱的她》韩剧中文片尾曲),新地球专辑,album,Song,Album
+可惜没如果 (《杜鹃之巢》韩剧中文主题曲|《对我而言，可爱的她》韩剧中文片尾曲),林俊杰,artist,Song,Artist
+可惜没如果 (《杜鹃之巢》韩剧中文主题曲|《对我而言，可爱的她》韩剧中文片尾曲),华纳唱片,company,Song,Company
+可惜没如果 (《杜鹃之巢》韩剧中文主题曲|《对我而言，可爱的她》韩剧中文片尾曲),Pop,genre,Song,Genre
+可惜没如果 (《杜鹃之巢》韩剧中文主题曲|《对我而言，可爱的她》韩剧中文片尾曲),国语,lan,Song,Lan
+可惜没如果 (《杜鹃之巢》韩剧中文主题曲|《对我而言，可爱的她》韩剧中文片尾曲),2014-12-27,pub_time,Song,Pub_Time
+云烟成雨 (《我是江小白》动画片尾曲),云烟成雨专辑,album,Song,Album
+云烟成雨 (《我是江小白》动画片尾曲),房东的猫,artist,Song,Artist
+云烟成雨 (《我是江小白》动画片尾曲),鲸鱼向海（北京）文化有限公司,company,Song,Company
+云烟成雨 (《我是江小白》动画片尾曲),Folk,genre,Song,Genre
+云烟成雨 (《我是江小白》动画片尾曲),国语,lan,Song,Lan
+云烟成雨 (《我是江小白》动画片尾曲),2017-10-19,pub_time,Song,Pub_Time
+她很孤独,她很孤独专辑,album,Song,Album
+她很孤独,海伦,artist,Song,Artist
+她很孤独,坚诚文化,company,Song,Company
+她很孤独,国语,lan,Song,Lan
+她很孤独,2019-12-21,pub_time,Song,Pub_Time
+再见只是陌生人,放过自己专辑,album,Song,Album
+再见只是陌生人,庄心妍,artist,Song,Artist
+再见只是陌生人,声响互动音乐（北京）有限公司,company,Song,Company
+再见只是陌生人,Pop,genre,Song,Genre
+再见只是陌生人,国语,lan,Song,Lan
+再见只是陌生人,2015-11-05,pub_time,Song,Pub_Time
+泡沫,Xposed专辑,album,Song,Album
+泡沫,G.E.M. 邓紫棋,artist,Song,Artist
+泡沫,蜂鸟音乐,company,Song,Company
+泡沫,Pop,genre,Song,Genre
+泡沫,国语,lan,Song,Lan
+泡沫,2012-07-05,pub_time,Song,Pub_Time
+海阔天空,乐与怒专辑,album,Song,Album
+海阔天空,BEYOND,artist,Song,Artist
+海阔天空,华纳唱片,company,Song,Company
+海阔天空,Pop,genre,Song,Genre
+海阔天空, 粤语,lan,Song,Lan
+海阔天空,1993-05-01,pub_time,Song,Pub_Time
+那些你很冒险的梦,学不会专辑,album,Song,Album
+那些你很冒险的梦,林俊杰,artist,Song,Artist
+那些你很冒险的梦,华纳唱片,company,Song,Company
+那些你很冒险的梦,Pop,genre,Song,Genre
+那些你很冒险的梦,国语,lan,Song,Lan
+那些你很冒险的梦,2011-12-31,pub_time,Song,Pub_Time
+陪你去流浪,尘专辑,album,Song,Album
+陪你去流浪,薛之谦,artist,Song,Artist
+陪你去流浪,华宇世博,company,Song,Company
+陪你去流浪,Pop,genre,Song,Genre
+陪你去流浪,国语,lan,Song,Lan
+陪你去流浪,2019-12-27,pub_time,Song,Pub_Time
+追光者 (《夏至未至》电视剧插曲),夏至未至 电视剧原声带专辑,album,Song,Album
+追光者 (《夏至未至》电视剧插曲),岑宁儿,artist,Song,Artist
+追光者 (《夏至未至》电视剧插曲),Pop,genre,Song,Genre
+追光者 (《夏至未至》电视剧插曲),国语,lan,Song,Lan
+追光者 (《夏至未至》电视剧插曲),2017-06-16,pub_time,Song,Pub_Time
+空空如也,空空如也专辑,album,Song,Album
+空空如也,胡66,artist,Song,Artist
+空空如也,北京千和世纪文化传播有限公司,company,Song,Company
+空空如也,Pop,genre,Song,Genre
+空空如也,国语,lan,Song,Lan
+空空如也,2017-12-14,pub_time,Song,Pub_Time
+夜空中最亮的星 (《摘星的你》电影主题曲),世界专辑,album,Song,Album
+夜空中最亮的星 (《摘星的你》电影主题曲),逃跑计划,artist,Song,Artist
+夜空中最亮的星 (《摘星的你》电影主题曲),华宇世博,company,Song,Company
+夜空中最亮的星 (《摘星的你》电影主题曲),Rock,genre,Song,Genre
+夜空中最亮的星 (《摘星的你》电影主题曲),国语,lan,Song,Lan
+夜空中最亮的星 (《摘星的你》电影主题曲),2011-12-31,pub_time,Song,Pub_Time
+演员,绅士专辑,album,Song,Album
+演员,薛之谦,artist,Song,Artist
+演员,海蝶音乐,company,Song,Company
+演员,Pop,genre,Song,Genre
+演员,国语,lan,Song,Lan
+演员,2015-06-05,pub_time,Song,Pub_Time
+偏爱 (《仙剑奇侠传3》电视剧插曲),破天荒专辑,album,Song,Album
+偏爱 (《仙剑奇侠传3》电视剧插曲),张芸京,artist,Song,Artist
+偏爱 (《仙剑奇侠传3》电视剧插曲),金牌大风,company,Song,Company
+偏爱 (《仙剑奇侠传3》电视剧插曲),Pop,genre,Song,Genre
+偏爱 (《仙剑奇侠传3》电视剧插曲),国语,lan,Song,Lan
+偏爱 (《仙剑奇侠传3》电视剧插曲),2009-05-08,pub_time,Song,Pub_Time
+修炼爱情,因你而在专辑,album,Song,Album
+修炼爱情,林俊杰,artist,Song,Artist
+修炼爱情,华纳唱片,company,Song,Company
+修炼爱情,Pop,genre,Song,Genre
+修炼爱情,国语,lan,Song,Lan
+修炼爱情,2013-03-13,pub_time,Song,Pub_Time
+青花瓷,我很忙专辑,album,Song,Album
+青花瓷,周杰伦,artist,Song,Artist
+青花瓷,杰威尔音乐有限公司,company,Song,Company
+青花瓷,Pop,genre,Song,Genre
+青花瓷,国语,lan,Song,Lan
+青花瓷,2007-11-02,pub_time,Song,Pub_Time
+溯 (Reverse) feat. 马吟吟,溯 (Reverse) feat. 马吟吟专辑,album,Song,Album
+溯 (Reverse) feat. 马吟吟,CORSAK胡梦周,artist,Song,Artist
+溯 (Reverse) feat. 马吟吟,马吟吟,artist,Song,Artist
+溯 (Reverse) feat. 马吟吟,LIQUID STATE LIMITED,company,Song,Company
+溯 (Reverse) feat. 马吟吟,Electronica,genre,Song,Genre
+溯 (Reverse) feat. 马吟吟,国语,lan,Song,Lan
+溯 (Reverse) feat. 马吟吟,2018-07-27,pub_time,Song,Pub_Time
+最美的期待 (《茧镇奇缘》电视剧片头曲),最美的期待专辑,album,Song,Album
+最美的期待 (《茧镇奇缘》电视剧片头曲),周笔畅,artist,Song,Artist
+最美的期待 (《茧镇奇缘》电视剧片头曲),凤凰鸣众文化,company,Song,Company
+最美的期待 (《茧镇奇缘》电视剧片头曲),Pop,genre,Song,Genre
+最美的期待 (《茧镇奇缘》电视剧片头曲),国语,lan,Song,Lan
+最美的期待 (《茧镇奇缘》电视剧片头曲),2018-02-09,pub_time,Song,Pub_Time
+小小,小小专辑,album,Song,Album
+小小,容祖儿,artist,Song,Artist
+小小,英皇唱片,company,Song,Company
+小小,Pop,genre,Song,Genre
+小小,国语,lan,Song,Lan
+小小,2007-07-06,pub_time,Song,Pub_Time
+环,尘专辑,album,Song,Album
+环,薛之谦,artist,Song,Artist
+环,华宇世博,company,Song,Company
+环,Pop,genre,Song,Genre
+环,国语,lan,Song,Lan
+环,2019-12-27,pub_time,Song,Pub_Time
+一剪梅 (DJ辉总版),一剪梅专辑,album,Song,Album
+一剪梅 (DJ辉总版),王心雅,artist,Song,Artist
+一剪梅 (DJ辉总版),禾信,company,Song,Company
+一剪梅 (DJ辉总版),国语,lan,Song,Lan
+一剪梅 (DJ辉总版),2019-12-20,pub_time,Song,Pub_Time
+浪子回头,卡通人物专辑,album,Song,Album
+浪子回头,茄子蛋,artist,Song,Artist
+浪子回头,KKFarm,company,Song,Company
+浪子回头,Rock,genre,Song,Genre
+浪子回头, 闽南语,lan,Song,Lan
+浪子回头,2017-07-28,pub_time,Song,Pub_Time
+倒数,另一个童话专辑,album,Song,Album
+倒数,G.E.M. 邓紫棋,artist,Song,Artist
+倒数,蜂鸟音乐,company,Song,Company
+倒数,Pop,genre,Song,Genre
+倒数,国语,lan,Song,Lan
+倒数,2018-08-16,pub_time,Song,Pub_Time
+听妈妈的话,依然范特西专辑,album,Song,Album
+听妈妈的话,周杰伦,artist,Song,Artist
+听妈妈的话,杰威尔音乐有限公司,company,Song,Company
+听妈妈的话,Pop,genre,Song,Genre
+听妈妈的话,国语,lan,Song,Lan
+听妈妈的话,2006-09-05,pub_time,Song,Pub_Time
+后来 (《后来的我们》电影彩蛋歌曲),我等你专辑,album,Song,Album
+后来 (《后来的我们》电影彩蛋歌曲),刘若英,artist,Song,Artist
+后来 (《后来的我们》电影彩蛋歌曲),滚石唱片,company,Song,Company
+后来 (《后来的我们》电影彩蛋歌曲),Pop,genre,Song,Genre
+后来 (《后来的我们》电影彩蛋歌曲),国语,lan,Song,Lan
+后来 (《后来的我们》电影彩蛋歌曲),2000-01-07,pub_time,Song,Pub_Time
+知否知否 (《知否知否应是绿肥红瘦》电视剧主题曲),知否知否应是绿肥红瘦 电视剧原声带专辑,album,Song,Album
+知否知否 (《知否知否应是绿肥红瘦》电视剧主题曲),胡夏,artist,Song,Artist
+知否知否 (《知否知否应是绿肥红瘦》电视剧主题曲),郁可唯,artist,Song,Artist
+知否知否 (《知否知否应是绿肥红瘦》电视剧主题曲),青春繁花,company,Song,Company
+知否知否 (《知否知否应是绿肥红瘦》电视剧主题曲),Soundtrack,genre,Song,Genre
+知否知否 (《知否知否应是绿肥红瘦》电视剧主题曲),国语,lan,Song,Lan
+知否知否 (《知否知否应是绿肥红瘦》电视剧主题曲),2019-01-16,pub_time,Song,Pub_Time
+夜曲,十一月的萧邦专辑,album,Song,Album
+夜曲,周杰伦,artist,Song,Artist
+夜曲,杰威尔音乐有限公司,company,Song,Company
+夜曲, Rap/Hip Hop,genre,Song,Genre
+夜曲,国语,lan,Song,Lan
+夜曲,2005-11-01,pub_time,Song,Pub_Time
+烟花易冷,跨时代专辑,album,Song,Album
+烟花易冷,周杰伦,artist,Song,Artist
+烟花易冷,杰威尔音乐有限公司,company,Song,Company
+烟花易冷,Pop,genre,Song,Genre
+烟花易冷,国语,lan,Song,Lan
+烟花易冷,2010-05-18,pub_time,Song,Pub_Time
+刚好遇见你,刚好遇见你专辑,album,Song,Album
+刚好遇见你,李玉刚,artist,Song,Artist
+刚好遇见你,北京丰盈联合文化有限公司,company,Song,Company
+刚好遇见你,Pop,genre,Song,Genre
+刚好遇见你,国语,lan,Song,Lan
+刚好遇见你,2016-11-14,pub_time,Song,Pub_Time
+给我一首歌的时间,魔杰座专辑,album,Song,Album
+给我一首歌的时间,周杰伦,artist,Song,Artist
+给我一首歌的时间,杰威尔音乐有限公司,company,Song,Company
+给我一首歌的时间,R&B,genre,Song,Genre
+给我一首歌的时间,国语,lan,Song,Lan
+给我一首歌的时间,2008-10-15,pub_time,Song,Pub_Time
+我的名字,我的名字专辑,album,Song,Album
+我的名字,焦迈奇,artist,Song,Artist
+我的名字,北京有此山文化传媒有限公司,company,Song,Company
+我的名字,Pop,genre,Song,Genre
+我的名字,国语,lan,Song,Lan
+我的名字,2019-04-29,pub_time,Song,Pub_Time
+像极了,像极了专辑,album,Song,Album
+像极了,永彬Ryan.B,artist,Song,Artist
+像极了,钻碟唱片/新鲜制造,company,Song,Company
+像极了,Pop,genre,Song,Genre
+像极了,国语,lan,Song,Lan
+像极了,2019-11-15,pub_time,Song,Pub_Time
+侧脸,侧脸专辑,album,Song,Album
+侧脸,于果,artist,Song,Artist
+侧脸,大合传媒,company,Song,Company
+侧脸,Pop,genre,Song,Genre
+侧脸,国语,lan,Song,Lan
+侧脸,2018-02-01,pub_time,Song,Pub_Time
+感谢你曾来过,卧龙与酒专辑,album,Song,Album
+感谢你曾来过,Ayo97,artist,Song,Artist
+感谢你曾来过,周思涵,artist,Song,Artist
+感谢你曾来过,芜湖汇音文化传媒有限公司,company,Song,Company
+感谢你曾来过,Pop,genre,Song,Genre
+感谢你曾来过,国语,lan,Song,Lan
+感谢你曾来过,2017-02-12,pub_time,Song,Pub_Time
+That Girl,24 HRS (Deluxe)专辑,album,Song,Album
+That Girl,Olly Murs,artist,Song,Artist
+That Girl,索尼音乐,company,Song,Company
+That Girl,Pop,genre,Song,Genre
+That Girl, 英语,lan,Song,Lan
+That Girl,2016-11-11,pub_time,Song,Pub_Time
+红昭愿,红昭愿专辑,album,Song,Album
+红昭愿,音阙诗听,artist,Song,Artist
+红昭愿,北京千和世纪文化传播有限公司,company,Song,Company
+红昭愿,Pop,genre,Song,Genre
+红昭愿,国语,lan,Song,Lan
+红昭愿,2017-01-18,pub_time,Song,Pub_Time
+遗憾,遗憾专辑,album,Song,Album
+遗憾,王佳杨,artist,Song,Artist
+遗憾,坚诚文化,company,Song,Company
+遗憾,Pop,genre,Song,Genre
+遗憾,国语,lan,Song,Lan
+遗憾,2019-08-22,pub_time,Song,Pub_Time
+忘情牛肉面,忘情牛肉面专辑,album,Song,Album
+忘情牛肉面,马健涛,artist,Song,Artist
+忘情牛肉面,羡然文化,company,Song,Company
+忘情牛肉面,国语,lan,Song,Lan
+忘情牛肉面,2019-12-16,pub_time,Song,Pub_Time
+最近,最近（正式版）专辑,album,Song,Album
+最近,王小帅,artist,Song,Artist
+最近,大酱音乐,company,Song,Company
+最近,Pop,genre,Song,Genre
+最近,国语,lan,Song,Lan
+最近,2019-03-27,pub_time,Song,Pub_Time
+送亲,送亲专辑,album,Song,Album
+送亲,王琪,artist,Song,Artist
+送亲,北京酝星文化有限公司,company,Song,Company
+送亲,国语,lan,Song,Lan
+送亲,2019-10-11,pub_time,Song,Pub_Time
+不谓侠,不谓侠专辑,album,Song,Album
+不谓侠,小阿七,artist,Song,Artist
+不谓侠,启韵传媒,company,Song,Company
+不谓侠,Pop,genre,Song,Genre
+不谓侠,国语,lan,Song,Lan
+不谓侠,2019-11-15,pub_time,Song,Pub_Time
+我走后,我走后专辑,album,Song,Album
+我走后,小咪,artist,Song,Artist
+我走后,天悦华音,company,Song,Company
+我走后,国语,lan,Song,Lan
+我走后,2019-06-10,pub_time,Song,Pub_Time
+这就是爱吗？,很忙专辑,album,Song,Album
+这就是爱吗？,容祖儿,artist,Song,Artist
+这就是爱吗？,英皇唱片,company,Song,Company
+这就是爱吗？,Pop,genre,Song,Genre
+这就是爱吗？,国语,lan,Song,Lan
+这就是爱吗？,2009-08-14,pub_time,Song,Pub_Time
+黄昏,transfer专辑,album,Song,Album
+黄昏,周传雄,artist,Song,Artist
+黄昏,索尼音乐,company,Song,Company
+黄昏,Pop,genre,Song,Genre
+黄昏,国语,lan,Song,Lan
+黄昏,2000-12-25,pub_time,Song,Pub_Time
+把孤独当做晚餐,把孤独当做晚餐专辑,album,Song,Album
+把孤独当做晚餐,井胧,artist,Song,Artist
+把孤独当做晚餐,爱乐文化,company,Song,Company
+把孤独当做晚餐,国语,lan,Song,Lan
+把孤独当做晚餐,2019-08-08,pub_time,Song,Pub_Time
+哈尼宝贝,6415专辑,album,Song,Album
+哈尼宝贝,南征北战NZBZ,artist,Song,Artist
+哈尼宝贝,凤凰鸣众文化,company,Song,Company
+哈尼宝贝,Pop,genre,Song,Genre
+哈尼宝贝,国语,lan,Song,Lan
+哈尼宝贝,2016-11-09,pub_time,Song,Pub_Time
+那个女孩,那个女孩专辑,album,Song,Album
+那个女孩,张泽熙,artist,Song,Artist
+那个女孩,金翼龙唱片,company,Song,Company
+那个女孩,Pop,genre,Song,Genre
+那个女孩,国语,lan,Song,Lan
+那个女孩,2018-08-11,pub_time,Song,Pub_Time
+相思枕,相思枕专辑,album,Song,Album
+相思枕,丫蛋蛋（马启涵）,artist,Song,Artist
+相思枕,腾讯音乐人,company,Song,Company
+相思枕,国语,lan,Song,Lan
+相思枕,2019-12-27,pub_time,Song,Pub_Time
+朋友圈,朋友圈专辑,album,Song,Album
+朋友圈,王珞丹,artist,Song,Artist
+朋友圈,星巢文化,company,Song,Company
+朋友圈,国语,lan,Song,Lan
+朋友圈,2019-12-29,pub_time,Song,Pub_Time
+我的梦 (华为手机主题曲|《为了你我愿意热爱整个世界》影视剧主题曲|《Dream It Possible》中文版),我的梦专辑,album,Song,Album
+我的梦 (华为手机主题曲|《为了你我愿意热爱整个世界》影视剧主题曲|《Dream It Possible》中文版),张靓颖,artist,Song,Artist
+我的梦 (华为手机主题曲|《为了你我愿意热爱整个世界》影视剧主题曲|《Dream It Possible》中文版),少城时代,company,Song,Company
+我的梦 (华为手机主题曲|《为了你我愿意热爱整个世界》影视剧主题曲|《Dream It Possible》中文版),Pop,genre,Song,Genre
+我的梦 (华为手机主题曲|《为了你我愿意热爱整个世界》影视剧主题曲|《Dream It Possible》中文版),国语,lan,Song,Lan
+我的梦 (华为手机主题曲|《为了你我愿意热爱整个世界》影视剧主题曲|《Dream It Possible》中文版),2015-11-26,pub_time,Song,Pub_Time
+这就是爱情,你来 我在专辑,album,Song,Album
+这就是爱情,李代沫,artist,Song,Artist
+这就是爱情,梦响当然,company,Song,Company
+这就是爱情,Pop,genre,Song,Genre
+这就是爱情,国语,lan,Song,Lan
+这就是爱情,2017-11-01,pub_time,Song,Pub_Time
+沙漠骆驼,沙漠骆驼专辑,album,Song,Album
+沙漠骆驼,展展与罗罗,artist,Song,Artist
+沙漠骆驼,坚诚文化,company,Song,Company
+沙漠骆驼,Pop,genre,Song,Genre
+沙漠骆驼,国语,lan,Song,Lan
+沙漠骆驼,2017-06-19,pub_time,Song,Pub_Time
+不能说的秘密 (《不能说的秘密》电影插曲),不能说的秘密 电影原声带专辑,album,Song,Album
+不能说的秘密 (《不能说的秘密》电影插曲),周杰伦,artist,Song,Artist
+不能说的秘密 (《不能说的秘密》电影插曲),杰威尔音乐有限公司,company,Song,Company
+不能说的秘密 (《不能说的秘密》电影插曲),Pop,genre,Song,Genre
+不能说的秘密 (《不能说的秘密》电影插曲),国语,lan,Song,Lan
+不能说的秘密 (《不能说的秘密》电影插曲),2007-08-13,pub_time,Song,Pub_Time
+搁浅,七里香专辑,album,Song,Album
+搁浅,周杰伦,artist,Song,Artist
+搁浅,杰威尔音乐有限公司,company,Song,Company
+搁浅,Pop,genre,Song,Genre
+搁浅,国语,lan,Song,Lan
+搁浅,2004-08-03,pub_time,Song,Pub_Time
+彩虹 (《命运呼叫转移》电影主题曲),我很忙专辑,album,Song,Album
+彩虹 (《命运呼叫转移》电影主题曲),周杰伦,artist,Song,Artist
+彩虹 (《命运呼叫转移》电影主题曲),杰威尔音乐有限公司,company,Song,Company
+彩虹 (《命运呼叫转移》电影主题曲),Pop,genre,Song,Genre
+彩虹 (《命运呼叫转移》电影主题曲),国语,lan,Song,Lan
+彩虹 (《命运呼叫转移》电影主题曲),2007-11-02,pub_time,Song,Pub_Time
+说谎 (《杜拉拉升职记》电视剧插曲|《针尖上的天使》电影主题曲),感官/世界专辑,album,Song,Album
+说谎 (《杜拉拉升职记》电视剧插曲|《针尖上的天使》电影主题曲),林宥嘉,artist,Song,Artist
+说谎 (《杜拉拉升职记》电视剧插曲|《针尖上的天使》电影主题曲),华研国际音乐,company,Song,Company
+说谎 (《杜拉拉升职记》电视剧插曲|《针尖上的天使》电影主题曲),Pop,genre,Song,Genre
+说谎 (《杜拉拉升职记》电视剧插曲|《针尖上的天使》电影主题曲),国语,lan,Song,Lan
+说谎 (《杜拉拉升职记》电视剧插曲|《针尖上的天使》电影主题曲),2009-10-30,pub_time,Song,Pub_Time
+很久以后 (《可不可以，你也刚好喜欢我》电影主题曲),摩天动物园专辑,album,Song,Album
+很久以后 (《可不可以，你也刚好喜欢我》电影主题曲),G.E.M. 邓紫棋,artist,Song,Artist
+很久以后 (《可不可以，你也刚好喜欢我》电影主题曲),G Nation,company,Song,Company
+很久以后 (《可不可以，你也刚好喜欢我》电影主题曲),Pop,genre,Song,Genre
+很久以后 (《可不可以，你也刚好喜欢我》电影主题曲),国语,lan,Song,Lan
+很久以后 (《可不可以，你也刚好喜欢我》电影主题曲),2019-12-27,pub_time,Song,Pub_Time
+冷风摇 (烟嗓版),冷风摇(烟嗓版)专辑,album,Song,Album
+冷风摇 (烟嗓版),一修,artist,Song,Artist
+冷风摇 (烟嗓版),独立发行,company,Song,Company
+冷风摇 (烟嗓版),Pop,genre,Song,Genre
+冷风摇 (烟嗓版),国语,lan,Song,Lan
+冷风摇 (烟嗓版),2019-12-20,pub_time,Song,Pub_Time
+简单爱,范特西专辑,album,Song,Album
+简单爱,周杰伦,artist,Song,Artist
+简单爱,杰威尔音乐有限公司,company,Song,Company
+简单爱,R&B,genre,Song,Genre
+简单爱,国语,lan,Song,Lan
+简单爱,2001-09-20,pub_time,Song,Pub_Time
+雅俗共赏,青年晚报专辑,album,Song,Album
+雅俗共赏,许嵩,artist,Song,Artist
+雅俗共赏,海蝶音乐,company,Song,Company
+雅俗共赏,Pop,genre,Song,Genre
+雅俗共赏,国语,lan,Song,Lan
+雅俗共赏,2016-06-27,pub_time,Song,Pub_Time
+末日长河,温差感专辑,album,Song,Album
+末日长河,易烊千玺,artist,Song,Artist
+末日长河,北京时代峰峻文化艺术发展有限公司,company,Song,Company
+末日长河,Pop,genre,Song,Genre
+末日长河,国语,lan,Song,Lan
+末日长河,2019-12-20,pub_time,Song,Pub_Time
+浪人琵琶,浪人琵琶专辑,album,Song,Album
+浪人琵琶,胡66,artist,Song,Artist
+浪人琵琶,北京亿格艾科技有限公司,company,Song,Company
+浪人琵琶,Pop,genre,Song,Genre
+浪人琵琶,国语,lan,Song,Lan
+浪人琵琶,2018-05-28,pub_time,Song,Pub_Time
+余情未了,余情未了专辑,album,Song,Album
+余情未了,魏新雨,artist,Song,Artist
+余情未了,北京恒青文化传媒有限公司,company,Song,Company
+余情未了,国语,lan,Song,Lan
+余情未了,2019-05-21,pub_time,Song,Pub_Time
+断了的弦 (《寻找周杰伦》电影插曲),寻找周杰伦专辑,album,Song,Album
+断了的弦 (《寻找周杰伦》电影插曲),周杰伦,artist,Song,Artist
+断了的弦 (《寻找周杰伦》电影插曲),杰威尔音乐有限公司,company,Song,Company
+断了的弦 (《寻找周杰伦》电影插曲),Pop,genre,Song,Genre
+断了的弦 (《寻找周杰伦》电影插曲),国语,lan,Song,Lan
+断了的弦 (《寻找周杰伦》电影插曲),2003-11-01,pub_time,Song,Pub_Time
+曾经的你 (《夏洛特烦恼》电影插曲),每一刻都是崭新的专辑,album,Song,Album
+曾经的你 (《夏洛特烦恼》电影插曲),许巍,artist,Song,Artist
+曾经的你 (《夏洛特烦恼》电影插曲),金牌大风,company,Song,Company
+曾经的你 (《夏洛特烦恼》电影插曲),Rock,genre,Song,Genre
+曾经的你 (《夏洛特烦恼》电影插曲),国语,lan,Song,Lan
+曾经的你 (《夏洛特烦恼》电影插曲),2004-12-01,pub_time,Song,Pub_Time
+余年 (《庆余年》电视剧片尾曲),余年专辑,album,Song,Album
+余年 (《庆余年》电视剧片尾曲),肖战,artist,Song,Artist
+余年 (《庆余年》电视剧片尾曲),北京仁溪文化传播有限公司,company,Song,Company
+余年 (《庆余年》电视剧片尾曲),Soundtrack,genre,Song,Genre
+余年 (《庆余年》电视剧片尾曲),国语,lan,Song,Lan
+余年 (《庆余年》电视剧片尾曲),2019-11-29,pub_time,Song,Pub_Time
+东西,东西专辑,album,Song,Album
+东西,林俊呈,artist,Song,Artist
+东西,坚诚文化,company,Song,Company
+东西,Pop,genre,Song,Genre
+东西,国语,lan,Song,Lan
+东西,2018-09-21,pub_time,Song,Pub_Time
+凉凉 (《三生三世十里桃花》电视剧片尾曲),三生三世十里桃花 电视剧原声专辑专辑,album,Song,Album
+凉凉 (《三生三世十里桃花》电视剧片尾曲),杨宗纬,artist,Song,Artist
+凉凉 (《三生三世十里桃花》电视剧片尾曲),张碧晨,artist,Song,Artist
+凉凉 (《三生三世十里桃花》电视剧片尾曲),上海希瓜音乐制作有限公司,company,Song,Company
+凉凉 (《三生三世十里桃花》电视剧片尾曲),Soundtrack,genre,Song,Genre
+凉凉 (《三生三世十里桃花》电视剧片尾曲),国语,lan,Song,Lan
+凉凉 (《三生三世十里桃花》电视剧片尾曲),2017-02-18,pub_time,Song,Pub_Time
+谁 (DJ何鹏版),谁专辑,album,Song,Album
+谁 (DJ何鹏版),雪十郎,artist,Song,Artist
+谁 (DJ何鹏版),启韵传媒,company,Song,Company
+谁 (DJ何鹏版),国语,lan,Song,Lan
+谁 (DJ何鹏版),2019-08-20,pub_time,Song,Pub_Time
+Monsters,Monsters专辑,album,Song,Album
+Monsters,Katie Sky,artist,Song,Artist
+Monsters,启韵传媒,company,Song,Company
+Monsters,Singer Songwriter,genre,Song,Genre
+Monsters, 英语,lan,Song,Lan
+Monsters,2014-05-11,pub_time,Song,Pub_Time
+处处吻 (正式版),处处吻 (正式版)专辑,album,Song,Album
+处处吻 (正式版),于梓贝,artist,Song,Artist
+处处吻 (正式版),独立发行,company,Song,Company
+处处吻 (正式版), 粤语,lan,Song,Lan
+处处吻 (正式版),2019-12-31,pub_time,Song,Pub_Time
+Monsters (加长版),Katie Sky,artist,Song,Artist
+Monsters (加长版),禾信,company,Song,Company
+Monsters (加长版), 英语,lan,Song,Lan
+念旧,念旧专辑,album,Song,Album
+念旧,阿悠悠,artist,Song,Artist
+念旧,重低音文化,company,Song,Company
+念旧,国语,lan,Song,Lan
+念旧,2019-08-25,pub_time,Song,Pub_Time
+红玫瑰 (《白玫瑰》国语版),认了吧专辑,album,Song,Album
+红玫瑰 (《白玫瑰》国语版),陈奕迅,artist,Song,Artist
+红玫瑰 (《白玫瑰》国语版),环球唱片,company,Song,Company
+红玫瑰 (《白玫瑰》国语版),Pop,genre,Song,Genre
+红玫瑰 (《白玫瑰》国语版),国语,lan,Song,Lan
+红玫瑰 (《白玫瑰》国语版),2007-04-24,pub_time,Song,Pub_Time
+请先说你好,请先说你好专辑,album,Song,Album
+请先说你好,贺一航,artist,Song,Artist
+请先说你好,扭湃哇音乐,company,Song,Company
+请先说你好,Pop,genre,Song,Genre
+请先说你好,国语,lan,Song,Lan
+请先说你好,2018-08-29,pub_time,Song,Pub_Time
+最长的电影,我很忙专辑,album,Song,Album
+最长的电影,周杰伦,artist,Song,Artist
+最长的电影,杰威尔音乐有限公司,company,Song,Company
+最长的电影,Pop,genre,Song,Genre
+最长的电影,国语,lan,Song,Lan
+最长的电影,2007-11-02,pub_time,Song,Pub_Time
+生僻字,生僻字专辑,album,Song,Album
+生僻字,陈柯宇,artist,Song,Artist
+生僻字,觉得文化,company,Song,Company
+生僻字,Pop,genre,Song,Genre
+生僻字,国语,lan,Song,Lan
+生僻字,2017-11-14,pub_time,Song,Pub_Time
+好想好想你,摩天动物园专辑,album,Song,Album
+好想好想你,G.E.M. 邓紫棋,artist,Song,Artist
+好想好想你,G Nation,company,Song,Company
+好想好想你,Pop,genre,Song,Genre
+好想好想你,国语,lan,Song,Lan
+好想好想你,2019-12-27,pub_time,Song,Pub_Time
+All Falls Down,All Falls Down专辑,album,Song,Album
+All Falls Down,Alan Walker,artist,Song,Artist
+All Falls Down,Noah Cyrus,artist,Song,Artist
+All Falls Down,Digital Farm Animals,artist,Song,Artist
+All Falls Down,Juliander,artist,Song,Artist
+All Falls Down,索尼音乐,company,Song,Company
+All Falls Down,Pop,genre,Song,Genre
+All Falls Down, 英语,lan,Song,Lan
+All Falls Down,2017-10-27,pub_time,Song,Pub_Time
+冬眠,冬眠专辑,album,Song,Album
+冬眠,司南,artist,Song,Artist
+冬眠,动听音乐,company,Song,Company
+冬眠,Pop,genre,Song,Genre
+冬眠,国语,lan,Song,Lan
+冬眠,2019-10-28,pub_time,Song,Pub_Time
+说好的幸福呢,魔杰座专辑,album,Song,Album
+说好的幸福呢,周杰伦,artist,Song,Artist
+说好的幸福呢,杰威尔音乐有限公司,company,Song,Company
+说好的幸福呢,Pop,genre,Song,Genre
+说好的幸福呢,国语,lan,Song,Lan
+说好的幸福呢,2008-10-15,pub_time,Song,Pub_Time
+BINGBIAN病变 (女声版),BINGBIAN病变（女声版）专辑,album,Song,Album
+BINGBIAN病变 (女声版),鞠文娴,artist,Song,Artist
+BINGBIAN病变 (女声版),苏州文弘,company,Song,Company
+BINGBIAN病变 (女声版),Pop,genre,Song,Genre
+BINGBIAN病变 (女声版),国语,lan,Song,Lan
+BINGBIAN病变 (女声版),2018-01-27,pub_time,Song,Pub_Time
+爱的飞行日记,跨时代专辑,album,Song,Album
+爱的飞行日记,周杰伦,artist,Song,Artist
+爱的飞行日记,杨瑞代,artist,Song,Artist
+爱的飞行日记,杰威尔音乐有限公司,company,Song,Company
+爱的飞行日记,Pop,genre,Song,Genre
+爱的飞行日记,国语,lan,Song,Lan
+爱的飞行日记,2010-05-18,pub_time,Song,Pub_Time
+赤伶,赤伶专辑,album,Song,Album
+赤伶,HITA,artist,Song,Artist
+赤伶,南京米漫文化传媒有限责任公司,company,Song,Company
+赤伶,Pop,genre,Song,Genre
+赤伶,国语,lan,Song,Lan
+赤伶,2018-09-27,pub_time,Song,Pub_Time
+老友记,麻雀专辑,album,Song,Album
+老友记,李荣浩,artist,Song,Artist
+老友记,一样音乐,company,Song,Company
+老友记,Pop,genre,Song,Genre
+老友记,国语,lan,Song,Lan
+老友记,2020-07-30,pub_time,Song,Pub_Time
+太阳 (正式版),太阳专辑,album,Song,Album
+太阳 (正式版),曲肖冰,artist,Song,Artist
+太阳 (正式版),北京亿格艾科技有限公司,company,Song,Company
+太阳 (正式版),Pop,genre,Song,Genre
+太阳 (正式版),国语,lan,Song,Lan
+太阳 (正式版),2019-09-24,pub_time,Song,Pub_Time
+萤火,摩天动物园专辑,album,Song,Album
+萤火,G.E.M. 邓紫棋,artist,Song,Artist
+萤火,G Nation,company,Song,Company
+萤火,Pop,genre,Song,Genre
+萤火,国语,lan,Song,Lan
+萤火,2019-12-27,pub_time,Song,Pub_Time
+莫问归期,莫问归期专辑,album,Song,Album
+莫问归期,蒋雪儿,artist,Song,Artist
+莫问归期,青风音乐Cheerful Music,company,Song,Company
+莫问归期,国语,lan,Song,Lan
+莫问归期,2019-08-22,pub_time,Song,Pub_Time
+黎明前的黑暗 (女声版),黎明前的黑暗 (女声版)专辑,album,Song,Album
+黎明前的黑暗 (女声版),NCF-艾力,artist,Song,Artist
+黎明前的黑暗 (女声版),北京酝星文化有限公司,company,Song,Company
+黎明前的黑暗 (女声版),国语,lan,Song,Lan
+黎明前的黑暗 (女声版),2019-03-26,pub_time,Song,Pub_Time
+百花香,百花香专辑,album,Song,Album
+百花香,魏新雨,artist,Song,Artist
+百花香,北京恒青文化传媒有限公司,company,Song,Company
+百花香,国语,lan,Song,Lan
+百花香,2019-09-26,pub_time,Song,Pub_Time
+那女孩对我说 (正式版),那女孩对我说专辑,album,Song,Album
+那女孩对我说 (正式版),小阿七,artist,Song,Artist
+那女孩对我说 (正式版),北京亿格艾科技有限公司,company,Song,Company
+那女孩对我说 (正式版),Pop,genre,Song,Genre
+那女孩对我说 (正式版),国语,lan,Song,Lan
+那女孩对我说 (正式版),2019-09-28,pub_time,Song,Pub_Time
+渡我不渡她,渡我不渡她专辑,album,Song,Album
+渡我不渡她,孤独诗人,artist,Song,Artist
+渡我不渡她,爱乐文化,company,Song,Company
+渡我不渡她,Pop,genre,Song,Genre
+渡我不渡她,国语,lan,Song,Lan
+渡我不渡她,2019-01-18,pub_time,Song,Pub_Time
+多年以后,多年以后专辑,album,Song,Album
+多年以后,大欢,artist,Song,Artist
+多年以后,声响互动音乐（北京）有限公司,company,Song,Company
+多年以后,Pop,genre,Song,Genre
+多年以后,国语,lan,Song,Lan
+多年以后,2019-05-21,pub_time,Song,Pub_Time
+依然睡公主,摩天动物园专辑,album,Song,Album
+依然睡公主,G.E.M. 邓紫棋,artist,Song,Artist
+依然睡公主,G Nation,company,Song,Company
+依然睡公主,Pop,genre,Song,Genre
+依然睡公主,国语,lan,Song,Lan
+依然睡公主,2019-12-27,pub_time,Song,Pub_Time
+入梦 (Intro),温差感专辑,album,Song,Album
+入梦 (Intro),易烊千玺,artist,Song,Artist
+入梦 (Intro),北京时代峰峻文化艺术发展有限公司,company,Song,Company
+入梦 (Intro),Pop,genre,Song,Genre
+入梦 (Intro), 其他,lan,Song,Lan
+入梦 (Intro),2019-12-20,pub_time,Song,Pub_Time
+沧海一声笑 (国韵版) (《新笑傲江湖》手游主题曲),沧海一声笑 · 国韵版专辑,album,Song,Album
+沧海一声笑 (国韵版) (《新笑傲江湖》手游主题曲),肖战,artist,Song,Artist
+沧海一声笑 (国韵版) (《新笑傲江湖》手游主题曲),博轩音乐,company,Song,Company
+沧海一声笑 (国韵版) (《新笑傲江湖》手游主题曲),Soundtrack,genre,Song,Genre
+沧海一声笑 (国韵版) (《新笑傲江湖》手游主题曲),国语,lan,Song,Lan
+沧海一声笑 (国韵版) (《新笑傲江湖》手游主题曲),2019-12-24,pub_time,Song,Pub_Time
+Dance Monkey,The Kids Are Coming专辑,album,Song,Album
+Dance Monkey,Tones and I,artist,Song,Artist
+Dance Monkey,华纳唱片,company,Song,Company
+Dance Monkey,Alternative,genre,Song,Genre
+Dance Monkey, 英语,lan,Song,Lan
+Dance Monkey,2019-08-29,pub_time,Song,Pub_Time
+生而为人,生而为人专辑,album,Song,Album
+生而为人,尚士达,artist,Song,Artist
+生而为人,伯音时代,company,Song,Company
+生而为人,Pop,genre,Song,Genre
+生而为人,国语,lan,Song,Lan
+生而为人,2018-12-24,pub_time,Song,Pub_Time
+好几年 (个性女烟嗓),好几年专辑,album,Song,Album
+好几年 (个性女烟嗓),宋雅萌,artist,Song,Artist
+好几年 (个性女烟嗓),北京亿格艾科技有限公司,company,Song,Company
+好几年 (个性女烟嗓),Pop,genre,Song,Genre
+好几年 (个性女烟嗓),国语,lan,Song,Lan
+好几年 (个性女烟嗓),2019-12-06,pub_time,Song,Pub_Time
+外婆,外婆专辑,album,Song,Album
+外婆,张艺兴,artist,Song,Artist
+外婆,东阳横店张艺兴影视工作室,company,Song,Company
+外婆,国语,lan,Song,Lan
+外婆,2019-12-16,pub_time,Song,Pub_Time
+Fall,温差感专辑,album,Song,Album
+Fall,易烊千玺,artist,Song,Artist
+Fall,北京时代峰峻文化艺术发展有限公司,company,Song,Company
+Fall,Pop,genre,Song,Genre
+Fall,国语,lan,Song,Lan
+Fall,2019-12-20,pub_time,Song,Pub_Time
+最好的我们,最好的我们专辑,album,Song,Album
+最好的我们,黄子韬,artist,Song,Artist
+最好的我们,黄子韬工作室,company,Song,Company
+最好的我们,Pop,genre,Song,Genre
+最好的我们,国语,lan,Song,Lan
+最好的我们,2019-12-27,pub_time,Song,Pub_Time
+火红的萨日朗 (抖音完整版),火红的萨日朗（抖音完整版）专辑,album,Song,Album
+火红的萨日朗 (抖音完整版),三块木头,artist,Song,Artist
+火红的萨日朗 (抖音完整版),四川讯飞超脑科技有限公司,company,Song,Company
+火红的萨日朗 (抖音完整版),国语,lan,Song,Lan
+火红的萨日朗 (抖音完整版),2019-12-15,pub_time,Song,Pub_Time
+涅槃 (Phoenix) (2019英雄联盟全球总决赛主题曲),涅槃 (Phoenix)专辑,album,Song,Album
+涅槃 (Phoenix) (2019英雄联盟全球总决赛主题曲),英雄联盟,artist,Song,Artist
+涅槃 (Phoenix) (2019英雄联盟全球总决赛主题曲),腾讯,company,Song,Company
+涅槃 (Phoenix) (2019英雄联盟全球总决赛主题曲),Pop,genre,Song,Genre
+涅槃 (Phoenix) (2019英雄联盟全球总决赛主题曲), 英语,lan,Song,Lan
+涅槃 (Phoenix) (2019英雄联盟全球总决赛主题曲),2019-10-09,pub_time,Song,Pub_Time
+别知己,别知己专辑,album,Song,Album
+别知己,海来阿木,artist,Song,Artist
+别知己,阿呷拉古,artist,Song,Artist
+别知己,曲比阿且,artist,Song,Artist
+别知己,广州索氧音乐文化传播有限公司,company,Song,Company
+别知己,Folk,genre,Song,Genre
+别知己,国语,lan,Song,Lan
+别知己,2019-03-05,pub_time,Song,Pub_Time
+世间美好与你环环相扣,世间美好与你环环相扣专辑,album,Song,Album
+世间美好与你环环相扣,郭鹤川,artist,Song,Artist
+世间美好与你环环相扣,国语,lan,Song,Lan
+世间美好与你环环相扣,2019-11-08,pub_time,Song,Pub_Time
+Alone, Pt. II,Alone, Pt. II专辑,album,Song,Album
+Alone, Pt. II,Alan Walker,artist,Song,Artist
+Alone, Pt. II,Ava Max,artist,Song,Artist
+Alone, Pt. II,索尼音乐,company,Song,Company
+Alone, Pt. II,Dance,genre,Song,Genre
+Alone, Pt. II, 英语,lan,Song,Lan
+Alone, Pt. II,2019-12-27,pub_time,Song,Pub_Time
+不爱我就别伤害我,不爱我就别伤害我专辑,album,Song,Album
+不爱我就别伤害我,杨顺高,artist,Song,Artist
+不爱我就别伤害我,凯小晴,artist,Song,Artist
+不爱我就别伤害我,坚诚文化,company,Song,Company
+不爱我就别伤害我,国语,lan,Song,Lan
+不爱我就别伤害我,2019-08-22,pub_time,Song,Pub_Time
+错位,错位专辑,album,Song,Album
+错位,沈末,artist,Song,Artist
+错位,广州新月演艺经纪有限公司,company,Song,Company
+错位,Pop,genre,Song,Genre
+错位,国语,lan,Song,Lan
+错位,2019-11-05,pub_time,Song,Pub_Time
+还是分开,还是分开专辑,album,Song,Album
+还是分开,张叶蕾,artist,Song,Artist
+还是分开,Pop,genre,Song,Genre
+还是分开,国语,lan,Song,Lan
+还是分开,2017-03-06,pub_time,Song,Pub_Time
+炸山姑娘,炸山姑娘专辑,album,Song,Album
+炸山姑娘,七音盒,artist,Song,Artist
+炸山姑娘,昌禾文化,company,Song,Company
+炸山姑娘,国语,lan,Song,Lan
+炸山姑娘,2019-12-26,pub_time,Song,Pub_Time
+心引力,心引力专辑,album,Song,Album
+心引力,王俊凯,artist,Song,Artist
+心引力,蔡依林,artist,Song,Artist
+心引力,北京时代峰峻文化艺术发展有限公司,company,Song,Company
+心引力,Pop,genre,Song,Genre
+心引力,国语,lan,Song,Lan
+心引力,2019-11-02,pub_time,Song,Pub_Time
+爱情错觉,爱情错觉专辑,album,Song,Album
+爱情错觉,半吨兄弟,artist,Song,Artist
+爱情错觉,重低音文化,company,Song,Company
+爱情错觉,Pop,genre,Song,Genre
+爱情错觉,国语,lan,Song,Lan
+爱情错觉,2019-06-06,pub_time,Song,Pub_Time
+牺牲的一半,温差感专辑,album,Song,Album
+牺牲的一半,易烊千玺,artist,Song,Artist
+牺牲的一半,北京时代峰峻文化艺术发展有限公司,company,Song,Company
+牺牲的一半,Pop,genre,Song,Genre
+牺牲的一半,国语,lan,Song,Lan
+牺牲的一半,2019-12-20,pub_time,Song,Pub_Time
+别勉强,摩天动物园专辑,album,Song,Album
+别勉强,G.E.M. 邓紫棋,artist,Song,Artist
+别勉强,周兴哲,artist,Song,Artist
+别勉强,G Nation,company,Song,Company
+别勉强,Pop,genre,Song,Genre
+别勉强,国语,lan,Song,Lan
+别勉强,2019-12-27,pub_time,Song,Pub_Time
+再一，再二，再三,温差感专辑,album,Song,Album
+再一，再二，再三,易烊千玺,artist,Song,Artist
+再一，再二，再三,北京时代峰峻文化艺术发展有限公司,company,Song,Company
+再一，再二，再三,Pop,genre,Song,Genre
+再一，再二，再三,国语,lan,Song,Lan
+再一，再二，再三,2019-12-20,pub_time,Song,Pub_Time
+梦醒时分,跟你说 听你说专辑,album,Song,Album
+梦醒时分,陈淑桦,artist,Song,Artist
+梦醒时分,滚石唱片,company,Song,Company
+梦醒时分,Pop,genre,Song,Genre
+梦醒时分,国语,lan,Song,Lan
+梦醒时分,1989-11-01,pub_time,Song,Pub_Time
+灰狼,摩天动物园专辑,album,Song,Album
+灰狼,G.E.M. 邓紫棋,artist,Song,Artist
+灰狼,G Nation,company,Song,Company
+灰狼,Pop,genre,Song,Genre
+灰狼,国语,lan,Song,Lan
+灰狼,2019-12-27,pub_time,Song,Pub_Time
+我要找到你,我要找到你专辑,album,Song,Album
+我要找到你,小阿枫,artist,Song,Artist
+我要找到你,启韵传媒,company,Song,Company
+我要找到你,国语,lan,Song,Lan
+我要找到你,2019-11-07,pub_time,Song,Pub_Time
+冷静和热情之间,温差感专辑,album,Song,Album
+冷静和热情之间,易烊千玺,artist,Song,Artist
+冷静和热情之间,北京时代峰峻文化艺术发展有限公司,company,Song,Company
+冷静和热情之间,Pop,genre,Song,Genre
+冷静和热情之间,国语,lan,Song,Lan
+冷静和热情之间,2019-12-20,pub_time,Song,Pub_Time
+关山酒,关山酒专辑,album,Song,Album
+关山酒,等什么君,artist,Song,Artist
+关山酒,鲸鱼向海,company,Song,Company
+关山酒,Pop,genre,Song,Genre
+关山酒,国语,lan,Song,Lan
+关山酒,2019-08-31,pub_time,Song,Pub_Time
+Walk on Water (《终结者：黑暗命运》电影中国区主题曲),摩天动物园专辑,album,Song,Album
+Walk on Water (《终结者：黑暗命运》电影中国区主题曲),G.E.M. 邓紫棋,artist,Song,Artist
+Walk on Water (《终结者：黑暗命运》电影中国区主题曲),G Nation,company,Song,Company
+Walk on Water (《终结者：黑暗命运》电影中国区主题曲),Pop,genre,Song,Genre
+Walk on Water (《终结者：黑暗命运》电影中国区主题曲),国语,lan,Song,Lan
+Walk on Water (《终结者：黑暗命运》电影中国区主题曲),2019-12-27,pub_time,Song,Pub_Time
+贰叁,贰叁专辑,album,Song,Album
+贰叁,吴亦凡,artist,Song,Artist
+贰叁,环球唱片,company,Song,Company
+贰叁, Rap/Hip Hop,genre,Song,Genre
+贰叁,国语,lan,Song,Lan
+贰叁,2019-11-06,pub_time,Song,Pub_Time
+重演,重演专辑,album,Song,Album
+重演,王巨星,artist,Song,Artist
+重演,鲸鱼向海（北京）文化有限公司,company,Song,Company
+重演,Pop,genre,Song,Genre
+重演,国语,lan,Song,Lan
+重演,2019-11-30,pub_time,Song,Pub_Time
+笑场,尘专辑,album,Song,Album
+笑场,薛之谦,artist,Song,Artist
+笑场,华宇世博,company,Song,Company
+笑场,Pop,genre,Song,Genre
+笑场,国语,lan,Song,Lan
+笑场,2019-12-27,pub_time,Song,Pub_Time
+慕夏,慕夏专辑,album,Song,Album
+慕夏,等什么君,artist,Song,Artist
+慕夏,武汉嗨库文化传媒有限公司,company,Song,Company
+慕夏,Pop,genre,Song,Genre
+慕夏,国语,lan,Song,Lan
+慕夏,2019-08-03,pub_time,Song,Pub_Time
+Play,Play专辑,album,Song,Album
+Play,K-391,artist,Song,Artist
+Play,Alan Walker,artist,Song,Artist
+Play,Tungevaag,artist,Song,Artist
+Play,Mangoo,artist,Song,Artist
+Play,LIQUID STATE LIMITED,company,Song,Company
+Play, 英语,lan,Song,Lan
+Play,2019-08-30,pub_time,Song,Pub_Time
+天空之外 (《陪你到世界之巅》电视剧片尾曲),陪你到世界之巅 电视剧原声带专辑,album,Song,Album
+天空之外 (《陪你到世界之巅》电视剧片尾曲),弦子,artist,Song,Artist
+天空之外 (《陪你到世界之巅》电视剧片尾曲),有沐音乐,company,Song,Company
+天空之外 (《陪你到世界之巅》电视剧片尾曲),Pop,genre,Song,Genre
+天空之外 (《陪你到世界之巅》电视剧片尾曲),国语,lan,Song,Lan
+天空之外 (《陪你到世界之巅》电视剧片尾曲),2019-06-19,pub_time,Song,Pub_Time
+简要说明,简要说明专辑,album,Song,Album
+简要说明,小阿七,artist,Song,Artist
+简要说明,天果文化,company,Song,Company
+简要说明,Pop,genre,Song,Genre
+简要说明,国语,lan,Song,Lan
+简要说明,2019-12-13,pub_time,Song,Pub_Time
+可惜我是水瓶座,Miriam's Music Box专辑,album,Song,Album
+可惜我是水瓶座,杨千嬅,artist,Song,Artist
+可惜我是水瓶座,Cinepoly Records Co. Ltd.,company,Song,Company
+可惜我是水瓶座,Pop,genre,Song,Genre
+可惜我是水瓶座, 粤语,lan,Song,Lan
+可惜我是水瓶座,2003-01-01,pub_time,Song,Pub_Time
+LOSER,LOSER / ナンバーナイン专辑,album,Song,Album
+LOSER,米津玄師 (よねづ けんし),artist,Song,Artist
+LOSER,索尼音乐,company,Song,Company
+LOSER,Pop,genre,Song,Genre
+LOSER, 日语,lan,Song,Lan
+LOSER,2016-09-28,pub_time,Song,Pub_Time
+责无旁贷,责无旁贷专辑,album,Song,Album
+责无旁贷,阿悠悠,artist,Song,Artist
+责无旁贷,百纳娱乐,company,Song,Company
+责无旁贷,Pop,genre,Song,Genre
+责无旁贷,国语,lan,Song,Lan
+责无旁贷,2019-05-06,pub_time,Song,Pub_Time
+凌晨两点的北京,凌晨两点的北京专辑,album,Song,Album
+凌晨两点的北京,谢宇伦,artist,Song,Artist
+凌晨两点的北京,美星无限音乐/新鲜制造,company,Song,Company
+凌晨两点的北京,Pop,genre,Song,Genre
+凌晨两点的北京,国语,lan,Song,Lan
+凌晨两点的北京,2019-12-31,pub_time,Song,Pub_Time
+Gone,温差感专辑,album,Song,Album
+Gone,易烊千玺,artist,Song,Artist
+Gone,北京时代峰峻文化艺术发展有限公司,company,Song,Company
+Gone,Pop,genre,Song,Genre
+Gone, 英语,lan,Song,Lan
+Gone,2019-12-20,pub_time,Song,Pub_Time
+手放开,绝对痴心·手放开专辑,album,Song,Album
+手放开,李圣杰,artist,Song,Artist
+手放开,滚石唱片,company,Song,Company
+手放开,Pop,genre,Song,Genre
+手放开,国语,lan,Song,Lan
+手放开,2004-11-26,pub_time,Song,Pub_Time
+一个人挺好 (DJ版片段),一个人挺好专辑,album,Song,Album
+一个人挺好 (DJ版片段),孟颖,artist,Song,Artist
+一个人挺好 (DJ版片段),乐巢文化,company,Song,Company
+一个人挺好 (DJ版片段),Pop,genre,Song,Genre
+一个人挺好 (DJ版片段),国语,lan,Song,Lan
+一个人挺好 (DJ版片段),2019-12-24,pub_time,Song,Pub_Time
+烟雨行舟,烟雨行舟专辑,album,Song,Album
+烟雨行舟,司南,artist,Song,Artist
+烟雨行舟,鲸鱼向海（北京）文化有限公司,company,Song,Company
+烟雨行舟,Pop,genre,Song,Genre
+烟雨行舟,国语,lan,Song,Lan
+烟雨行舟,2018-09-16,pub_time,Song,Pub_Time
+一念一生 (《庆余年》电视剧主题曲),一念一生专辑,album,Song,Album
+一念一生 (《庆余年》电视剧主题曲),李健,artist,Song,Artist
+一念一生 (《庆余年》电视剧主题曲),北京仁溪文化传播有限公司,company,Song,Company
+一念一生 (《庆余年》电视剧主题曲),Soundtrack,genre,Song,Genre
+一念一生 (《庆余年》电视剧主题曲),国语,lan,Song,Lan
+一念一生 (《庆余年》电视剧主题曲),2019-11-28,pub_time,Song,Pub_Time
+Да да да (Jarico Remix),Да да да(Jarico Remix)专辑,album,Song,Album
+Да да да (Jarico Remix),Tanir,artist,Song,Artist
+Да да да (Jarico Remix),Tyomcha,artist,Song,Artist
+Да да да (Jarico Remix),Da Gudda Music,company,Song,Company
+Да да да (Jarico Remix), Rap/Hip Hop,genre,Song,Genre
+Да да да (Jarico Remix), 俄语,lan,Song,Lan
+Да да да (Jarico Remix),2019-10-14,pub_time,Song,Pub_Time
+圈住你 (原唱:一口甜),圈住你专辑,album,Song,Album
+圈住你 (原唱:一口甜),爱吃巧乐兹,artist,Song,Artist
+圈住你 (原唱:一口甜),武汉嗨库文化传媒有限公司,company,Song,Company
+圈住你 (原唱:一口甜),国语,lan,Song,Lan
+圈住你 (原唱:一口甜),2019-09-11,pub_time,Song,Pub_Time
+清新的小女孩 (中文版),清新的小女孩（中文版）专辑,album,Song,Album
+清新的小女孩 (中文版),洛松维,artist,Song,Artist
+清新的小女孩 (中文版),独立发行,company,Song,Company
+清新的小女孩 (中文版),Pop,genre,Song,Genre
+清新的小女孩 (中文版),国语,lan,Song,Lan
+清新的小女孩 (中文版),2019-12-14,pub_time,Song,Pub_Time
+Move Your Body (Alan Walker Remix),This Is Acting (Deluxe Version)专辑,album,Song,Album
+Move Your Body (Alan Walker Remix),Sia,artist,Song,Artist
+Move Your Body (Alan Walker Remix),Alan Walker,artist,Song,Artist
+Move Your Body (Alan Walker Remix),索尼音乐,company,Song,Company
+Move Your Body (Alan Walker Remix),Pop,genre,Song,Genre
+Move Your Body (Alan Walker Remix), 英语,lan,Song,Lan
+Move Your Body (Alan Walker Remix),2016-10-21,pub_time,Song,Pub_Time
+千千阙歌 (《猎场》电视剧插曲),百花齐放专辑,album,Song,Album
+千千阙歌 (《猎场》电视剧插曲),陈慧娴,artist,Song,Artist
+千千阙歌 (《猎场》电视剧插曲),环球唱片,company,Song,Company
+千千阙歌 (《猎场》电视剧插曲),Pop,genre,Song,Genre
+千千阙歌 (《猎场》电视剧插曲), 粤语,lan,Song,Lan
+千千阙歌 (《猎场》电视剧插曲),2005-03-01,pub_time,Song,Pub_Time
+世间美好,世间美好专辑,album,Song,Album
+世间美好,夏艺韩,artist,Song,Artist
+世间美好,巨鲸蓝光音乐,company,Song,Company
+世间美好,Pop,genre,Song,Genre
+世间美好,国语,lan,Song,Lan
+世间美好,2019-10-25,pub_time,Song,Pub_Time
+流离,流离专辑,album,Song,Album
+流离,Zealot周星星,artist,Song,Artist
+流离,鲸鱼向海（北京）文化有限公司,company,Song,Company
+流离,Pop,genre,Song,Genre
+流离,国语,lan,Song,Lan
+流离,2019-04-26,pub_time,Song,Pub_Time
+后继者,后继者专辑,album,Song,Album
+后继者,任然,artist,Song,Artist
+后继者,北京千和世纪文化传播有限公司,company,Song,Company
+后继者,Pop,genre,Song,Genre
+后继者,国语,lan,Song,Lan
+后继者,2016-11-25,pub_time,Song,Pub_Time
+Wrap Me In Plastic,Wrap Me In Plastic专辑,album,Song,Album
+Wrap Me In Plastic,CHROMANCE,artist,Song,Artist
+Wrap Me In Plastic,LIQUID STATE LIMITED,company,Song,Company
+Wrap Me In Plastic,Dance,genre,Song,Genre
+Wrap Me In Plastic, 英语,lan,Song,Lan
+Wrap Me In Plastic,2017-10-27,pub_time,Song,Pub_Time
+那男孩还好吗,那男孩还好吗专辑,album,Song,Album
+那男孩还好吗,Uu,artist,Song,Artist
+那男孩还好吗,鲸鱼向海/新鲜制造,company,Song,Company
+那男孩还好吗,Pop,genre,Song,Genre
+那男孩还好吗,国语,lan,Song,Lan
+那男孩还好吗,2019-11-08,pub_time,Song,Pub_Time
+病态,尘专辑,album,Song,Album
+病态,薛之谦,artist,Song,Artist
+病态,华宇世博,company,Song,Company
+病态,Pop,genre,Song,Genre
+病态,国语,lan,Song,Lan
+病态,2019-12-27,pub_time,Song,Pub_Time
+七月上,阿敬的单曲集专辑,album,Song,Album
+七月上,Jam,artist,Song,Artist
+七月上,独立发行,company,Song,Company
+七月上,Folk,genre,Song,Genre
+七月上,国语,lan,Song,Lan
+七月上,2015-05-17,pub_time,Song,Pub_Time
+迷人的危险,迷人的危险专辑,album,Song,Album
+迷人的危险,馅儿,artist,Song,Artist
+迷人的危险,neko,artist,Song,Artist
+迷人的危险,国语,lan,Song,Lan
+迷人的危险,2019-05-24,pub_time,Song,Pub_Time
+悠殇叹,悠殇叹专辑,album,Song,Album
+悠殇叹,阿悠悠,artist,Song,Artist
+悠殇叹,重低音文化,company,Song,Company
+悠殇叹,国语,lan,Song,Lan
+悠殇叹,2019-06-08,pub_time,Song,Pub_Time
+最远的你是我最近的爱,最远的你是我最近的爱专辑,album,Song,Album
+最远的你是我最近的爱,小阿枫,artist,Song,Artist
+最远的你是我最近的爱,声响互动音乐（北京）有限公司,company,Song,Company
+最远的你是我最近的爱,Pop,genre,Song,Genre
+最远的你是我最近的爱,国语,lan,Song,Lan
+最远的你是我最近的爱,2020-04-10,pub_time,Song,Pub_Time
+恋愛サーキュレーション (《化物语》TV动画片头曲),歌物語 Special Edition (Original Soundtrack)专辑,album,Song,Album
+恋愛サーキュレーション (《化物语》TV动画片头曲),物語シリーズ,artist,Song,Artist
+恋愛サーキュレーション (《化物语》TV动画片头曲),索尼音乐,company,Song,Company
+恋愛サーキュレーション (《化物语》TV动画片头曲),Soundtrack,genre,Song,Genre
+恋愛サーキュレーション (《化物语》TV动画片头曲), 日语,lan,Song,Lan
+恋愛サーキュレーション (《化物语》TV动画片头曲),2018-11-02,pub_time,Song,Pub_Time
+囚鸟,温古知新 一个人的天荒地老专辑,album,Song,Album
+囚鸟,张宇,artist,Song,Artist
+囚鸟,金牌大风,company,Song,Company
+囚鸟,Pop,genre,Song,Genre
+囚鸟,国语,lan,Song,Lan
+囚鸟,1997-11-01,pub_time,Song,Pub_Time
+多美丽,摩天动物园专辑,album,Song,Album
+多美丽,G.E.M. 邓紫棋,artist,Song,Artist
+多美丽,G Nation,company,Song,Company
+多美丽,Pop,genre,Song,Genre
+多美丽,国语,lan,Song,Lan
+多美丽,2019-12-27,pub_time,Song,Pub_Time
+慢半拍,尘专辑,album,Song,Album
+慢半拍,薛之谦,artist,Song,Artist
+慢半拍,华宇世博,company,Song,Company
+慢半拍,Pop,genre,Song,Genre
+慢半拍,国语,lan,Song,Lan
+慢半拍,2019-12-27,pub_time,Song,Pub_Time
+离岸,离岸专辑,album,Song,Album
+离岸,苏晗,artist,Song,Artist
+离岸,长沙听感时代,company,Song,Company
+离岸,Pop,genre,Song,Genre
+离岸,国语,lan,Song,Lan
+离岸,2019-07-10,pub_time,Song,Pub_Time
+攀登 (抖音版),攀登专辑,album,Song,Album
+攀登 (抖音版),Ersen0306,artist,Song,Artist
+攀登 (抖音版),鲸鱼向海（北京）文化有限公司,company,Song,Company
+攀登 (抖音版),Pop,genre,Song,Genre
+攀登 (抖音版),国语,lan,Song,Lan
+攀登 (抖音版),2019-07-31,pub_time,Song,Pub_Time
+红色高跟鞋,红色高跟鞋专辑,album,Song,Album
+红色高跟鞋,隔壁老樊,artist,Song,Artist
+红色高跟鞋,独立发行,company,Song,Company
+红色高跟鞋,国语,lan,Song,Lan
+红色高跟鞋,2019-08-06,pub_time,Song,Pub_Time
+我爱他,我爱他专辑,album,Song,Album
+我爱他,王小帅,artist,Song,Artist
+我爱他,大酱音乐,company,Song,Company
+我爱他,国语,lan,Song,Lan
+我爱他,2019-12-22,pub_time,Song,Pub_Time
+让我留在你身边 (原唱作版),让我留在你身边（原唱作版）专辑,album,Song,Album
+让我留在你身边 (原唱作版),唐汉霄,artist,Song,Artist
+让我留在你身边 (原唱作版),拾大音乐,company,Song,Company
+让我留在你身边 (原唱作版),国语,lan,Song,Lan
+让我留在你身边 (原唱作版),2017-01-05,pub_time,Song,Pub_Time
+Lonely Christmas (《圣诞结》粤语版|《常在我心》电影插曲),Eason 4 A Chance & Hits专辑,album,Song,Album
+Lonely Christmas (《圣诞结》粤语版|《常在我心》电影插曲),陈奕迅,artist,Song,Artist
+Lonely Christmas (《圣诞结》粤语版|《常在我心》电影插曲),英皇唱片,company,Song,Company
+Lonely Christmas (《圣诞结》粤语版|《常在我心》电影插曲),Pop,genre,Song,Genre
+Lonely Christmas (《圣诞结》粤语版|《常在我心》电影插曲), 粤语,lan,Song,Lan
+Lonely Christmas (《圣诞结》粤语版|《常在我心》电影插曲),2002-12-01,pub_time,Song,Pub_Time
+第一次爱的人,爱你专辑,album,Song,Album
+第一次爱的人,王心凌,artist,Song,Artist
+第一次爱的人,丰华唱片,company,Song,Company
+第一次爱的人,Pop,genre,Song,Genre
+第一次爱的人,国语,lan,Song,Lan
+第一次爱的人,2004-03-26,pub_time,Song,Pub_Time
+少女的祈祷,Play It Loud, Kiss Me Soft专辑,album,Song,Album
+少女的祈祷,杨千嬅,artist,Song,Artist
+少女的祈祷,华星唱片,company,Song,Company
+少女的祈祷,Pop,genre,Song,Genre
+少女的祈祷, 粤语,lan,Song,Lan
+少女的祈祷,2018-04-01,pub_time,Song,Pub_Time
+就在此刻 (PLAY 中文版),就在此刻 (PLAY 中文版）专辑,album,Song,Album
+就在此刻 (PLAY 中文版),K-391,artist,Song,Artist
+就在此刻 (PLAY 中文版),Alan Walker,artist,Song,Artist
+就在此刻 (PLAY 中文版),周笔畅,artist,Song,Artist
+就在此刻 (PLAY 中文版),LIQUID STATE LIMITED,company,Song,Company
+就在此刻 (PLAY 中文版),Electronica,genre,Song,Genre
+就在此刻 (PLAY 中文版),国语,lan,Song,Lan
+就在此刻 (PLAY 中文版),2019-12-19,pub_time,Song,Pub_Time
+归寻,归寻专辑,album,Song,Album
+归寻,等什么君,artist,Song,Artist
+归寻,武汉嗨库文化传媒有限公司,company,Song,Company
+归寻,Pop,genre,Song,Genre
+归寻,国语,lan,Song,Lan
+归寻,2019-05-31,pub_time,Song,Pub_Time
+好好离开,好好离开专辑,album,Song,Album
+好好离开,丛琳潼elf,artist,Song,Artist
+好好离开,钻碟唱片,company,Song,Company
+好好离开,国语,lan,Song,Lan
+好好离开,2019-12-29,pub_time,Song,Pub_Time
+宝贝宝贝,经典儿歌专辑,album,Song,Album
+宝贝宝贝,李昕融,artist,Song,Artist
+宝贝宝贝,樊桐舟,artist,Song,Artist
+宝贝宝贝,李凯稠,artist,Song,Artist
+宝贝宝贝,芝兰（天津）文化传媒有限公司,company,Song,Company
+宝贝宝贝,Children,genre,Song,Genre
+宝贝宝贝,国语,lan,Song,Lan
+宝贝宝贝,2017-05-11,pub_time,Song,Pub_Time
+空山新雨后,空山新雨后专辑,album,Song,Album
+空山新雨后,音阙诗听,artist,Song,Artist
+空山新雨后,锦零,artist,Song,Artist
+空山新雨后,独立乐,company,Song,Company
+空山新雨后,Pop,genre,Song,Genre
+空山新雨后,国语,lan,Song,Lan
+空山新雨后,2019-03-18,pub_time,Song,Pub_Time
+Please Don't Go,Please Don't Go专辑,album,Song,Album
+Please Don't Go,Joel Adams,artist,Song,Artist
+Please Don't Go,TuneCore, Inc.,company,Song,Company
+Please Don't Go,Pop,genre,Song,Genre
+Please Don't Go, 英语,lan,Song,Lan
+Please Don't Go,2015-11-02,pub_time,Song,Pub_Time
+一路向北,冷漠经典情歌合集专辑,album,Song,Album
+一路向北,冷漠,artist,Song,Artist
+一路向北,启韵传媒,company,Song,Company
+一路向北,Pop,genre,Song,Genre
+一路向北,国语,lan,Song,Lan
+一路向北,2013-01-01,pub_time,Song,Pub_Time
+拱手相让,拱手相让专辑,album,Song,Album
+拱手相让,胜屿,artist,Song,Artist
+拱手相让,大玩咖/新鲜制造,company,Song,Company
+拱手相让,国语,lan,Song,Lan
+拱手相让,2019-11-29,pub_time,Song,Pub_Time
+爱的哲学,爱的哲学专辑,album,Song,Album
+爱的哲学,牟凡,artist,Song,Artist
+爱的哲学,四川讯飞超脑科技有限公司,company,Song,Company
+爱的哲学,国语,lan,Song,Lan
+爱的哲学,2019-09-11,pub_time,Song,Pub_Time
+大眠,CYNDILOVES2SING 爱。心凌专辑,album,Song,Album
+大眠,王心凌,artist,Song,Artist
+大眠,环球唱片,company,Song,Company
+大眠,Pop,genre,Song,Genre
+大眠,国语,lan,Song,Lan
+大眠,2018-12-07,pub_time,Song,Pub_Time
+他一定很爱你,天黑专辑,album,Song,Album
+他一定很爱你,阿杜,artist,Song,Artist
+他一定很爱你,海蝶音乐,company,Song,Company
+他一定很爱你,Pop,genre,Song,Genre
+他一定很爱你,国语,lan,Song,Lan
+他一定很爱你,2002-04-12,pub_time,Song,Pub_Time
+遇到 (女生版),遇到专辑,album,Song,Album
+遇到 (女生版),顾小洁,artist,Song,Artist
+遇到 (女生版),北京果然乐动文化有限公司,company,Song,Company
+遇到 (女生版),国语,lan,Song,Lan
+遇到 (女生版),2019-06-05,pub_time,Song,Pub_Time
+触不可及 (《触不可及》（美版）电影同名推广曲),触不可及专辑,album,Song,Album
+触不可及 (《触不可及》（美版）电影同名推广曲),周深,artist,Song,Artist
+触不可及 (《触不可及》（美版）电影同名推广曲),北京卓然声声文化传媒有限公司,company,Song,Company
+触不可及 (《触不可及》（美版）电影同名推广曲),Soundtrack,genre,Song,Genre
+触不可及 (《触不可及》（美版）电影同名推广曲),国语,lan,Song,Lan
+触不可及 (《触不可及》（美版）电影同名推广曲),2019-11-21,pub_time,Song,Pub_Time
+忘情牛肉面 (女声版),忘情牛肉面（女声版）专辑,album,Song,Album
+忘情牛肉面 (女声版),李冰,artist,Song,Artist
+忘情牛肉面 (女声版),羡然文化,company,Song,Company
+忘情牛肉面 (女声版),Pop,genre,Song,Genre
+忘情牛肉面 (女声版),国语,lan,Song,Lan
+忘情牛肉面 (女声版),2019-11-13,pub_time,Song,Pub_Time
+逞强,逞强专辑,album,Song,Album
+逞强,杨小壮,artist,Song,Artist
+逞强,乐巢文化,company,Song,Company
+逞强,Pop,genre,Song,Genre
+逞强,国语,lan,Song,Lan
+逞强,2018-10-27,pub_time,Song,Pub_Time
+不晚 (《深夜食堂》电影主题曲),不晚专辑,album,Song,Album
+不晚 (《深夜食堂》电影主题曲),田馥甄,artist,Song,Artist
+不晚 (《深夜食堂》电影主题曲),郑楠@SBMS Beijing,artist,Song,Artist
+不晚 (《深夜食堂》电影主题曲),叶育轩,artist,Song,Artist
+不晚 (《深夜食堂》电影主题曲),容合音乐,company,Song,Company
+不晚 (《深夜食堂》电影主题曲),Pop,genre,Song,Genre
+不晚 (《深夜食堂》电影主题曲),国语,lan,Song,Lan
+不晚 (《深夜食堂》电影主题曲),2019-08-26,pub_time,Song,Pub_Time
+心雨,依然范特西专辑,album,Song,Album
+心雨,周杰伦,artist,Song,Artist
+心雨,杰威尔音乐有限公司,company,Song,Company
+心雨,Pop,genre,Song,Genre
+心雨,国语,lan,Song,Lan
+心雨,2006-09-05,pub_time,Song,Pub_Time
+没有理由 (原唱:永彬Ryan.B),没有理由专辑,album,Song,Album
+没有理由 (原唱:永彬Ryan.B),朱小五,artist,Song,Artist
+没有理由 (原唱:永彬Ryan.B),国语,lan,Song,Lan
+没有理由 (原唱:永彬Ryan.B),2019-12-18,pub_time,Song,Pub_Time
+可能的夏天,可能的夏天专辑,album,Song,Album
+可能的夏天,沈虫虫,artist,Song,Artist
+可能的夏天,西红柿文化,company,Song,Company
+可能的夏天,国语,lan,Song,Lan
+可能的夏天,2019-12-06,pub_time,Song,Pub_Time
+不是因为寂寞才想你,精彩TRY专辑,album,Song,Album
+不是因为寂寞才想你,T.R.Y,artist,Song,Artist
+不是因为寂寞才想你,孔雀廊,company,Song,Company
+不是因为寂寞才想你,Pop,genre,Song,Genre
+不是因为寂寞才想你,国语,lan,Song,Lan
+不是因为寂寞才想你,2008-08-01,pub_time,Song,Pub_Time
+情火,情火专辑,album,Song,Album
+情火,崔伟立,artist,Song,Artist
+情火,启韵传媒,company,Song,Company
+情火,Pop,genre,Song,Genre
+情火,国语,lan,Song,Lan
+情火,2018-05-09,pub_time,Song,Pub_Time
+念想 (《少年的你》电影情感曲),念想专辑,album,Song,Album
+念想 (《少年的你》电影情感曲),易烊千玺,artist,Song,Artist
+念想 (《少年的你》电影情感曲),北京时代峰峻文化艺术发展有限公司,company,Song,Company
+念想 (《少年的你》电影情感曲),Pop,genre,Song,Genre
+念想 (《少年的你》电影情感曲),国语,lan,Song,Lan
+念想 (《少年的你》电影情感曲),2019-11-01,pub_time,Song,Pub_Time
+无赖,Before After专辑,album,Song,Album
+无赖,郑中基,artist,Song,Artist
+无赖,金牌大风,company,Song,Company
+无赖,Pop,genre,Song,Genre
+无赖, 粤语,lan,Song,Lan
+无赖,2005-08-10,pub_time,Song,Pub_Time
+凉城,后继者专辑,album,Song,Album
+凉城,任然,artist,Song,Artist
+凉城,北京千和世纪文化传播有限公司,company,Song,Company
+凉城,Pop,genre,Song,Genre
+凉城,国语,lan,Song,Lan
+凉城,2016-11-25,pub_time,Song,Pub_Time
+尘,尘专辑,album,Song,Album
+尘,薛之谦,artist,Song,Artist
+尘,华宇世博,company,Song,Company
+尘,Pop,genre,Song,Genre
+尘,国语,lan,Song,Lan
+尘,2019-12-27,pub_time,Song,Pub_Time
+奢香夫人,最炫民族风专辑,album,Song,Album
+奢香夫人,凤凰传奇,artist,Song,Artist
+奢香夫人,孔雀廊,company,Song,Company
+奢香夫人,Pop,genre,Song,Genre
+奢香夫人,国语,lan,Song,Lan
+奢香夫人,2009-06-02,pub_time,Song,Pub_Time
+你说的都对,你说的都对专辑,album,Song,Album
+你说的都对,小凤九,artist,Song,Artist
+你说的都对,发力人音乐,company,Song,Company
+你说的都对,国语,lan,Song,Lan
+你说的都对,2019-12-10,pub_time,Song,Pub_Time
+我的楼兰,缘定今生专辑,album,Song,Album
+我的楼兰,云朵,artist,Song,Artist
+我的楼兰,Pop,genre,Song,Genre
+我的楼兰,国语,lan,Song,Lan
+我的楼兰,2011-04-17,pub_time,Song,Pub_Time
+Psycho (Pt. 2) (Explicit),Psycho, Pt. 2 (Explicit)专辑,album,Song,Album
+Psycho (Pt. 2) (Explicit),Russ,artist,Song,Artist
+Psycho (Pt. 2) (Explicit),TuneCore, Inc.,company,Song,Company
+Psycho (Pt. 2) (Explicit), Rap/Hip Hop,genre,Song,Genre
+Psycho (Pt. 2) (Explicit), 英语,lan,Song,Lan
+Psycho (Pt. 2) (Explicit),2016-11-08,pub_time,Song,Pub_Time
+为你而来 (《梦回》网剧主题曲),为你而来专辑,album,Song,Album
+为你而来 (《梦回》网剧主题曲),袁娅维,artist,Song,Artist
+为你而来 (《梦回》网剧主题曲),华纳唱片,company,Song,Company
+为你而来 (《梦回》网剧主题曲),国语,lan,Song,Lan
+为你而来 (《梦回》网剧主题曲),2019-12-10,pub_time,Song,Pub_Time
+最佳损友,Life Continues专辑,album,Song,Album
+最佳损友,陈奕迅,artist,Song,Artist
+最佳损友,环球唱片,company,Song,Company
+最佳损友,Pop,genre,Song,Genre
+最佳损友, 粤语,lan,Song,Lan
+最佳损友,2006-06-15,pub_time,Song,Pub_Time
+裂缝中的阳光,因你而在专辑,album,Song,Album
+裂缝中的阳光,林俊杰,artist,Song,Artist
+裂缝中的阳光,华纳唱片,company,Song,Company
+裂缝中的阳光,Pop,genre,Song,Genre
+裂缝中的阳光,国语,lan,Song,Lan
+裂缝中的阳光,2013-03-13,pub_time,Song,Pub_Time
+初见 (《东宫》电视剧插曲),东宫 电视剧原声大碟专辑,album,Song,Album
+初见 (《东宫》电视剧插曲),余昭源,artist,Song,Artist
+初见 (《东宫》电视剧插曲),叶里,artist,Song,Artist
+初见 (《东宫》电视剧插曲),唐德影视,company,Song,Company
+初见 (《东宫》电视剧插曲),Soundtrack,genre,Song,Genre
+初见 (《东宫》电视剧插曲),国语,lan,Song,Lan
+初见 (《东宫》电视剧插曲),2019-02-22,pub_time,Song,Pub_Time
+两个傍晚的月亮,温差感专辑,album,Song,Album
+两个傍晚的月亮,易烊千玺,artist,Song,Artist
+两个傍晚的月亮,北京时代峰峻文化艺术发展有限公司,company,Song,Company
+两个傍晚的月亮,Pop,genre,Song,Genre
+两个傍晚的月亮,国语,lan,Song,Lan
+两个傍晚的月亮,2019-12-20,pub_time,Song,Pub_Time
+星辰大海 (电影频道青年演员计划主题曲),星辰大海专辑,album,Song,Album
+星辰大海 (电影频道青年演员计划主题曲),周冬雨,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),王俊凯,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),易烊千玺,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),刘昊然,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),陈飞宇,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),许魏洲,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),宋祖儿,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),陈学冬,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),董子健,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),谷嘉诚,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),尚语贤,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),曾舜晞,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),张雪迎,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),张哲瀚,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),陈都灵,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),蓝盈莹,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),李鸿其,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),王森,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),张慧雯,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),金晨,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),王嘉,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),李蔓瑄,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),周也,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),王紫璇,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),易恒,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),匡牧野,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),朱颜曼滋,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),孙嘉灵,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),王锵,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),张海宇,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),王西,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),张婧仪,artist,Song,Artist
+星辰大海 (电影频道青年演员计划主题曲),独立发行,company,Song,Company
+星辰大海 (电影频道青年演员计划主题曲),国语,lan,Song,Lan
+星辰大海 (电影频道青年演员计划主题曲),2019-11-19,pub_time,Song,Pub_Time
+bad guy,WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?专辑,album,Song,Album
+bad guy,Billie Eilish,artist,Song,Artist
+bad guy,Darkroom/Interscope Records,company,Song,Company
+bad guy,Alternative,genre,Song,Genre
+bad guy, 英语,lan,Song,Lan
+bad guy,2019-03-29,pub_time,Song,Pub_Time
+East of Eden,Zella Day专辑,album,Song,Album
+East of Eden,Zella Day,artist,Song,Artist
+East of Eden,环球唱片,company,Song,Company
+East of Eden,Alternative,genre,Song,Genre
+East of Eden, 英语,lan,Song,Lan
+East of Eden,2014-10-21,pub_time,Song,Pub_Time
+有幸,有幸专辑,album,Song,Album
+有幸,老光,artist,Song,Artist
+有幸,乐加音乐,company,Song,Company
+有幸,Pop,genre,Song,Genre
+有幸,国语,lan,Song,Lan
+有幸,2018-12-27,pub_time,Song,Pub_Time
+致曾来过的你,过去现在时专辑,album,Song,Album
+致曾来过的你,汪苏泷,artist,Song,Artist
+致曾来过的你,制作家,company,Song,Company
+致曾来过的你,国语,lan,Song,Lan
+致曾来过的你,2019-10-28,pub_time,Song,Pub_Time
+被驯服的象,天使与魔鬼的对话专辑,album,Song,Album
+被驯服的象,蔡健雅,artist,Song,Artist
+被驯服的象,亚神音乐,company,Song,Company
+被驯服的象,Pop,genre,Song,Genre
+被驯服的象,国语,lan,Song,Lan
+被驯服的象,2013-09-24,pub_time,Song,Pub_Time
+精忠报国 (《三少爷的剑》电视剧片尾曲),精忠报国专辑,album,Song,Album
+精忠报国 (《三少爷的剑》电视剧片尾曲),屠洪刚,artist,Song,Artist
+精忠报国 (《三少爷的剑》电视剧片尾曲),北京天益人合影视文化发展有限公司,company,Song,Company
+精忠报国 (《三少爷的剑》电视剧片尾曲),Pop,genre,Song,Genre
+精忠报国 (《三少爷的剑》电视剧片尾曲),国语,lan,Song,Lan
+精忠报国 (《三少爷的剑》电视剧片尾曲),1999-01-01,pub_time,Song,Pub_Time
+明年今日 (《十年》粤语版|《贱精先生》电影插曲),The Line-Up专辑,album,Song,Album
+明年今日 (《十年》粤语版|《贱精先生》电影插曲),陈奕迅,artist,Song,Artist
+明年今日 (《十年》粤语版|《贱精先生》电影插曲),英皇唱片,company,Song,Company
+明年今日 (《十年》粤语版|《贱精先生》电影插曲),Pop,genre,Song,Genre
+明年今日 (《十年》粤语版|《贱精先生》电影插曲), 粤语,lan,Song,Lan
+明年今日 (《十年》粤语版|《贱精先生》电影插曲),2002-07-24,pub_time,Song,Pub_Time
+做我老婆好不好,我们的主打歌 我们结婚吧专辑,album,Song,Album
+做我老婆好不好,徐誉滕,artist,Song,Artist
+做我老婆好不好,启韵传媒,company,Song,Company
+做我老婆好不好,Pop,genre,Song,Genre
+做我老婆好不好,国语,lan,Song,Lan
+做我老婆好不好,2014-01-13,pub_time,Song,Pub_Time
+酣然 (Interlude),温差感专辑,album,Song,Album
+酣然 (Interlude),易烊千玺,artist,Song,Artist
+酣然 (Interlude),北京时代峰峻文化艺术发展有限公司,company,Song,Company
+酣然 (Interlude),Pop,genre,Song,Genre
+酣然 (Interlude), 其他,lan,Song,Lan
+酣然 (Interlude),2019-12-20,pub_time,Song,Pub_Time
+直觉（完整版）,直觉（正式版）专辑,album,Song,Album
+直觉（完整版）,superluckyqi,artist,Song,Artist
+直觉（完整版）,娱咖文化,company,Song,Company
+直觉（完整版）,国语,lan,Song,Lan
+直觉（完整版）,2019-11-06,pub_time,Song,Pub_Time
+日不落,特务J专辑,album,Song,Album
+日不落,蔡依林,artist,Song,Artist
+日不落,华纳唱片,company,Song,Company
+日不落,Pop,genre,Song,Genre
+日不落,国语,lan,Song,Lan
+日不落,2007-09-21,pub_time,Song,Pub_Time
+蓝鲸,蓝鲸专辑,album,Song,Album
+蓝鲸,叶洛洛,artist,Song,Artist
+蓝鲸,声动时代,company,Song,Company
+蓝鲸,Pop,genre,Song,Genre
+蓝鲸,国语,lan,Song,Lan
+蓝鲸,2019-11-30,pub_time,Song,Pub_Time
+七友,10号专辑,album,Song,Album
+七友,梁汉文,artist,Song,Artist
+七友,环球唱片,company,Song,Company
+七友,Pop,genre,Song,Genre
+七友, 粤语,lan,Song,Lan
+七友,2003-01-01,pub_time,Song,Pub_Time
+约定,周蕙精选专辑,album,Song,Album
+约定,周蕙,artist,Song,Artist
+约定,福茂唱片,company,Song,Company
+约定,Pop,genre,Song,Genre
+约定,国语,lan,Song,Lan
+约定,1999-08-26,pub_time,Song,Pub_Time
+所见之日乃是终止之时,所见之日乃是终止之时专辑,album,Song,Album
+所见之日乃是终止之时,陈雪凝,artist,Song,Artist
+所见之日乃是终止之时,少城时代,company,Song,Company
+所见之日乃是终止之时,国语,lan,Song,Lan
+所见之日乃是终止之时,2019-12-22,pub_time,Song,Pub_Time
+拥抱你离去 (DJ版),DJ何鹏舞曲精选集（六）专辑,album,Song,Album
+拥抱你离去 (DJ版),何鹏,artist,Song,Artist
+拥抱你离去 (DJ版),张北北,artist,Song,Artist
+拥抱你离去 (DJ版),DJ何鹏工作室,company,Song,Company
+拥抱你离去 (DJ版),Dance,genre,Song,Genre
+拥抱你离去 (DJ版),国语,lan,Song,Lan
+拥抱你离去 (DJ版),2016-01-01,pub_time,Song,Pub_Time
+到不了,范范的世界专辑,album,Song,Album
+到不了,范玮琪,artist,Song,Artist
+到不了,福茂唱片,company,Song,Company
+到不了,Pop,genre,Song,Genre
+到不了,国语,lan,Song,Lan
+到不了,2000-11-08,pub_time,Song,Pub_Time
+YOUTH,Blue Neighbourhood (Deluxe)专辑,album,Song,Album
+YOUTH,Troye Sivan,artist,Song,Artist
+YOUTH,EMI Recorded Music Australia Pty Ltd,company,Song,Company
+YOUTH,Pop,genre,Song,Genre
+YOUTH, 英语,lan,Song,Lan
+YOUTH,2015-12-04,pub_time,Song,Pub_Time
+Outside,Motion专辑,album,Song,Album
+Outside,Ellie Goulding,artist,Song,Artist
+Outside,Calvin Harris,artist,Song,Artist
+Outside,索尼音乐,company,Song,Company
+Outside,Dance,genre,Song,Genre
+Outside, 英语,lan,Song,Lan
+Outside,2014-11-03,pub_time,Song,Pub_Time
+这扯淡的人生,这扯淡的人生专辑,album,Song,Album
+这扯淡的人生,王翼焱,artist,Song,Artist
+这扯淡的人生,独立发行,company,Song,Company
+这扯淡的人生,Pop,genre,Song,Genre
+这扯淡的人生,国语,lan,Song,Lan
+这扯淡的人生,2019-08-15,pub_time,Song,Pub_Time
+今夜星光闪闪 (男版),今夜星光闪闪专辑,album,Song,Album
+今夜星光闪闪 (男版),黑暗萝莉,artist,Song,Artist
+今夜星光闪闪 (男版),北京三咖文化传媒有限公司,company,Song,Company
+今夜星光闪闪 (男版),国语,lan,Song,Lan
+今夜星光闪闪 (男版),2019-11-22,pub_time,Song,Pub_Time
+AS IF IT'S YOUR LAST (마지막처럼),As If It's Your Last专辑,album,Song,Album
+AS IF IT'S YOUR LAST (마지막처럼),BLACKPINK,artist,Song,Artist
+AS IF IT'S YOUR LAST (마지막처럼),YG Entertainment,company,Song,Company
+AS IF IT'S YOUR LAST (마지막처럼),Pop,genre,Song,Genre
+AS IF IT'S YOUR LAST (마지막처럼), 韩语,lan,Song,Lan
+AS IF IT'S YOUR LAST (마지막처럼),2017-06-22,pub_time,Song,Pub_Time
+够爱 (《终极一家》电视剧主题曲),东城卫专辑,album,Song,Album
+够爱 (《终极一家》电视剧主题曲),东城卫,artist,Song,Artist
+够爱 (《终极一家》电视剧主题曲),华纳唱片,company,Song,Company
+够爱 (《终极一家》电视剧主题曲),Pop,genre,Song,Genre
+够爱 (《终极一家》电视剧主题曲),国语,lan,Song,Lan
+够爱 (《终极一家》电视剧主题曲),2010-07-23,pub_time,Song,Pub_Time
+有名无份,有名无份专辑,album,Song,Album
+有名无份,李冠霖,artist,Song,Artist
+有名无份,千源影视,company,Song,Company
+有名无份,国语,lan,Song,Lan
+有名无份,2019-12-27,pub_time,Song,Pub_Time
+Fire,Fire专辑,album,Song,Album
+Fire,Gavin DeGraw,artist,Song,Artist
+Fire,索尼音乐,company,Song,Company
+Fire,Pop,genre,Song,Genre
+Fire, 英语,lan,Song,Lan
+Fire,2014-08-12,pub_time,Song,Pub_Time
+还有我,还有我专辑,album,Song,Album
+还有我,G2er,artist,Song,Artist
+还有我,鲸鱼向海（北京）文化有限公司,company,Song,Company
+还有我,Pop,genre,Song,Genre
+还有我,国语,lan,Song,Lan
+还有我,2019-08-01,pub_time,Song,Pub_Time
+怎么爱都爱不够 (DJ何鹏版),怎么爱都爱不够（DJ版）专辑,album,Song,Album
+怎么爱都爱不够 (DJ何鹏版),崔伟立,artist,Song,Artist
+怎么爱都爱不够 (DJ何鹏版),孙艺琪,artist,Song,Artist
+怎么爱都爱不够 (DJ何鹏版),启韵传媒,company,Song,Company
+怎么爱都爱不够 (DJ何鹏版),Pop,genre,Song,Genre
+怎么爱都爱不够 (DJ何鹏版),国语,lan,Song,Lan
+怎么爱都爱不够 (DJ何鹏版),2019-03-26,pub_time,Song,Pub_Time
+你那么爱她 (《土地》电视剧片头曲|《前男友不是人》电视剧插曲),Men's Talk About Love专辑,album,Song,Album
+你那么爱她 (《土地》电视剧片头曲|《前男友不是人》电视剧插曲),林隆璇,artist,Song,Artist
+你那么爱她 (《土地》电视剧片头曲|《前男友不是人》电视剧插曲),李圣杰,artist,Song,Artist
+你那么爱她 (《土地》电视剧片头曲|《前男友不是人》电视剧插曲),福茂唱片,company,Song,Company
+你那么爱她 (《土地》电视剧片头曲|《前男友不是人》电视剧插曲),Pop,genre,Song,Genre
+你那么爱她 (《土地》电视剧片头曲|《前男友不是人》电视剧插曲),国语,lan,Song,Lan
+你那么爱她 (《土地》电视剧片头曲|《前男友不是人》电视剧插曲),2005-12-29,pub_time,Song,Pub_Time
+一剪梅,天之大专辑,album,Song,Album
+一剪梅,费玉清,artist,Song,Artist
+一剪梅,索尼音乐,company,Song,Company
+一剪梅,Pop,genre,Song,Genre
+一剪梅,国语,lan,Song,Lan
+一剪梅,2010-04-23,pub_time,Song,Pub_Time
+听雪 (《烈火如歌》电视剧如歌情感主题曲),烈火如歌 电视剧原声带专辑,album,Song,Album
+听雪 (《烈火如歌》电视剧如歌情感主题曲),张碧晨,artist,Song,Artist
+听雪 (《烈火如歌》电视剧如歌情感主题曲),上海希瓜音乐制作有限公司,company,Song,Company
+听雪 (《烈火如歌》电视剧如歌情感主题曲),Pop,genre,Song,Genre
+听雪 (《烈火如歌》电视剧如歌情感主题曲),国语,lan,Song,Lan
+听雪 (《烈火如歌》电视剧如歌情感主题曲),2018-03-22,pub_time,Song,Pub_Time
+关键词,和自己对话 From M.E. To Myself专辑,album,Song,Album
+关键词,林俊杰,artist,Song,Artist
+关键词,华纳唱片,company,Song,Company
+关键词,Pop,genre,Song,Genre
+关键词,国语,lan,Song,Lan
+关键词,2015-12-25,pub_time,Song,Pub_Time
+天份,怪咖专辑,album,Song,Album
+天份,薛之谦,artist,Song,Artist
+天份,华宇世博,company,Song,Company
+天份,Pop,genre,Song,Genre
+天份,国语,lan,Song,Lan
+天份,2018-12-31,pub_time,Song,Pub_Time
+圣所,伟大的渺小专辑,album,Song,Album
+圣所,林俊杰,artist,Song,Artist
+圣所,华纳唱片,company,Song,Company
+圣所,Pop,genre,Song,Genre
+圣所,国语,lan,Song,Lan
+圣所,2017-12-28,pub_time,Song,Pub_Time
+原来占据你内心的人不是我,原来占据你内心的人不是我专辑,album,Song,Album
+原来占据你内心的人不是我,贺一航,artist,Song,Artist
+原来占据你内心的人不是我,讯通诒合,company,Song,Company
+原来占据你内心的人不是我,Pop,genre,Song,Genre
+原来占据你内心的人不是我,国语,lan,Song,Lan
+原来占据你内心的人不是我,2018-08-02,pub_time,Song,Pub_Time
+我不愿明白 (《古董局中局》影视剧推广曲),古董局中局 影视剧原声带专辑,album,Song,Album
+我不愿明白 (《古董局中局》影视剧推广曲),段奥娟,artist,Song,Artist
+我不愿明白 (《古董局中局》影视剧推广曲),北京二十四小时文化发展有限公司,company,Song,Company
+我不愿明白 (《古董局中局》影视剧推广曲),Soundtrack,genre,Song,Genre
+我不愿明白 (《古董局中局》影视剧推广曲),国语,lan,Song,Lan
+我不愿明白 (《古董局中局》影视剧推广曲),2019-01-11,pub_time,Song,Pub_Time
+黑夜问白天,黑夜问白天专辑,album,Song,Album
+黑夜问白天,林俊杰,artist,Song,Artist
+黑夜问白天,华纳唱片,company,Song,Company
+黑夜问白天,Pop,genre,Song,Genre
+黑夜问白天,国语,lan,Song,Lan
+黑夜问白天,2017-12-25,pub_time,Song,Pub_Time
+不为谁而作的歌,不为谁而作的歌专辑,album,Song,Album
+不为谁而作的歌,林俊杰,artist,Song,Artist
+不为谁而作的歌,华纳唱片,company,Song,Company
+不为谁而作的歌,Pop,genre,Song,Genre
+不为谁而作的歌,国语,lan,Song,Lan
+不为谁而作的歌,2015-12-03,pub_time,Song,Pub_Time
+清明上河图,新贵妃醉酒专辑,album,Song,Album
+清明上河图,李玉刚,artist,Song,Artist
+清明上河图,上海领芮文化传媒有限公司,company,Song,Company
+清明上河图,Pop,genre,Song,Genre
+清明上河图,国语,lan,Song,Lan
+清明上河图,2010-12-28,pub_time,Song,Pub_Time
+纸短情长,纸短情长（完整版）专辑,album,Song,Album
+纸短情长,烟把儿乐队,artist,Song,Artist
+纸短情长,Folk,genre,Song,Genre
+纸短情长,国语,lan,Song,Lan
+纸短情长,2018-03-31,pub_time,Song,Pub_Time
+水星记,水星记专辑,album,Song,Album
+水星记,郭顶,artist,Song,Artist
+水星记,环球唱片,company,Song,Company
+水星记,Pop,genre,Song,Genre
+水星记,国语,lan,Song,Lan
+水星记,2016-11-21,pub_time,Song,Pub_Time
+下坠Falling,下坠Falling专辑,album,Song,Album
+下坠Falling,Corki,artist,Song,Artist
+下坠Falling,重低音文化,company,Song,Company
+下坠Falling, Rap/Hip Hop,genre,Song,Genre
+下坠Falling,国语,lan,Song,Lan
+下坠Falling,2018-11-24,pub_time,Song,Pub_Time
+遥远的你 (正式版),遥远的你专辑,album,Song,Album
+遥远的你 (正式版),221小伙伴,artist,Song,Artist
+遥远的你 (正式版),鲸鱼向海（北京）文化有限公司,company,Song,Company
+遥远的你 (正式版),Pop,genre,Song,Genre
+遥远的你 (正式版),国语,lan,Song,Lan
+遥远的你 (正式版),2018-12-02,pub_time,Song,Pub_Time
+伟大的渺小 (《Until The Day》国语版),伟大的渺小专辑,album,Song,Album
+伟大的渺小 (《Until The Day》国语版),林俊杰,artist,Song,Artist
+伟大的渺小 (《Until The Day》国语版),华纳唱片,company,Song,Company
+伟大的渺小 (《Until The Day》国语版),Pop,genre,Song,Genre
+伟大的渺小 (《Until The Day》国语版),国语,lan,Song,Lan
+伟大的渺小 (《Until The Day》国语版),2017-12-28,pub_time,Song,Pub_Time
+墨绿的夜 (《地球最后的夜晚》电影推广曲),墨绿的夜专辑,album,Song,Album
+墨绿的夜 (《地球最后的夜晚》电影推广曲),田馥甄,artist,Song,Artist
+墨绿的夜 (《地球最后的夜晚》电影推广曲),乐来乐好有限公司,company,Song,Company
+墨绿的夜 (《地球最后的夜晚》电影推广曲),Soundtrack,genre,Song,Genre
+墨绿的夜 (《地球最后的夜晚》电影推广曲),国语,lan,Song,Lan
+墨绿的夜 (《地球最后的夜晚》电影推广曲),2018-12-28,pub_time,Song,Pub_Time
+别再闹了 (《来电狂响》电影暖冬主题曲),别再闹了（《来电狂响》电影暖冬主题曲）专辑,album,Song,Album
+别再闹了 (《来电狂响》电影暖冬主题曲),毛不易,artist,Song,Artist
+别再闹了 (《来电狂响》电影暖冬主题曲),奔跑怪物,company,Song,Company
+别再闹了 (《来电狂响》电影暖冬主题曲),Soundtrack,genre,Song,Genre
+别再闹了 (《来电狂响》电影暖冬主题曲),国语,lan,Song,Lan
+别再闹了 (《来电狂响》电影暖冬主题曲),2018-12-19,pub_time,Song,Pub_Time
+月牙湾,爱‧歌姬专辑,album,Song,Album
+月牙湾,F.I.R.飞儿乐团,artist,Song,Artist
+月牙湾,华纳唱片,company,Song,Company
+月牙湾,Rock,genre,Song,Genre
+月牙湾,国语,lan,Song,Lan
+月牙湾,2007-09-28,pub_time,Song,Pub_Time
+只要有你的地方 (《消失爱人》电影主题曲),和自己对话 From M.E. To Myself专辑,album,Song,Album
+只要有你的地方 (《消失爱人》电影主题曲),林俊杰,artist,Song,Artist
+只要有你的地方 (《消失爱人》电影主题曲),华纳唱片,company,Song,Company
+只要有你的地方 (《消失爱人》电影主题曲),Pop,genre,Song,Genre
+只要有你的地方 (《消失爱人》电影主题曲),国语,lan,Song,Lan
+只要有你的地方 (《消失爱人》电影主题曲),2015-12-25,pub_time,Song,Pub_Time
+往后余生,往后余生专辑,album,Song,Album
+往后余生,马良,artist,Song,Artist
+往后余生,孙茜茹,artist,Song,Artist
+往后余生,北京鼎跃科技有限公司,company,Song,Company
+往后余生,Pop,genre,Song,Genre
+往后余生,国语,lan,Song,Lan
+往后余生,2018-09-27,pub_time,Song,Pub_Time
+Everything I Need (Film Version) (《海王》电影片尾曲),Aquaman (Original Motion Picture Soundtrack)专辑,album,Song,Album
+Everything I Need (Film Version) (《海王》电影片尾曲),Skylar Grey,artist,Song,Artist
+Everything I Need (Film Version) (《海王》电影片尾曲),INgrooves,company,Song,Company
+Everything I Need (Film Version) (《海王》电影片尾曲),Soundtrack,genre,Song,Genre
+Everything I Need (Film Version) (《海王》电影片尾曲), 英语,lan,Song,Lan
+Everything I Need (Film Version) (《海王》电影片尾曲),2018-12-14,pub_time,Song,Pub_Time
+不在,不在专辑,album,Song,Album
+不在,韩安旭,artist,Song,Artist
+不在,绍兴市上虞创新文化传媒有限公司,company,Song,Company
+不在,Pop,genre,Song,Genre
+不在,国语,lan,Song,Lan
+不在,2018-10-24,pub_time,Song,Pub_Time
+我继续,伟大的渺小专辑,album,Song,Album
+我继续,林俊杰,artist,Song,Artist
+我继续,华纳唱片,company,Song,Company
+我继续,Pop,genre,Song,Genre
+我继续,国语,lan,Song,Lan
+我继续,2017-12-28,pub_time,Song,Pub_Time
+说爱你,说爱你专辑,album,Song,Album
+说爱你,刘至佳,artist,Song,Artist
+说爱你,鲸鱼向海（北京）文化有限公司,company,Song,Company
+说爱你,Pop,genre,Song,Genre
+说爱你,国语,lan,Song,Lan
+说爱你,2018-12-12,pub_time,Song,Pub_Time
+38度6,38度6专辑,album,Song,Album
+38度6,黑龙,artist,Song,Artist
+38度6,百纳娱乐,company,Song,Company
+38度6,Pop,genre,Song,Genre
+38度6,国语,lan,Song,Lan
+38度6,2018-08-14,pub_time,Song,Pub_Time
+去年夏天,去年夏天专辑,album,Song,Album
+去年夏天,王大毛,artist,Song,Artist
+去年夏天,成都塔堡文化传播有限公司,company,Song,Company
+去年夏天,Pop,genre,Song,Genre
+去年夏天,国语,lan,Song,Lan
+去年夏天,2018-05-10,pub_time,Song,Pub_Time
+流浪,流浪专辑,album,Song,Album
+流浪,半阳,artist,Song,Artist
+流浪,北京亿格艾科技有限公司,company,Song,Company
+流浪,Pop,genre,Song,Genre
+流浪,国语,lan,Song,Lan
+流浪,2018-07-06,pub_time,Song,Pub_Time
+陷阱,陷阱专辑,album,Song,Album
+陷阱,王北车,artist,Song,Artist
+陷阱,重低音文化,company,Song,Company
+陷阱,Pop,genre,Song,Genre
+陷阱,国语,lan,Song,Lan
+陷阱,2018-07-10,pub_time,Song,Pub_Time
+新物种,新物种专辑,album,Song,Album
+新物种,李宇春,artist,Song,Artist
+新物种,黄色石头,company,Song,Company
+新物种,Pop,genre,Song,Genre
+新物种,国语,lan,Song,Lan
+新物种,2019-01-01,pub_time,Song,Pub_Time
+白羊,白羊专辑,album,Song,Album
+白羊,徐秉龙,artist,Song,Artist
+白羊,沈以诚,artist,Song,Artist
+白羊,上海煮草文化传播有限公司,company,Song,Company
+白羊,Folk,genre,Song,Genre
+白羊,国语,lan,Song,Lan
+白羊,2017-11-08,pub_time,Song,Pub_Time
+不染,不染专辑,album,Song,Album
+不染,简弘亦,artist,Song,Artist
+不染,环球动音,company,Song,Company
+不染,Pop,genre,Song,Genre
+不染,国语,lan,Song,Lan
+不染,2018-08-16,pub_time,Song,Pub_Time
+剪云者,伟大的渺小专辑,album,Song,Album
+剪云者,林俊杰,artist,Song,Artist
+剪云者,华纳唱片,company,Song,Company
+剪云者,Pop,genre,Song,Genre
+剪云者,国语,lan,Song,Lan
+剪云者,2017-12-28,pub_time,Song,Pub_Time
+별 (星) (《阿尔罕布拉宫的回忆》韩剧插曲),알함브라궁전의 추억 OST Part. 1专辑,album,Song,Album
+별 (星) (《阿尔罕布拉宫的回忆》韩剧插曲),Loco (로꼬),artist,Song,Artist
+별 (星) (《阿尔罕布拉宫的回忆》韩剧插曲),俞胜恩 (유성은),artist,Song,Artist
+별 (星) (《阿尔罕布拉宫的回忆》韩剧插曲),GENIE MUSIC,company,Song,Company
+별 (星) (《阿尔罕布拉宫的回忆》韩剧插曲),Soundtrack,genre,Song,Genre
+별 (星) (《阿尔罕布拉宫的回忆》韩剧插曲), 韩语,lan,Song,Lan
+별 (星) (《阿尔罕布拉宫的回忆》韩剧插曲),2018-12-08,pub_time,Song,Pub_Time
+不仅仅是喜欢,不仅仅是喜欢专辑,album,Song,Album
+不仅仅是喜欢,孙语赛,artist,Song,Artist
+不仅仅是喜欢,萧全,artist,Song,Artist
+不仅仅是喜欢,重低音文化,company,Song,Company
+不仅仅是喜欢,Pop,genre,Song,Genre
+不仅仅是喜欢,国语,lan,Song,Lan
+不仅仅是喜欢,2018-03-06,pub_time,Song,Pub_Time
+静悄悄,静悄悄专辑,album,Song,Album
+静悄悄,曲肖冰,artist,Song,Artist
+静悄悄,北京亿格艾科技有限公司,company,Song,Company
+静悄悄,Pop,genre,Song,Genre
+静悄悄,国语,lan,Song,Lan
+静悄悄,2018-10-13,pub_time,Song,Pub_Time
+寂寞烟火,寂寞烟火专辑,album,Song,Album
+寂寞烟火,蓝心羽,artist,Song,Artist
+寂寞烟火,极韵文化,company,Song,Company
+寂寞烟火,Pop,genre,Song,Genre
+寂寞烟火,国语,lan,Song,Lan
+寂寞烟火,2018-11-08,pub_time,Song,Pub_Time
+Something Just Like This,Something Just Like This专辑,album,Song,Album
+Something Just Like This,The Chainsmokers,artist,Song,Artist
+Something Just Like This,Coldplay,artist,Song,Artist
+Something Just Like This,索尼音乐,company,Song,Company
+Something Just Like This,Dance,genre,Song,Genre
+Something Just Like This, 英语,lan,Song,Lan
+Something Just Like This,2017-02-22,pub_time,Song,Pub_Time
+幸福了 然后呢,幸福了 然后呢专辑,album,Song,Album
+幸福了 然后呢,A-Lin,artist,Song,Artist
+幸福了 然后呢,Pop,genre,Song,Genre
+幸福了 然后呢,国语,lan,Song,Lan
+幸福了 然后呢,2012-12-30,pub_time,Song,Pub_Time
+落,落专辑,album,Song,Album
+落,艾辰,artist,Song,Artist
+落,独立发行,company,Song,Company
+落,Pop,genre,Song,Genre
+落,国语,lan,Song,Lan
+落,2018-10-01,pub_time,Song,Pub_Time
+戒烟,嗯专辑,album,Song,Album
+戒烟,李荣浩,artist,Song,Artist
+戒烟,华纳唱片,company,Song,Company
+戒烟,Pop,genre,Song,Genre
+戒烟,国语,lan,Song,Lan
+戒烟,2017-11-17,pub_time,Song,Pub_Time
+有梦可待 (《幕后之王》电视剧片头曲),幕后之王 电视原声音乐专辑专辑,album,Song,Album
+有梦可待 (《幕后之王》电视剧片头曲),陈立农,artist,Song,Artist
+有梦可待 (《幕后之王》电视剧片头曲),霍尔果斯梦幻星生园传媒有限公司,company,Song,Company
+有梦可待 (《幕后之王》电视剧片头曲),Soundtrack,genre,Song,Genre
+有梦可待 (《幕后之王》电视剧片头曲),国语,lan,Song,Lan
+有梦可待 (《幕后之王》电视剧片头曲),2019-01-05,pub_time,Song,Pub_Time
+如梦令 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),知否知否应是绿肥红瘦 电视剧原声带专辑,album,Song,Album
+如梦令 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),许艺娜,artist,Song,Artist
+如梦令 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),青春繁花,company,Song,Company
+如梦令 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),Soundtrack,genre,Song,Genre
+如梦令 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),国语,lan,Song,Lan
+如梦令 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),2019-01-16,pub_time,Song,Pub_Time
+HandClap (吃鸡战歌!绝地求生嚣张BGM),Fitz & the Tantrums专辑,album,Song,Album
+HandClap (吃鸡战歌!绝地求生嚣张BGM),Fitz and The Tantrums,artist,Song,Artist
+HandClap (吃鸡战歌!绝地求生嚣张BGM),华纳唱片,company,Song,Company
+HandClap (吃鸡战歌!绝地求生嚣张BGM),Alternative,genre,Song,Genre
+HandClap (吃鸡战歌!绝地求生嚣张BGM), 英语,lan,Song,Lan
+HandClap (吃鸡战歌!绝地求生嚣张BGM),2016-06-03,pub_time,Song,Pub_Time
+卡路里 (《西虹市首富》电影插曲),西虹市首富 电影原声专辑,album,Song,Album
+卡路里 (《西虹市首富》电影插曲),火箭少女101,artist,Song,Artist
+卡路里 (《西虹市首富》电影插曲),奔跑怪物,company,Song,Company
+卡路里 (《西虹市首富》电影插曲),Soundtrack,genre,Song,Genre
+卡路里 (《西虹市首富》电影插曲),国语,lan,Song,Lan
+卡路里 (《西虹市首富》电影插曲),2018-08-01,pub_time,Song,Pub_Time
+假装,拾陆专辑,album,Song,Album
+假装,陈雪凝,artist,Song,Artist
+假装,Pop,genre,Song,Genre
+假装,国语,lan,Song,Lan
+假装,2018-04-14,pub_time,Song,Pub_Time
+Shape of You,Shape of You专辑,album,Song,Album
+Shape of You,Ed Sheeran,artist,Song,Artist
+Shape of You,华纳唱片,company,Song,Company
+Shape of You,Pop,genre,Song,Genre
+Shape of You, 英语,lan,Song,Lan
+Shape of You,2017-01-06,pub_time,Song,Pub_Time
+分手不分离,分手不分离专辑,album,Song,Album
+分手不分离,黄子韬,artist,Song,Artist
+分手不分离,黄子韬工作室,company,Song,Company
+分手不分离,Pop,genre,Song,Genre
+分手不分离,国语,lan,Song,Lan
+分手不分离,2018-12-31,pub_time,Song,Pub_Time
+爱你,爱你专辑,album,Song,Album
+爱你,王北车,artist,Song,Artist
+爱你,制作家,company,Song,Company
+爱你,Pop,genre,Song,Genre
+爱你,国语,lan,Song,Lan
+爱你,2018-12-22,pub_time,Song,Pub_Time
+飞云之下,飞云之下专辑,album,Song,Album
+飞云之下,韩红,artist,Song,Artist
+飞云之下,林俊杰,artist,Song,Artist
+飞云之下,央金玛国际文化传媒（北京）有限公司,company,Song,Company
+飞云之下,Pop,genre,Song,Genre
+飞云之下,国语,lan,Song,Lan
+飞云之下,2018-04-23,pub_time,Song,Pub_Time
+你一定要幸福,你一定要幸福专辑,album,Song,Album
+你一定要幸福,简弘亦,artist,Song,Artist
+你一定要幸福,环球动音,company,Song,Company
+你一定要幸福,Pop,genre,Song,Genre
+你一定要幸福,国语,lan,Song,Lan
+你一定要幸福,2016-11-08,pub_time,Song,Pub_Time
+学猫叫,学猫叫专辑,album,Song,Album
+学猫叫,小潘潘（潘柚彤）,artist,Song,Artist
+学猫叫,小峰峰（陈峰）,artist,Song,Artist
+学猫叫,麦袭时代,company,Song,Company
+学猫叫,Pop,genre,Song,Genre
+学猫叫,国语,lan,Song,Lan
+学猫叫,2018-04-20,pub_time,Song,Pub_Time
+醉赤壁 (《赤壁Online》网游主题曲),JJ陆专辑,album,Song,Album
+醉赤壁 (《赤壁Online》网游主题曲),林俊杰,artist,Song,Artist
+醉赤壁 (《赤壁Online》网游主题曲),海蝶音乐,company,Song,Company
+醉赤壁 (《赤壁Online》网游主题曲),Pop,genre,Song,Genre
+醉赤壁 (《赤壁Online》网游主题曲),国语,lan,Song,Lan
+醉赤壁 (《赤壁Online》网游主题曲),2008-10-18,pub_time,Song,Pub_Time
+Wolves,Wolves专辑,album,Song,Album
+Wolves,Selena Gomez,artist,Song,Artist
+Wolves,Marshmello,artist,Song,Artist
+Wolves,环球唱片,company,Song,Company
+Wolves,Pop,genre,Song,Genre
+Wolves, 英语,lan,Song,Lan
+Wolves,2017-10-25,pub_time,Song,Pub_Time
+当歌 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),知否知否应是绿肥红瘦 电视剧原声带专辑,album,Song,Album
+当歌 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),叶炫清,artist,Song,Artist
+当歌 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),青春繁花,company,Song,Company
+当歌 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),Soundtrack,genre,Song,Genre
+当歌 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),国语,lan,Song,Lan
+当歌 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),2019-01-16,pub_time,Song,Pub_Time
+老男孩 (《老男孩》电影主题曲),父亲专辑,album,Song,Album
+老男孩 (《老男孩》电影主题曲),筷子兄弟,artist,Song,Artist
+老男孩 (《老男孩》电影主题曲),Pop,genre,Song,Genre
+老男孩 (《老男孩》电影主题曲),国语,lan,Song,Lan
+老男孩 (《老男孩》电影主题曲),2011-12-20,pub_time,Song,Pub_Time
+给陌生的你听,给陌生的你听专辑,album,Song,Album
+给陌生的你听,G.G张思源,artist,Song,Artist
+给陌生的你听,坚诚文化,company,Song,Company
+给陌生的你听,Pop,genre,Song,Genre
+给陌生的你听,国语,lan,Song,Lan
+给陌生的你听,2018-06-24,pub_time,Song,Pub_Time
+听说,听说专辑,album,Song,Album
+听说,丛铭君,artist,Song,Artist
+听说,坚诚文化,company,Song,Company
+听说,Pop,genre,Song,Genre
+听说,国语,lan,Song,Lan
+听说,2017-09-18,pub_time,Song,Pub_Time
+认真的雪,薛之谦专辑,album,Song,Album
+认真的雪,薛之谦,artist,Song,Artist
+认真的雪,华宇世博,company,Song,Company
+认真的雪,Pop,genre,Song,Genre
+认真的雪,国语,lan,Song,Lan
+认真的雪,2006-06-09,pub_time,Song,Pub_Time
+慢慢喜欢你,我们在中场相遇专辑,album,Song,Album
+慢慢喜欢你,莫文蔚,artist,Song,Artist
+慢慢喜欢你,索尼音乐,company,Song,Company
+慢慢喜欢你,Pop,genre,Song,Genre
+慢慢喜欢你,国语,lan,Song,Lan
+慢慢喜欢你,2018-05-31,pub_time,Song,Pub_Time
+讲真的,不要你为难专辑,album,Song,Album
+讲真的,曾惜,artist,Song,Artist
+讲真的,Pop,genre,Song,Genre
+讲真的,国语,lan,Song,Lan
+讲真的,2015-03-12,pub_time,Song,Pub_Time
+当真,当真专辑,album,Song,Album
+当真,蒋蒋,artist,Song,Artist
+当真,曲肖冰,artist,Song,Artist
+当真,北京千和世纪文化传播有限公司,company,Song,Company
+当真,Pop,genre,Song,Genre
+当真,国语,lan,Song,Lan
+当真,2018-08-24,pub_time,Song,Pub_Time
+阿果吉曲 (《追梦者》电影插曲),阿果吉曲专辑,album,Song,Album
+阿果吉曲 (《追梦者》电影插曲),海来阿木,artist,Song,Artist
+阿果吉曲 (《追梦者》电影插曲),坚诚文化,company,Song,Company
+阿果吉曲 (《追梦者》电影插曲),Pop,genre,Song,Genre
+阿果吉曲 (《追梦者》电影插曲),国语,lan,Song,Lan
+阿果吉曲 (《追梦者》电影插曲),2018-10-12,pub_time,Song,Pub_Time
+需要人陪,十八般武艺专辑,album,Song,Album
+需要人陪,王力宏,artist,Song,Artist
+需要人陪,宏声音乐,company,Song,Company
+需要人陪,Pop,genre,Song,Genre
+需要人陪,国语,lan,Song,Lan
+需要人陪,2010-08-13,pub_time,Song,Pub_Time
+PLANET,3ラムジ专辑,album,Song,Album
+PLANET,Lambsey (ラムジ),artist,Song,Artist
+PLANET,爱贝克思,company,Song,Company
+PLANET,Pop,genre,Song,Genre
+PLANET, 日语,lan,Song,Lan
+PLANET,2006-06-07,pub_time,Song,Pub_Time
+Counting Sheep,Counting Sheep专辑,album,Song,Album
+Counting Sheep,SAFIA,artist,Song,Artist
+Counting Sheep,Electronica,genre,Song,Genre
+Counting Sheep, 英语,lan,Song,Lan
+Counting Sheep,2015-11-06,pub_time,Song,Pub_Time
+我爱你三个字能倒过来 (《幕后之王》电视剧主题曲),幕后之王 电视原声音乐专辑专辑,album,Song,Album
+我爱你三个字能倒过来 (《幕后之王》电视剧主题曲),张靓颖,artist,Song,Artist
+我爱你三个字能倒过来 (《幕后之王》电视剧主题曲),霍尔果斯梦幻星生园传媒有限公司,company,Song,Company
+我爱你三个字能倒过来 (《幕后之王》电视剧主题曲),Soundtrack,genre,Song,Genre
+我爱你三个字能倒过来 (《幕后之王》电视剧主题曲),国语,lan,Song,Lan
+我爱你三个字能倒过来 (《幕后之王》电视剧主题曲),2019-01-05,pub_time,Song,Pub_Time
+说爱你 (《空中拜金女》电影主题曲),看我72变专辑,album,Song,Album
+说爱你 (《空中拜金女》电影主题曲),蔡依林,artist,Song,Artist
+说爱你 (《空中拜金女》电影主题曲),索尼音乐,company,Song,Company
+说爱你 (《空中拜金女》电影主题曲),Pop,genre,Song,Genre
+说爱你 (《空中拜金女》电影主题曲),国语,lan,Song,Lan
+说爱你 (《空中拜金女》电影主题曲),2003-03-07,pub_time,Song,Pub_Time
+永不独行 (2018《球球大作战》年终总决赛（BGF）主题曲),永不独行专辑,album,Song,Album
+永不独行 (2018《球球大作战》年终总决赛（BGF）主题曲),GAI周延,artist,Song,Artist
+永不独行 (2018《球球大作战》年终总决赛（BGF）主题曲),艾热,artist,Song,Artist
+永不独行 (2018《球球大作战》年终总决赛（BGF）主题曲),看见文娱·音乐中心,company,Song,Company
+永不独行 (2018《球球大作战》年终总决赛（BGF）主题曲), Rap/Hip Hop,genre,Song,Genre
+永不独行 (2018《球球大作战》年终总决赛（BGF）主题曲),国语,lan,Song,Lan
+永不独行 (2018《球球大作战》年终总决赛（BGF）主题曲),2019-01-05,pub_time,Song,Pub_Time
+你要的全拿走,覅忒好专辑,album,Song,Album
+你要的全拿走,胡彦斌,artist,Song,Artist
+你要的全拿走,华宇世博,company,Song,Company
+你要的全拿走,R&B,genre,Song,Genre
+你要的全拿走,国语,lan,Song,Lan
+你要的全拿走,2018-01-23,pub_time,Song,Pub_Time
+Nevada,Nevada专辑,album,Song,Album
+Nevada,Vicetone,artist,Song,Artist
+Nevada,Cozi Zuehlsdorff,artist,Song,Artist
+Nevada,Monstercat Inc.,company,Song,Company
+Nevada,Dance,genre,Song,Genre
+Nevada, 英语,lan,Song,Lan
+Nevada,2016-06-24,pub_time,Song,Pub_Time
+天亮以前说再见 (《深夜电台》电影主题曲),天亮以前说再见专辑,album,Song,Album
+天亮以前说再见 (《深夜电台》电影主题曲),曲肖冰,artist,Song,Artist
+天亮以前说再见 (《深夜电台》电影主题曲),北京千和世纪文化传播有限公司,company,Song,Company
+天亮以前说再见 (《深夜电台》电影主题曲),Pop,genre,Song,Genre
+天亮以前说再见 (《深夜电台》电影主题曲),国语,lan,Song,Lan
+天亮以前说再见 (《深夜电台》电影主题曲),2019-01-04,pub_time,Song,Pub_Time
+很任性,很任性专辑,album,Song,Album
+很任性,千百顺,artist,Song,Artist
+很任性,北京丰盈联合文化有限公司,company,Song,Company
+很任性,Pop,genre,Song,Genre
+很任性,国语,lan,Song,Lan
+很任性,2014-12-24,pub_time,Song,Pub_Time
+答案,今夜二十岁专辑,album,Song,Album
+答案,杨坤,artist,Song,Artist
+答案,郭采洁,artist,Song,Artist
+答案,Pop,genre,Song,Genre
+答案,国语,lan,Song,Lan
+答案,2014-09-02,pub_time,Song,Pub_Time
+我的天空 (《青春派》电影主题曲),青春派 电影原声带专辑,album,Song,Album
+我的天空 (《青春派》电影主题曲),南征北战NZBZ,artist,Song,Artist
+我的天空 (《青春派》电影主题曲),凤凰鸣众文化,company,Song,Company
+我的天空 (《青春派》电影主题曲),Soundtrack,genre,Song,Genre
+我的天空 (《青春派》电影主题曲),国语,lan,Song,Lan
+我的天空 (《青春派》电影主题曲),2013-06-14,pub_time,Song,Pub_Time
+SOLO,SOLO专辑,album,Song,Album
+SOLO,Jennie (제니),artist,Song,Artist
+SOLO,YG Entertainment,company,Song,Company
+SOLO, Rap/Hip Hop,genre,Song,Genre
+SOLO, 韩语,lan,Song,Lan
+SOLO,2018-11-12,pub_time,Song,Pub_Time
+岩石里的花,睡皇后专辑,album,Song,Album
+岩石里的花,G.E.M. 邓紫棋,artist,Song,Artist
+岩石里的花,蜂鸟音乐,company,Song,Company
+岩石里的花,Pop,genre,Song,Genre
+岩石里的花,国语,lan,Song,Lan
+岩石里的花,2018-12-14,pub_time,Song,Pub_Time
+123我爱你,123我爱你专辑,album,Song,Album
+123我爱你,新乐尘符,artist,Song,Artist
+123我爱你,昌禾文化,company,Song,Company
+123我爱你,Pop,genre,Song,Genre
+123我爱你,国语,lan,Song,Lan
+123我爱你,2017-12-25,pub_time,Song,Pub_Time
+只是没有如果 (《那年青春我们正好》电视剧片尾曲),只是没有如果专辑,album,Song,Album
+只是没有如果 (《那年青春我们正好》电视剧片尾曲),张靓颖,artist,Song,Artist
+只是没有如果 (《那年青春我们正好》电视剧片尾曲),王铮亮,artist,Song,Artist
+只是没有如果 (《那年青春我们正好》电视剧片尾曲),哆咪哆音乐,company,Song,Company
+只是没有如果 (《那年青春我们正好》电视剧片尾曲),Soundtrack,genre,Song,Genre
+只是没有如果 (《那年青春我们正好》电视剧片尾曲),国语,lan,Song,Lan
+只是没有如果 (《那年青春我们正好》电视剧片尾曲),2016-04-15,pub_time,Song,Pub_Time
+Different World,Different World专辑,album,Song,Album
+Different World,Alan Walker,artist,Song,Artist
+Different World,K-391,artist,Song,Artist
+Different World,Sofia Carson,artist,Song,Artist
+Different World,CORSAK胡梦周,artist,Song,Artist
+Different World,索尼音乐,company,Song,Company
+Different World,Dance,genre,Song,Genre
+Different World, 英语,lan,Song,Lan
+Different World,2018-12-14,pub_time,Song,Pub_Time
+The Spectre,The Spectre专辑,album,Song,Album
+The Spectre,Alan Walker,artist,Song,Artist
+The Spectre,索尼音乐,company,Song,Company
+The Spectre,Dance,genre,Song,Genre
+The Spectre, 英语,lan,Song,Lan
+The Spectre,2017-09-15,pub_time,Song,Pub_Time
+离人愁,离人愁专辑,album,Song,Album
+离人愁,李袁杰,artist,Song,Artist
+离人愁,北京唐羽文化有限公司,company,Song,Company
+离人愁,Pop,genre,Song,Genre
+离人愁,国语,lan,Song,Lan
+离人愁,2018-06-16,pub_time,Song,Pub_Time
+转眼（2018 自传最终章）,转眼（2018 自传最终章）专辑,album,Song,Album
+转眼（2018 自传最终章）,五月天,artist,Song,Artist
+转眼（2018 自传最终章）,相信音乐,company,Song,Company
+转眼（2018 自传最终章）,Pop,genre,Song,Genre
+转眼（2018 自传最终章）,国语,lan,Song,Lan
+转眼（2018 自传最终章）,2018-12-31,pub_time,Song,Pub_Time
+穿越,伟大的渺小专辑,album,Song,Album
+穿越,林俊杰,artist,Song,Artist
+穿越,华纳唱片,company,Song,Company
+穿越,Pop,genre,Song,Genre
+穿越,国语,lan,Song,Lan
+穿越,2017-12-28,pub_time,Song,Pub_Time
+好久不见 (《失恋33天》电影插曲|《不如不见》国语版),认了吧专辑,album,Song,Album
+好久不见 (《失恋33天》电影插曲|《不如不见》国语版),陈奕迅,artist,Song,Artist
+好久不见 (《失恋33天》电影插曲|《不如不见》国语版),环球唱片,company,Song,Company
+好久不见 (《失恋33天》电影插曲|《不如不见》国语版),Pop,genre,Song,Genre
+好久不见 (《失恋33天》电影插曲|《不如不见》国语版),国语,lan,Song,Lan
+好久不见 (《失恋33天》电影插曲|《不如不见》国语版),2007-04-24,pub_time,Song,Pub_Time
+Too Bad,和自己对话 From M.E. To Myself专辑,album,Song,Album
+Too Bad,林俊杰,artist,Song,Artist
+Too Bad,华纳唱片,company,Song,Company
+Too Bad,Pop,genre,Song,Genre
+Too Bad,国语,lan,Song,Lan
+Too Bad,2015-12-25,pub_time,Song,Pub_Time
+世界第一等,世界第一等专辑,album,Song,Album
+世界第一等,霈丹（浪哥）,artist,Song,Artist
+世界第一等,雄音音乐工作室,company,Song,Company
+世界第一等,Pop,genre,Song,Genre
+世界第一等,国语,lan,Song,Lan
+世界第一等,2018-11-13,pub_time,Song,Pub_Time
+一百万个可能,一百万个可能专辑,album,Song,Album
+一百万个可能,虎二,artist,Song,Artist
+一百万个可能,广州索氧音乐文化传播有限公司,company,Song,Company
+一百万个可能,Pop,genre,Song,Genre
+一百万个可能,国语,lan,Song,Lan
+一百万个可能,2018-09-14,pub_time,Song,Pub_Time
+过客,过客专辑,album,Song,Album
+过客,周思涵,artist,Song,Artist
+过客,动听音乐,company,Song,Company
+过客,Pop,genre,Song,Genre
+过客,国语,lan,Song,Lan
+过客,2016-12-08,pub_time,Song,Pub_Time
+地铁等待,地铁等待专辑,album,Song,Album
+地铁等待,宋孟君,artist,Song,Artist
+地铁等待,极韵文化,company,Song,Company
+地铁等待,Pop,genre,Song,Genre
+地铁等待,国语,lan,Song,Lan
+地铁等待,2018-10-16,pub_time,Song,Pub_Time
+非酋,非酋专辑,album,Song,Album
+非酋,薛明媛,artist,Song,Artist
+非酋,朱贺,artist,Song,Artist
+非酋,北京千和世纪文化传播有限公司,company,Song,Company
+非酋,Pop,genre,Song,Genre
+非酋,国语,lan,Song,Lan
+非酋,2017-07-09,pub_time,Song,Pub_Time
+再见 你好,金玟岐,artist,Song,Artist
+再见 你好,独立发行,company,Song,Company
+再见 你好,Pop,genre,Song,Genre
+再见 你好,国语,lan,Song,Lan
+刚刚好 (《我与你的光年距离》网络剧主题曲|《总裁误宠替身甜妻》网络剧主题曲),初学者专辑,album,Song,Album
+刚刚好 (《我与你的光年距离》网络剧主题曲|《总裁误宠替身甜妻》网络剧主题曲),薛之谦,artist,Song,Artist
+刚刚好 (《我与你的光年距离》网络剧主题曲|《总裁误宠替身甜妻》网络剧主题曲),海蝶音乐,company,Song,Company
+刚刚好 (《我与你的光年距离》网络剧主题曲|《总裁误宠替身甜妻》网络剧主题曲),Pop,genre,Song,Genre
+刚刚好 (《我与你的光年距离》网络剧主题曲|《总裁误宠替身甜妻》网络剧主题曲),国语,lan,Song,Lan
+刚刚好 (《我与你的光年距离》网络剧主题曲|《总裁误宠替身甜妻》网络剧主题曲),2016-07-18,pub_time,Song,Pub_Time
+世界第一等 (《黑金》电影主题曲),爱在刻骨铭心时专辑,album,Song,Album
+世界第一等 (《黑金》电影主题曲),刘德华,artist,Song,Artist
+世界第一等 (《黑金》电影主题曲),寰亚音乐,company,Song,Company
+世界第一等 (《黑金》电影主题曲),Pop,genre,Song,Genre
+世界第一等 (《黑金》电影主题曲), 闽南语,lan,Song,Lan
+世界第一等 (《黑金》电影主题曲),1997-12-24,pub_time,Song,Pub_Time
+不将就 (《何以笙箫默》电影片尾曲),有理想专辑,album,Song,Album
+不将就 (《何以笙箫默》电影片尾曲),李荣浩,artist,Song,Artist
+不将就 (《何以笙箫默》电影片尾曲),华纳唱片,company,Song,Company
+不将就 (《何以笙箫默》电影片尾曲),Pop,genre,Song,Genre
+不将就 (《何以笙箫默》电影片尾曲),国语,lan,Song,Lan
+不将就 (《何以笙箫默》电影片尾曲),2016-01-22,pub_time,Song,Pub_Time
+LOVE SCENARIO (사랑을 했다),Return专辑,album,Song,Album
+LOVE SCENARIO (사랑을 했다),iKON (아이콘),artist,Song,Artist
+LOVE SCENARIO (사랑을 했다),YG Entertainment,company,Song,Company
+LOVE SCENARIO (사랑을 했다),Pop,genre,Song,Genre
+LOVE SCENARIO (사랑을 했다), 韩语,lan,Song,Lan
+LOVE SCENARIO (사랑을 했다),2018-01-25,pub_time,Song,Pub_Time
+我已经爱上你,我已经爱上你专辑,album,Song,Album
+我已经爱上你,九局,artist,Song,Artist
+我已经爱上你,坚诚文化,company,Song,Company
+我已经爱上你,Pop,genre,Song,Genre
+我已经爱上你,国语,lan,Song,Lan
+我已经爱上你,2018-07-25,pub_time,Song,Pub_Time
+爱情小丑,爱情小丑专辑,album,Song,Album
+爱情小丑,廖晶,artist,Song,Artist
+爱情小丑,北京丰盈联合文化有限公司,company,Song,Company
+爱情小丑,Pop,genre,Song,Genre
+爱情小丑,国语,lan,Song,Lan
+爱情小丑,2018-08-15,pub_time,Song,Pub_Time
+小瓶子 (《假如王子睡着了》电影印象曲),伟大的渺小专辑,album,Song,Album
+小瓶子 (《假如王子睡着了》电影印象曲),林俊杰,artist,Song,Artist
+小瓶子 (《假如王子睡着了》电影印象曲),华纳唱片,company,Song,Company
+小瓶子 (《假如王子睡着了》电影印象曲),Pop,genre,Song,Genre
+小瓶子 (《假如王子睡着了》电影印象曲),国语,lan,Song,Lan
+小瓶子 (《假如王子睡着了》电影印象曲),2017-12-28,pub_time,Song,Pub_Time
+失去才懂,失去才懂专辑,album,Song,Album
+失去才懂,渔圈,artist,Song,Artist
+失去才懂,欧阳朵,artist,Song,Artist
+失去才懂,北京亿格艾科技有限公司,company,Song,Company
+失去才懂,Pop,genre,Song,Genre
+失去才懂,国语,lan,Song,Lan
+失去才懂,2016-12-09,pub_time,Song,Pub_Time
+小半,小梦大半专辑,album,Song,Album
+小半,陈粒,artist,Song,Artist
+小半,北京有此山文化传媒有限公司,company,Song,Company
+小半,Folk,genre,Song,Genre
+小半,国语,lan,Song,Lan
+小半,2016-07-26,pub_time,Song,Pub_Time
+断点,我的梦想我的路专辑,album,Song,Album
+断点,张敬轩,artist,Song,Artist
+断点,环球唱片,company,Song,Company
+断点,Pop,genre,Song,Genre
+断点,国语,lan,Song,Lan
+断点,2005-07-31,pub_time,Song,Pub_Time
+我好像在哪见过你 (《精灵王座》动画电影主题曲),初学者专辑,album,Song,Album
+我好像在哪见过你 (《精灵王座》动画电影主题曲),薛之谦,artist,Song,Artist
+我好像在哪见过你 (《精灵王座》动画电影主题曲),海蝶音乐,company,Song,Company
+我好像在哪见过你 (《精灵王座》动画电影主题曲),Pop,genre,Song,Genre
+我好像在哪见过你 (《精灵王座》动画电影主题曲),国语,lan,Song,Lan
+我好像在哪见过你 (《精灵王座》动画电影主题曲),2016-07-18,pub_time,Song,Pub_Time
+我的将军啊 (原曲：《Watch The Pacific》—FlowEthics),我的将军啊专辑,album,Song,Album
+我的将军啊 (原曲：《Watch The Pacific》—FlowEthics),半阳,artist,Song,Artist
+我的将军啊 (原曲：《Watch The Pacific》—FlowEthics),动听音乐,company,Song,Company
+我的将军啊 (原曲：《Watch The Pacific》—FlowEthics),Pop,genre,Song,Genre
+我的将军啊 (原曲：《Watch The Pacific》—FlowEthics),国语,lan,Song,Lan
+我的将军啊 (原曲：《Watch The Pacific》—FlowEthics),2018-04-27,pub_time,Song,Pub_Time
+远走高飞 (独唱版) (《北京女子图鉴》网络剧插曲),Hello 1专辑,album,Song,Album
+远走高飞 (独唱版) (《北京女子图鉴》网络剧插曲),金志文,artist,Song,Artist
+远走高飞 (独唱版) (《北京女子图鉴》网络剧插曲),Pop,genre,Song,Genre
+远走高飞 (独唱版) (《北京女子图鉴》网络剧插曲),国语,lan,Song,Lan
+远走高飞 (独唱版) (《北京女子图鉴》网络剧插曲),2017-04-28,pub_time,Song,Pub_Time
+九张机 (《双世宠妃》网剧主题曲),九张机专辑,album,Song,Album
+九张机 (《双世宠妃》网剧主题曲),叶炫清,artist,Song,Artist
+九张机 (《双世宠妃》网剧主题曲),畅和文化,company,Song,Company
+九张机 (《双世宠妃》网剧主题曲),Pop,genre,Song,Genre
+九张机 (《双世宠妃》网剧主题曲),国语,lan,Song,Lan
+九张机 (《双世宠妃》网剧主题曲),2017-07-04,pub_time,Song,Pub_Time
+雪落下的声音 (《延禧攻略》电视剧片尾曲),延禧攻略OST专辑,album,Song,Album
+雪落下的声音 (《延禧攻略》电视剧片尾曲),陆虎,artist,Song,Artist
+雪落下的声音 (《延禧攻略》电视剧片尾曲),东阳欢娱影视文化有限公司,company,Song,Company
+雪落下的声音 (《延禧攻略》电视剧片尾曲),Soundtrack,genre,Song,Genre
+雪落下的声音 (《延禧攻略》电视剧片尾曲),国语,lan,Song,Lan
+雪落下的声音 (《延禧攻略》电视剧片尾曲),2018-07-23,pub_time,Song,Pub_Time
+即兴,即兴专辑,album,Song,Album
+即兴,小咪,artist,Song,Artist
+即兴,天悦华音,company,Song,Company
+即兴,Pop,genre,Song,Genre
+即兴,国语,lan,Song,Lan
+即兴,2018-11-19,pub_time,Song,Pub_Time
+Way Back Home (Sam Feldt Edit),Way Back Home (feat. Conor Maynard) (Sam Feldt Edit)专辑,album,Song,Album
+Way Back Home (Sam Feldt Edit),SHAUN (숀),artist,Song,Artist
+Way Back Home (Sam Feldt Edit),Conor Maynard,artist,Song,Artist
+Way Back Home (Sam Feldt Edit),华纳唱片,company,Song,Company
+Way Back Home (Sam Feldt Edit),Electronica,genre,Song,Genre
+Way Back Home (Sam Feldt Edit), 英语,lan,Song,Lan
+Way Back Home (Sam Feldt Edit),2018-12-21,pub_time,Song,Pub_Time
+迷途 (《古董局中局》影视剧主题曲),古董局中局 影视剧原声带专辑,album,Song,Album
+迷途 (《古董局中局》影视剧主题曲),周华健,artist,Song,Artist
+迷途 (《古董局中局》影视剧主题曲),北京二十四小时文化发展有限公司,company,Song,Company
+迷途 (《古董局中局》影视剧主题曲),Soundtrack,genre,Song,Genre
+迷途 (《古董局中局》影视剧主题曲),国语,lan,Song,Lan
+迷途 (《古董局中局》影视剧主题曲),2019-01-11,pub_time,Song,Pub_Time
+走马,走马专辑,album,Song,Album
+走马,摩登兄弟,artist,Song,Artist
+走马,制作家,company,Song,Company
+走马,Pop,genre,Song,Genre
+走马,国语,lan,Song,Lan
+走马,2018-09-10,pub_time,Song,Pub_Time
+琵琶行,琵琶行专辑,album,Song,Album
+琵琶行,奇然,artist,Song,Artist
+琵琶行,沈谧仁,artist,Song,Artist
+琵琶行,伯音时代,company,Song,Company
+琵琶行,Pop,genre,Song,Genre
+琵琶行,国语,lan,Song,Lan
+琵琶行,2017-05-08,pub_time,Song,Pub_Time
+拿走了什么,罪恶感专辑,album,Song,Album
+拿走了什么,A-Lin,artist,Song,Artist
+拿走了什么,索尼音乐,company,Song,Company
+拿走了什么,Pop,genre,Song,Genre
+拿走了什么,国语,lan,Song,Lan
+拿走了什么,2014-12-30,pub_time,Song,Pub_Time
+离开我你快乐吗,离开我你快乐吗专辑,album,Song,Album
+离开我你快乐吗,虎二,artist,Song,Artist
+离开我你快乐吗,重庆塑星文化传媒有限公司,company,Song,Company
+离开我你快乐吗,Pop,genre,Song,Genre
+离开我你快乐吗,国语,lan,Song,Lan
+离开我你快乐吗,2018-12-02,pub_time,Song,Pub_Time
+벌써 12시 (已经12点),벌써 12시专辑,album,Song,Album
+벌써 12시 (已经12点),请夏 (청하),artist,Song,Artist
+벌써 12시 (已经12点),Stone Music Entertainment,company,Song,Company
+벌써 12시 (已经12点),Dance,genre,Song,Genre
+벌써 12시 (已经12点), 韩语,lan,Song,Lan
+벌써 12시 (已经12点),2019-01-02,pub_time,Song,Pub_Time
+情缘等足一辈子,5时30分专辑,album,Song,Album
+情缘等足一辈子,刘德华,artist,Song,Artist
+情缘等足一辈子,East Asia Music (Holdings) Limited,company,Song,Company
+情缘等足一辈子,Pop,genre,Song,Genre
+情缘等足一辈子, 粤语,lan,Song,Lan
+情缘等足一辈子,1994-06-01,pub_time,Song,Pub_Time
+MILLIONS,MILLIONS专辑,album,Song,Album
+MILLIONS,WINNER (위너),artist,Song,Artist
+MILLIONS,YG Entertainment,company,Song,Company
+MILLIONS,Dance,genre,Song,Genre
+MILLIONS, 韩语,lan,Song,Lan
+MILLIONS,2018-12-19,pub_time,Song,Pub_Time
+I'M OK,NEW KIDS REPACKAGE : THE NEW KIDS专辑,album,Song,Album
+I'M OK,iKON (아이콘),artist,Song,Artist
+I'M OK,YG Entertainment,company,Song,Company
+I'M OK, Rap/Hip Hop,genre,Song,Genre
+I'M OK, 韩语,lan,Song,Lan
+I'M OK,2019-01-07,pub_time,Song,Pub_Time
+你还怕大雨吗 (国语),8专辑,album,Song,Album
+你还怕大雨吗 (国语),周柏豪,artist,Song,Artist
+你还怕大雨吗 (国语),华纳唱片,company,Song,Company
+你还怕大雨吗 (国语),Pop,genre,Song,Genre
+你还怕大雨吗 (国语),国语,lan,Song,Lan
+你还怕大雨吗 (国语),2013-08-28,pub_time,Song,Pub_Time
+学到老爱到老 (《双世宠妃》网络剧片尾曲),学到老爱到老专辑,album,Song,Album
+学到老爱到老 (《双世宠妃》网络剧片尾曲),金润吉,artist,Song,Artist
+学到老爱到老 (《双世宠妃》网络剧片尾曲),北京亿格艾科技有限公司,company,Song,Company
+学到老爱到老 (《双世宠妃》网络剧片尾曲),Soundtrack,genre,Song,Genre
+学到老爱到老 (《双世宠妃》网络剧片尾曲),国语,lan,Song,Lan
+学到老爱到老 (《双世宠妃》网络剧片尾曲),2017-07-10,pub_time,Song,Pub_Time
+9277,9277专辑,album,Song,Album
+9277,深七,artist,Song,Artist
+9277,极韵文化,company,Song,Company
+9277,Pop,genre,Song,Genre
+9277,国语,lan,Song,Lan
+9277,2018-05-08,pub_time,Song,Pub_Time
+归去来兮 (《双世宠妃2》网络剧片尾曲),归去来兮专辑,album,Song,Album
+归去来兮 (《双世宠妃2》网络剧片尾曲),叶炫清,artist,Song,Artist
+归去来兮 (《双世宠妃2》网络剧片尾曲),畅和文化,company,Song,Company
+归去来兮 (《双世宠妃2》网络剧片尾曲),Soundtrack,genre,Song,Genre
+归去来兮 (《双世宠妃2》网络剧片尾曲),国语,lan,Song,Lan
+归去来兮 (《双世宠妃2》网络剧片尾曲),2018-10-18,pub_time,Song,Pub_Time
+Despacito (Remix),Despacito (Remix)专辑,album,Song,Album
+Despacito (Remix),Luis Fonsi,artist,Song,Artist
+Despacito (Remix),Daddy Yankee,artist,Song,Artist
+Despacito (Remix),Justin Bieber,artist,Song,Artist
+Despacito (Remix),Pop,genre,Song,Genre
+Despacito (Remix),西班牙语,lan,Song,Lan
+Despacito (Remix),2017-04-17,pub_time,Song,Pub_Time
+凌晨三点,凌晨三点专辑,album,Song,Album
+凌晨三点,陈硕子,artist,Song,Artist
+凌晨三点,独立发行,company,Song,Company
+凌晨三点,Pop,genre,Song,Genre
+凌晨三点,国语,lan,Song,Lan
+凌晨三点,2018-09-30,pub_time,Song,Pub_Time
+孤独的蚂蚁 (《“大”人物》电影“不容易”版主题曲),孤独的蚂蚁专辑,album,Song,Album
+孤独的蚂蚁 (《“大”人物》电影“不容易”版主题曲),小柯,artist,Song,Artist
+孤独的蚂蚁 (《“大”人物》电影“不容易”版主题曲),北京听见时代娱乐传媒有限公司,company,Song,Company
+孤独的蚂蚁 (《“大”人物》电影“不容易”版主题曲),Soundtrack,genre,Song,Genre
+孤独的蚂蚁 (《“大”人物》电影“不容易”版主题曲),国语,lan,Song,Lan
+孤独的蚂蚁 (《“大”人物》电影“不容易”版主题曲),2019-01-06,pub_time,Song,Pub_Time
+违背的青春 (致不易青年主题曲),怪咖专辑,album,Song,Album
+违背的青春 (致不易青年主题曲),薛之谦,artist,Song,Artist
+违背的青春 (致不易青年主题曲),华宇世博,company,Song,Company
+违背的青春 (致不易青年主题曲),Pop,genre,Song,Genre
+违背的青春 (致不易青年主题曲),国语,lan,Song,Lan
+违背的青春 (致不易青年主题曲),2018-12-31,pub_time,Song,Pub_Time
+念你的好,念你的好专辑,album,Song,Album
+念你的好,方艺谚,artist,Song,Artist
+念你的好,独立发行,company,Song,Company
+念你的好,Pop,genre,Song,Genre
+念你的好,国语,lan,Song,Lan
+念你的好,2018-12-18,pub_time,Song,Pub_Time
+殇雪,殇雪专辑,album,Song,Album
+殇雪,云菲菲,artist,Song,Artist
+殇雪,启韵传媒,company,Song,Company
+殇雪,Pop,genre,Song,Genre
+殇雪,国语,lan,Song,Lan
+殇雪,2014-06-08,pub_time,Song,Pub_Time
+会呼吸的痛,崇拜专辑,album,Song,Album
+会呼吸的痛,梁静茹,artist,Song,Artist
+会呼吸的痛,相信音乐,company,Song,Company
+会呼吸的痛,Pop,genre,Song,Genre
+会呼吸的痛,国语,lan,Song,Lan
+会呼吸的痛,2007-11-09,pub_time,Song,Pub_Time
+FADED兵王,FADED兵王专辑,album,Song,Album
+FADED兵王,中华,artist,Song,Artist
+FADED兵王,独立发行,company,Song,Company
+FADED兵王,Pop,genre,Song,Genre
+FADED兵王,国语,lan,Song,Lan
+FADED兵王,2018-12-11,pub_time,Song,Pub_Time
+花海,魔杰座专辑,album,Song,Album
+花海,周杰伦,artist,Song,Artist
+花海,杰威尔音乐有限公司,company,Song,Company
+花海,Pop,genre,Song,Genre
+花海,国语,lan,Song,Lan
+花海,2008-10-15,pub_time,Song,Pub_Time
+只问你肯不肯 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),知否知否应是绿肥红瘦 电视剧原声带专辑,album,Song,Album
+只问你肯不肯 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),胡夏,artist,Song,Artist
+只问你肯不肯 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),青春繁花,company,Song,Company
+只问你肯不肯 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),Soundtrack,genre,Song,Genre
+只问你肯不肯 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),国语,lan,Song,Lan
+只问你肯不肯 (《知否知否应是绿肥红瘦》电视剧剧情概念曲),2019-01-16,pub_time,Song,Pub_Time
+Don't Tie Me Down,我乐意沉默释放内心焰火专辑,album,Song,Album
+Don't Tie Me Down,易烊千玺,artist,Song,Artist
+Don't Tie Me Down,北京时代峰峻文化艺术发展有限公司,company,Song,Company
+Don't Tie Me Down,Pop,genre,Song,Genre
+Don't Tie Me Down,国语,lan,Song,Lan
+Don't Tie Me Down,2018-11-28,pub_time,Song,Pub_Time
+No Place,No Place专辑,album,Song,Album
+No Place,Backstreet Boys,artist,Song,Artist
+No Place,索尼音乐,company,Song,Company
+No Place,Pop,genre,Song,Genre
+No Place, 英语,lan,Song,Lan
+No Place,2019-01-04,pub_time,Song,Pub_Time
+If,Island专辑,album,Song,Album
+If,丁可,artist,Song,Artist
+If,摩登天空,company,Song,Company
+If,Pop,genre,Song,Genre
+If, 英语,lan,Song,Lan
+If,2011-03-30,pub_time,Song,Pub_Time
+嘴巴嘟嘟,嘴巴嘟嘟专辑,album,Song,Album
+嘴巴嘟嘟,刘子璇,artist,Song,Artist
+嘴巴嘟嘟,坚诚文化,company,Song,Company
+嘴巴嘟嘟,Pop,genre,Song,Genre
+嘴巴嘟嘟,国语,lan,Song,Lan
+嘴巴嘟嘟,2015-06-24,pub_time,Song,Pub_Time
+安静,范特西专辑,album,Song,Album
+安静,周杰伦,artist,Song,Artist
+安静,杰威尔音乐有限公司,company,Song,Company
+安静,Pop,genre,Song,Genre
+安静,国语,lan,Song,Lan
+安静,2001-09-20,pub_time,Song,Pub_Time
+Lemon (《Unnatural》日剧主题曲),Lemon专辑,album,Song,Album
+Lemon (《Unnatural》日剧主题曲),米津玄師 (よねづ けんし),artist,Song,Artist
+Lemon (《Unnatural》日剧主题曲),索尼音乐,company,Song,Company
+Lemon (《Unnatural》日剧主题曲),Pop,genre,Song,Genre
+Lemon (《Unnatural》日剧主题曲), 日语,lan,Song,Lan
+Lemon (《Unnatural》日剧主题曲),2018-03-14,pub_time,Song,Pub_Time
+梦不落雨林,梦不落雨林/NAMANANA专辑,album,Song,Album
+梦不落雨林,张艺兴,artist,Song,Artist
+梦不落雨林,东阳横店张艺兴影视工作室,company,Song,Company
+梦不落雨林,Pop,genre,Song,Genre
+梦不落雨林,国语,lan,Song,Lan
+梦不落雨林,2018-10-19,pub_time,Song,Pub_Time
+一个人去巴黎,一个人去巴黎专辑,album,Song,Album
+一个人去巴黎,董又霖,artist,Song,Artist
+一个人去巴黎,北京勇士传奇文化发展有限公司,company,Song,Company
+一个人去巴黎,Pop,genre,Song,Genre
+一个人去巴黎,国语,lan,Song,Lan
+一个人去巴黎,2018-07-14,pub_time,Song,Pub_Time
+甜甜的,我很忙专辑,album,Song,Album
+甜甜的,周杰伦,artist,Song,Artist
+甜甜的,杰威尔音乐有限公司,company,Song,Company
+甜甜的,Pop,genre,Song,Genre
+甜甜的,国语,lan,Song,Lan
+甜甜的,2007-11-02,pub_time,Song,Pub_Time
+以父之名,叶惠美专辑,album,Song,Album
+以父之名,周杰伦,artist,Song,Artist
+以父之名,杰威尔音乐有限公司,company,Song,Company
+以父之名, Rap/Hip Hop,genre,Song,Genre
+以父之名,国语,lan,Song,Lan
+以父之名,2003-07-31,pub_time,Song,Pub_Time
+Run Free (Radio Edit),Run Free专辑,album,Song,Album
+Run Free (Radio Edit),Deep Chills,artist,Song,Artist
+Run Free (Radio Edit),IVIE,artist,Song,Artist
+Run Free (Radio Edit),Miami Beats,company,Song,Company
+Run Free (Radio Edit),Electronica,genre,Song,Genre
+Run Free (Radio Edit), 英语,lan,Song,Lan
+Run Free (Radio Edit),2017-08-18,pub_time,Song,Pub_Time
+101个愿望,101个愿望专辑,album,Song,Album
+101个愿望,杨超越,artist,Song,Artist
+101个愿望,赖美云,artist,Song,Artist
+101个愿望,傅菁,artist,Song,Artist
+101个愿望,深圳市腾讯计算机系统有限公司,company,Song,Company
+101个愿望,Pop,genre,Song,Genre
+101个愿望,国语,lan,Song,Lan
+101个愿望,2018-12-28,pub_time,Song,Pub_Time
+蒲公英的约定,我很忙专辑,album,Song,Album
+蒲公英的约定,周杰伦,artist,Song,Artist
+蒲公英的约定,杰威尔音乐有限公司,company,Song,Company
+蒲公英的约定,Pop,genre,Song,Genre
+蒲公英的约定,国语,lan,Song,Lan
+蒲公英的约定,2007-11-02,pub_time,Song,Pub_Time
+唱腔另类,唱腔另类专辑,album,Song,Album
+唱腔另类,子芮,artist,Song,Artist
+唱腔另类,天悦华音,company,Song,Company
+唱腔另类,Pop,genre,Song,Genre
+唱腔另类,国语,lan,Song,Lan
+唱腔另类,2017-08-03,pub_time,Song,Pub_Time
+Seve (Radio Edit),Seve专辑,album,Song,Album
+Seve (Radio Edit),Tez Cadey,artist,Song,Artist
+Seve (Radio Edit),索尼音乐,company,Song,Company
+Seve (Radio Edit),Pop,genre,Song,Genre
+Seve (Radio Edit), 英语,lan,Song,Lan
+Seve (Radio Edit),2015-01-26,pub_time,Song,Pub_Time
+失忆,失忆专辑,album,Song,Album
+失忆,图小图,artist,Song,Artist
+失忆,看见文娱·音乐中心,company,Song,Company
+失忆,Pop,genre,Song,Genre
+失忆,国语,lan,Song,Lan
+失忆,2017-11-01,pub_time,Song,Pub_Time
+恒温动物,我乐意沉默释放内心焰火专辑,album,Song,Album
+恒温动物,易烊千玺,artist,Song,Artist
+恒温动物,北京时代峰峻文化艺术发展有限公司,company,Song,Company
+恒温动物,Pop,genre,Song,Genre
+恒温动物,国语,lan,Song,Lan
+恒温动物,2018-11-28,pub_time,Song,Pub_Time
+红日 (《他来自天堂》电视剧主题曲),红日专辑,album,Song,Album
+红日 (《他来自天堂》电视剧主题曲),李克勤,artist,Song,Artist
+红日 (《他来自天堂》电视剧主题曲),Universal Music Ltd.,company,Song,Company
+红日 (《他来自天堂》电视剧主题曲),Pop,genre,Song,Genre
+红日 (《他来自天堂》电视剧主题曲), 粤语,lan,Song,Lan
+红日 (《他来自天堂》电视剧主题曲),1992-10-01,pub_time,Song,Pub_Time
+Sunny,Sunny专辑,album,Song,Album
+Sunny,Sunnee杨芸晴,artist,Song,Artist
+Sunny,深圳市腾讯计算机系统有限公司,company,Song,Company
+Sunny,Pop,genre,Song,Genre
+Sunny,国语,lan,Song,Lan
+Sunny,2018-12-20,pub_time,Song,Pub_Time
+Five Hundred Miles (《醉乡民谣》电影主题曲|《一路繁花相送》电视剧插曲),Inside Llewyn Davis: Original Soundtrack Recording专辑,album,Song,Album
+Five Hundred Miles (《醉乡民谣》电影主题曲|《一路繁花相送》电视剧插曲),Justin Timberlake,artist,Song,Artist
+Five Hundred Miles (《醉乡民谣》电影主题曲|《一路繁花相送》电视剧插曲),Carey Mulligan,artist,Song,Artist
+Five Hundred Miles (《醉乡民谣》电影主题曲|《一路繁花相送》电视剧插曲),Stark Sands,artist,Song,Artist
+Five Hundred Miles (《醉乡民谣》电影主题曲|《一路繁花相送》电视剧插曲),华纳唱片,company,Song,Company
+Five Hundred Miles (《醉乡民谣》电影主题曲|《一路繁花相送》电视剧插曲),Soundtrack,genre,Song,Genre
+Five Hundred Miles (《醉乡民谣》电影主题曲|《一路繁花相送》电视剧插曲), 英语,lan,Song,Lan
+Five Hundred Miles (《醉乡民谣》电影主题曲|《一路繁花相送》电视剧插曲),2013-11-01,pub_time,Song,Pub_Time
+爱笑的眼睛,她说 概念自选辑专辑,album,Song,Album
+爱笑的眼睛,林俊杰,artist,Song,Artist
+爱笑的眼睛,海蝶音乐,company,Song,Company
+爱笑的眼睛,Pop,genre,Song,Genre
+爱笑的眼睛,国语,lan,Song,Lan
+爱笑的眼睛,2010-12-08,pub_time,Song,Pub_Time
+耳朵,耳朵专辑,album,Song,Album
+耳朵,李荣浩,artist,Song,Artist
+耳朵,华纳唱片,company,Song,Company
+耳朵,Pop,genre,Song,Genre
+耳朵,国语,lan,Song,Lan
+耳朵,2018-10-17,pub_time,Song,Pub_Time
+你给我听好,rice & shine专辑,album,Song,Album
+你给我听好,陈奕迅,artist,Song,Artist
+你给我听好,Cinepoly Records Co. Ltd.,company,Song,Company
+你给我听好,Pop,genre,Song,Genre
+你给我听好,国语,lan,Song,Lan
+你给我听好,2014-05-15,pub_time,Song,Pub_Time
+喜欢你,喜欢你专辑,album,Song,Album
+喜欢你,TFBOYS,artist,Song,Artist
+喜欢你,北京时代峰峻文化艺术发展有限公司,company,Song,Company
+喜欢你,Pop,genre,Song,Genre
+喜欢你,国语,lan,Song,Lan
+喜欢你,2018-08-17,pub_time,Song,Pub_Time
+够钟,Follow专辑,album,Song,Album
+够钟,周柏豪,artist,Song,Artist
+够钟,华纳唱片,company,Song,Company
+够钟,Pop,genre,Song,Genre
+够钟, 粤语,lan,Song,Lan
+够钟,2009-07-10,pub_time,Song,Pub_Time
+月亮惹的祸 (《都是你的错》国语版),月亮 太阳专辑,album,Song,Album
+月亮惹的祸 (《都是你的错》国语版),张宇,artist,Song,Artist
+月亮惹的祸 (《都是你的错》国语版),金牌大风,company,Song,Company
+月亮惹的祸 (《都是你的错》国语版),Pop,genre,Song,Genre
+月亮惹的祸 (《都是你的错》国语版),国语,lan,Song,Lan
+月亮惹的祸 (《都是你的错》国语版),1998-12-01,pub_time,Song,Pub_Time
+随风 (《古董局中局》影视剧插曲),古董局中局 影视剧原声带专辑,album,Song,Album
+随风 (《古董局中局》影视剧插曲),周深,artist,Song,Artist
+随风 (《古董局中局》影视剧插曲),北京二十四小时文化发展有限公司,company,Song,Company
+随风 (《古董局中局》影视剧插曲),Soundtrack,genre,Song,Genre
+随风 (《古董局中局》影视剧插曲),国语,lan,Song,Lan
+随风 (《古董局中局》影视剧插曲),2019-01-11,pub_time,Song,Pub_Time
+贝贝,耳朵专辑,album,Song,Album
+贝贝,李荣浩,artist,Song,Artist
+贝贝,华纳唱片,company,Song,Company
+贝贝,Pop,genre,Song,Genre
+贝贝,国语,lan,Song,Lan
+贝贝,2018-10-17,pub_time,Song,Pub_Time
+不求,不求专辑,album,Song,Album
+不求,摩登兄弟刘宇宁,artist,Song,Artist
+不求,北京听见时代娱乐传媒有限公司,company,Song,Company
+不求,Pop,genre,Song,Genre
+不求,国语,lan,Song,Lan
+不求,2019-01-08,pub_time,Song,Pub_Time
+心疼你的坦诚,心疼你的坦诚专辑,album,Song,Album
+心疼你的坦诚,艾辰,artist,Song,Artist
+心疼你的坦诚,独立发行,company,Song,Company
+心疼你的坦诚,Pop,genre,Song,Genre
+心疼你的坦诚,国语,lan,Song,Lan
+心疼你的坦诚,2019-01-01,pub_time,Song,Pub_Time
+越来越不懂,Goodbye & Hello专辑,album,Song,Album
+越来越不懂,蔡健雅,artist,Song,Artist
+越来越不懂,亚神音乐,company,Song,Company
+越来越不懂,Pop,genre,Song,Genre
+越来越不懂,国语,lan,Song,Lan
+越来越不懂,2007-10-05,pub_time,Song,Pub_Time
+小酒窝 (国语) (《爱情睡醒了》电视剧插曲),JJ陆专辑,album,Song,Album
+小酒窝 (国语) (《爱情睡醒了》电视剧插曲),林俊杰,artist,Song,Artist
+小酒窝 (国语) (《爱情睡醒了》电视剧插曲),蔡卓妍,artist,Song,Artist
+小酒窝 (国语) (《爱情睡醒了》电视剧插曲),海蝶音乐,company,Song,Company
+小酒窝 (国语) (《爱情睡醒了》电视剧插曲),Pop,genre,Song,Genre
+小酒窝 (国语) (《爱情睡醒了》电视剧插曲),国语,lan,Song,Lan
+小酒窝 (国语) (《爱情睡醒了》电视剧插曲),2008-10-18,pub_time,Song,Pub_Time
+我只代表我,我只代表我专辑,album,Song,Album
+我只代表我,双笙,artist,Song,Artist
+我只代表我,北京润方铭鼎文化传媒有限公司,company,Song,Company
+我只代表我,Pop,genre,Song,Genre
+我只代表我,国语,lan,Song,Lan
+我只代表我,2019-01-04,pub_time,Song,Pub_Time
+明明就,十二新作专辑,album,Song,Album
+明明就,周杰伦,artist,Song,Artist
+明明就,杰威尔音乐有限公司,company,Song,Company
+明明就,Pop,genre,Song,Genre
+明明就,国语,lan,Song,Lan
+明明就,2012-12-28,pub_time,Song,Pub_Time
+小了白了兔,小了白了兔专辑,album,Song,Album
+小了白了兔,叶洛洛,artist,Song,Artist
+小了白了兔,独立发行,company,Song,Company
+小了白了兔,Pop,genre,Song,Genre
+小了白了兔,国语,lan,Song,Lan
+小了白了兔,2018-09-03,pub_time,Song,Pub_Time
+黑色毛衣,十一月的萧邦专辑,album,Song,Album
+黑色毛衣,周杰伦,artist,Song,Artist
+黑色毛衣,杰威尔音乐有限公司,company,Song,Company
+黑色毛衣,Pop,genre,Song,Genre
+黑色毛衣,国语,lan,Song,Lan
+黑色毛衣,2005-11-01,pub_time,Song,Pub_Time
+我们的爱 (《微爱之光》公益纪录片主题曲),我们的爱专辑,album,Song,Album
+我们的爱 (《微爱之光》公益纪录片主题曲),胡彦斌,artist,Song,Artist
+我们的爱 (《微爱之光》公益纪录片主题曲),太簇文化,company,Song,Company
+我们的爱 (《微爱之光》公益纪录片主题曲),Pop,genre,Song,Genre
+我们的爱 (《微爱之光》公益纪录片主题曲),国语,lan,Song,Lan
+我们的爱 (《微爱之光》公益纪录片主题曲),2019-01-04,pub_time,Song,Pub_Time
+枫,十一月的萧邦专辑,album,Song,Album
+枫,周杰伦,artist,Song,Artist
+枫,杰威尔音乐有限公司,company,Song,Company
+枫,Pop,genre,Song,Genre
+枫,国语,lan,Song,Lan
+枫,2005-11-01,pub_time,Song,Pub_Time
+Friendships (Original Mix),Friendships专辑,album,Song,Album
+Friendships (Original Mix),Pascal Letoublon,artist,Song,Artist
+Friendships (Original Mix),Suprafive Records,company,Song,Company
+Friendships (Original Mix),Dance,genre,Song,Genre
+Friendships (Original Mix), 纯音乐,lan,Song,Lan
+Friendships (Original Mix),2017-09-05,pub_time,Song,Pub_Time
+最好的那年,喜欢你专辑,album,Song,Album
+最好的那年,TFBOYS,artist,Song,Artist
+最好的那年,北京时代峰峻文化艺术发展有限公司,company,Song,Company
+最好的那年,Pop,genre,Song,Genre
+最好的那年,国语,lan,Song,Lan
+最好的那年,2018-08-17,pub_time,Song,Pub_Time
+我们在一起,Update专辑,album,Song,Album
+我们在一起,张靓颖,artist,Song,Artist
+我们在一起,华谊音乐,company,Song,Company
+我们在一起,Pop,genre,Song,Genre
+我们在一起,国语,lan,Song,Lan
+我们在一起,2007-08-02,pub_time,Song,Pub_Time
+Rain Outside my Window,有助学习的经典音乐 (学习音乐,经典学习音乐, 放松经典音乐)专辑,album,Song,Album
+Rain Outside my Window,Martha Duval,artist,Song,Artist
+Rain Outside my Window,Uniarte SRL,company,Song,Company
+Rain Outside my Window, 纯音乐,lan,Song,Lan
+Rain Outside my Window,2018-04-21,pub_time,Song,Pub_Time
+发如雪,十一月的萧邦专辑,album,Song,Album
+发如雪,周杰伦,artist,Song,Artist
+发如雪,杰威尔音乐有限公司,company,Song,Company
+发如雪,Pop,genre,Song,Genre
+发如雪,国语,lan,Song,Lan
+发如雪,2005-11-01,pub_time,Song,Pub_Time
+四点四十四,伟大的渺小专辑,album,Song,Album
+四点四十四,林俊杰,artist,Song,Artist
+四点四十四,华纳唱片,company,Song,Company
+四点四十四,Pop,genre,Song,Genre
+四点四十四,国语,lan,Song,Lan
+四点四十四,2017-12-28,pub_time,Song,Pub_Time
+口是心非,痛在爱的边缘II 残酷的温柔专辑,album,Song,Album
+口是心非,孙伯纶,artist,Song,Artist
+口是心非,Pop,genre,Song,Genre
+口是心非,国语,lan,Song,Lan
+口是心非,2010-01-28,pub_time,Song,Pub_Time
+东风破,叶惠美专辑,album,Song,Album
+东风破,周杰伦,artist,Song,Artist
+东风破,杰威尔音乐有限公司,company,Song,Company
+东风破,Pop,genre,Song,Genre
+东风破,国语,lan,Song,Lan
+东风破,2003-07-31,pub_time,Song,Pub_Time
+该死的温柔 (纯享版),梦想的声音第三季 纯享版专辑,album,Song,Album
+该死的温柔 (纯享版),王嘉尔,artist,Song,Artist
+该死的温柔 (纯享版),浙江卫视,company,Song,Company
+该死的温柔 (纯享版),Pop,genre,Song,Genre
+该死的温柔 (纯享版),国语,lan,Song,Lan
+该死的温柔 (纯享版),2018-11-07,pub_time,Song,Pub_Time
+你不是真正的快乐 (《疯岳撬佳人》电影插曲),后青春期的诗专辑,album,Song,Album
+你不是真正的快乐 (《疯岳撬佳人》电影插曲),五月天,artist,Song,Artist
+你不是真正的快乐 (《疯岳撬佳人》电影插曲),相信音乐,company,Song,Company
+你不是真正的快乐 (《疯岳撬佳人》电影插曲),Pop,genre,Song,Genre
+你不是真正的快乐 (《疯岳撬佳人》电影插曲),国语,lan,Song,Lan
+你不是真正的快乐 (《疯岳撬佳人》电影插曲),2008-10-23,pub_time,Song,Pub_Time
+那一夜,毒苹果专辑,album,Song,Album
+那一夜,G.E.M. 邓紫棋,artist,Song,Artist
+那一夜,蜂鸟音乐,company,Song,Company
+那一夜,Pop,genre,Song,Genre
+那一夜,国语,lan,Song,Lan
+那一夜,2018-10-26,pub_time,Song,Pub_Time
+一个人的北京 (《谁说我们不会爱》电影主题曲),一个人的北京专辑,album,Song,Album
+一个人的北京 (《谁说我们不会爱》电影主题曲),海鸣威,artist,Song,Artist
+一个人的北京 (《谁说我们不会爱》电影主题曲),M计划,company,Song,Company
+一个人的北京 (《谁说我们不会爱》电影主题曲),Pop,genre,Song,Genre
+一个人的北京 (《谁说我们不会爱》电影主题曲),国语,lan,Song,Lan
+一个人的北京 (《谁说我们不会爱》电影主题曲),2014-04-24,pub_time,Song,Pub_Time
+方圆几里 (《妈妈像花儿一样》电视剧插曲|《最熟悉的陌生人》微电影主题曲),意外专辑,album,Song,Album
+方圆几里 (《妈妈像花儿一样》电视剧插曲|《最熟悉的陌生人》微电影主题曲),薛之谦,artist,Song,Artist
+方圆几里 (《妈妈像花儿一样》电视剧插曲|《最熟悉的陌生人》微电影主题曲),华宇世博,company,Song,Company
+方圆几里 (《妈妈像花儿一样》电视剧插曲|《最熟悉的陌生人》微电影主题曲),Pop,genre,Song,Genre
+方圆几里 (《妈妈像花儿一样》电视剧插曲|《最熟悉的陌生人》微电影主题曲),国语,lan,Song,Lan
+方圆几里 (《妈妈像花儿一样》电视剧插曲|《最熟悉的陌生人》微电影主题曲),2013-11-11,pub_time,Song,Pub_Time
+喜欢,喜欢专辑,album,Song,Album
+喜欢,阿肆,artist,Song,Artist
+喜欢,独立发行,company,Song,Company
+喜欢,Pop,genre,Song,Genre
+喜欢,国语,lan,Song,Lan
+喜欢,2017-12-28,pub_time,Song,Pub_Time
+暖暖 (《周末父母》电视剧片头曲),亲亲专辑,album,Song,Album
+暖暖 (《周末父母》电视剧片头曲),梁静茹,artist,Song,Artist
+暖暖 (《周末父母》电视剧片头曲),相信音乐,company,Song,Company
+暖暖 (《周末父母》电视剧片头曲),Pop,genre,Song,Genre
+暖暖 (《周末父母》电视剧片头曲),国语,lan,Song,Lan
+暖暖 (《周末父母》电视剧片头曲),2006-10-06,pub_time,Song,Pub_Time
+Hope,Sick Boy专辑,album,Song,Album
+Hope,The Chainsmokers,artist,Song,Artist
+Hope,Winona Oak,artist,Song,Artist
+Hope,索尼音乐,company,Song,Company
+Hope,Dance,genre,Song,Genre
+Hope, 英语,lan,Song,Lan
+Hope,2018-12-14,pub_time,Song,Pub_Time
+RISE 登峰造极境 (2018英雄联盟全球总决赛主题曲),2018全球总决赛专辑,album,Song,Album
+RISE 登峰造极境 (2018英雄联盟全球总决赛主题曲),The Glitch Mob,artist,Song,Artist
+RISE 登峰造极境 (2018英雄联盟全球总决赛主题曲),Mako,artist,Song,Artist
+RISE 登峰造极境 (2018英雄联盟全球总决赛主题曲),The Word Alive,artist,Song,Artist
+RISE 登峰造极境 (2018英雄联盟全球总决赛主题曲),腾讯游戏,company,Song,Company
+RISE 登峰造极境 (2018英雄联盟全球总决赛主题曲),Alternative,genre,Song,Genre
+RISE 登峰造极境 (2018英雄联盟全球总决赛主题曲), 英语,lan,Song,Lan
+RISE 登峰造极境 (2018英雄联盟全球总决赛主题曲),2018-09-28,pub_time,Song,Pub_Time
+曹操,曹操专辑,album,Song,Album
+曹操,林俊杰,artist,Song,Artist
+曹操,海蝶音乐,company,Song,Company
+曹操,Pop,genre,Song,Genre
+曹操,国语,lan,Song,Lan
+曹操,2006-02-17,pub_time,Song,Pub_Time
+山谷里的思念,谢军,artist,Song,Artist
+山谷里的思念,北京中唱星天地文化艺术发展有限公司,company,Song,Company
+山谷里的思念,Pop,genre,Song,Genre
+山谷里的思念,国语,lan,Song,Lan
+东西 (女生版),东西（女生版）专辑,album,Song,Album
+东西 (女生版),阿敏,artist,Song,Artist
+东西 (女生版),回声文化,company,Song,Company
+东西 (女生版),Pop,genre,Song,Genre
+东西 (女生版),国语,lan,Song,Lan
+东西 (女生版),2018-11-13,pub_time,Song,Pub_Time
+丫头 (《多少爱，可以重来》电视剧插曲),回了又去 去了再回专辑,album,Song,Album
+丫头 (《多少爱，可以重来》电视剧插曲),王童语,artist,Song,Artist
+丫头 (《多少爱，可以重来》电视剧插曲),启韵传媒,company,Song,Company
+丫头 (《多少爱，可以重来》电视剧插曲),Pop,genre,Song,Genre
+丫头 (《多少爱，可以重来》电视剧插曲),国语,lan,Song,Lan
+丫头 (《多少爱，可以重来》电视剧插曲),2006-11-16,pub_time,Song,Pub_Time
+一言难尽,一言难尽专辑,album,Song,Album
+一言难尽,张宇,artist,Song,Artist
+一言难尽,环球唱片,company,Song,Company
+一言难尽,Pop,genre,Song,Genre
+一言难尽,国语,lan,Song,Lan
+一言难尽,1995-06-09,pub_time,Song,Pub_Time
+你不是真正的快乐,女也 Herstory with Mayday专辑,album,Song,Album
+你不是真正的快乐,G.E.M. 邓紫棋,artist,Song,Artist
+你不是真正的快乐,相信音乐,company,Song,Company
+你不是真正的快乐,Pop,genre,Song,Genre
+你不是真正的快乐,国语,lan,Song,Lan
+你不是真正的快乐,2015-06-26,pub_time,Song,Pub_Time
+身为风帆,伟大的渺小专辑,album,Song,Album
+身为风帆,林俊杰,artist,Song,Artist
+身为风帆,华纳唱片,company,Song,Company
+身为风帆,Pop,genre,Song,Genre
+身为风帆,国语,lan,Song,Lan
+身为风帆,2017-12-28,pub_time,Song,Pub_Time
+Moonlight (feat. 袁娅维) (Remix),Moonlight (feat. 袁娅维) [Remix]专辑,album,Song,Album
+Moonlight (feat. 袁娅维) (Remix),潘玮柏,artist,Song,Artist
+Moonlight (feat. 袁娅维) (Remix),华纳唱片,company,Song,Company
+Moonlight (feat. 袁娅维) (Remix), Rap/Hip Hop,genre,Song,Genre
+Moonlight (feat. 袁娅维) (Remix), 英语,lan,Song,Lan
+Moonlight (feat. 袁娅维) (Remix),2018-12-31,pub_time,Song,Pub_Time
+无药可救,未·LIVE专辑,album,Song,Album
+无药可救,张杰,artist,Song,Artist
+无药可救,Pop,genre,Song,Genre
+无药可救,国语,lan,Song,Lan
+无药可救,2018-10-12,pub_time,Song,Pub_Time
+Love Story,Fearless (Platinum Edition)专辑,album,Song,Album
+Love Story,Taylor Swift,artist,Song,Artist
+Love Story,Universal Music,company,Song,Company
+Love Story, Country,genre,Song,Genre
+Love Story, 英语,lan,Song,Lan
+Love Story,2008-11-11,pub_time,Song,Pub_Time
+开不了口,范特西专辑,album,Song,Album
+开不了口,周杰伦,artist,Song,Artist
+开不了口,杰威尔音乐有限公司,company,Song,Company
+开不了口,Pop,genre,Song,Genre
+开不了口,国语,lan,Song,Lan
+开不了口,2001-09-20,pub_time,Song,Pub_Time
+痴心绝对,痴心绝对专辑,album,Song,Album
+痴心绝对,李圣杰,artist,Song,Artist
+痴心绝对,Pop,genre,Song,Genre
+痴心绝对,国语,lan,Song,Lan
+痴心绝对,2002-06-27,pub_time,Song,Pub_Time
+春风十里,鹿先森专辑,album,Song,Album
+春风十里,鹿先森乐队,artist,Song,Artist
+春风十里,看见网络科技（上海）有限公司,company,Song,Company
+春风十里,Pop,genre,Song,Genre
+春风十里,国语,lan,Song,Lan
+春风十里,2015-10-26,pub_time,Song,Pub_Time
+只要平凡 (《我不是药神》电影主题曲),只要平凡专辑,album,Song,Album
+只要平凡 (《我不是药神》电影主题曲),张杰,artist,Song,Artist
+只要平凡 (《我不是药神》电影主题曲),张碧晨,artist,Song,Artist
+只要平凡 (《我不是药神》电影主题曲),麦特文化,company,Song,Company
+只要平凡 (《我不是药神》电影主题曲),Soundtrack,genre,Song,Genre
+只要平凡 (《我不是药神》电影主题曲),国语,lan,Song,Lan
+只要平凡 (《我不是药神》电影主题曲),2018-06-25,pub_time,Song,Pub_Time
+忘情水 (《我的少女时代》电影插曲),忘情水专辑,album,Song,Album
+忘情水 (《我的少女时代》电影插曲),刘德华,artist,Song,Artist
+忘情水 (《我的少女时代》电影插曲),East Asia Music (Holdings) Limited,company,Song,Company
+忘情水 (《我的少女时代》电影插曲),Pop,genre,Song,Genre
+忘情水 (《我的少女时代》电影插曲),国语,lan,Song,Lan
+忘情水 (《我的少女时代》电影插曲),1994-04-30,pub_time,Song,Pub_Time
+红尘客栈,十二新作专辑,album,Song,Album
+红尘客栈,周杰伦,artist,Song,Artist
+红尘客栈,杰威尔音乐有限公司,company,Song,Company
+红尘客栈,Pop,genre,Song,Genre
+红尘客栈,国语,lan,Song,Lan
+红尘客栈,2012-12-28,pub_time,Song,Pub_Time
+寂寞沙洲冷,星空下的传说专辑,album,Song,Album
+寂寞沙洲冷,周传雄,artist,Song,Artist
+寂寞沙洲冷,熊焱国际,company,Song,Company
+寂寞沙洲冷,Pop,genre,Song,Genre
+寂寞沙洲冷,国语,lan,Song,Lan
+寂寞沙洲冷,2005-06-29,pub_time,Song,Pub_Time
+Break Up In A Small Town,Montevallo专辑,album,Song,Album
+Break Up In A Small Town,Sam Hunt,artist,Song,Artist
+Break Up In A Small Town,MCA Nashville,company,Song,Company
+Break Up In A Small Town, Country,genre,Song,Genre
+Break Up In A Small Town, 英语,lan,Song,Lan
+Break Up In A Small Town,2014-10-27,pub_time,Song,Pub_Time
+와 (哇！),Let's Go To My Star专辑,album,Song,Album
+와 (哇！),李贞贤 (이정현),artist,Song,Artist
+와 (哇！),Pan Entertainment,company,Song,Company
+와 (哇！),Pop,genre,Song,Genre
+와 (哇！), 韩语,lan,Song,Lan
+와 (哇！),1999-10-09,pub_time,Song,Pub_Time
+空心,空心专辑,album,Song,Album
+空心,光泽,artist,Song,Artist
+空心,Pop,genre,Song,Genre
+空心,国语,lan,Song,Lan
+空心,2016-10-14,pub_time,Song,Pub_Time
+龙卷风,Jay专辑,album,Song,Album
+龙卷风,周杰伦,artist,Song,Artist
+龙卷风,杰威尔音乐有限公司,company,Song,Company
+龙卷风,Pop,genre,Song,Genre
+龙卷风,国语,lan,Song,Lan
+龙卷风,2000-11-07,pub_time,Song,Pub_Time
+从开始到现在,从开始到现在专辑,album,Song,Album
+从开始到现在,张信哲,artist,Song,Artist
+从开始到现在,潮水音乐,company,Song,Company
+从开始到现在,Pop,genre,Song,Genre
+从开始到现在,国语,lan,Song,Lan
+从开始到现在,2002-06-21,pub_time,Song,Pub_Time
+山海,丑奴儿专辑,album,Song,Album
+山海,草东没有派对,artist,Song,Artist
+山海,石皮有限公司,company,Song,Company
+山海,Rock,genre,Song,Genre
+山海,国语,lan,Song,Lan
+山海,2016-02-19,pub_time,Song,Pub_Time
+地铁等待 (《地铁等待》音乐电影插曲),地铁等待专辑,album,Song,Album
+地铁等待 (《地铁等待》音乐电影插曲),威仔,artist,Song,Artist
+地铁等待 (《地铁等待》音乐电影插曲),阿夏,artist,Song,Artist
+地铁等待 (《地铁等待》音乐电影插曲),极韵文化,company,Song,Company
+地铁等待 (《地铁等待》音乐电影插曲),Soundtrack,genre,Song,Genre
+地铁等待 (《地铁等待》音乐电影插曲),国语,lan,Song,Lan
+地铁等待 (《地铁等待》音乐电影插曲),2018-11-14,pub_time,Song,Pub_Time
+爱的就是你,唯一专辑,album,Song,Album
+爱的就是你,王力宏,artist,Song,Artist
+爱的就是你,索尼音乐,company,Song,Company
+爱的就是你,Pop,genre,Song,Genre
+爱的就是你,国语,lan,Song,Lan
+爱的就是你,2001-09-23,pub_time,Song,Pub_Time
+长腿叔叔 (《老师晚上好》电视剧主题曲),长腿叔叔专辑,album,Song,Album
+长腿叔叔 (《老师晚上好》电视剧主题曲),袁娅维,artist,Song,Artist
+长腿叔叔 (《老师晚上好》电视剧主题曲),华纳唱片,company,Song,Company
+长腿叔叔 (《老师晚上好》电视剧主题曲),Pop,genre,Song,Genre
+长腿叔叔 (《老师晚上好》电视剧主题曲),国语,lan,Song,Lan
+长腿叔叔 (《老师晚上好》电视剧主题曲),2016-01-18,pub_time,Song,Pub_Time
+如果寂寞了,如果寂寞了专辑,album,Song,Album
+如果寂寞了,郑晓填,artist,Song,Artist
+如果寂寞了,禾信,company,Song,Company
+如果寂寞了,Pop,genre,Song,Genre
+如果寂寞了,国语,lan,Song,Lan
+如果寂寞了,2018-11-01,pub_time,Song,Pub_Time
+其实 (《妈妈像花儿一样》电视剧插曲),意外专辑,album,Song,Album
+其实 (《妈妈像花儿一样》电视剧插曲),薛之谦,artist,Song,Artist
+其实 (《妈妈像花儿一样》电视剧插曲),华宇世博,company,Song,Company
+其实 (《妈妈像花儿一样》电视剧插曲),Pop,genre,Song,Genre
+其实 (《妈妈像花儿一样》电视剧插曲),国语,lan,Song,Lan
+其实 (《妈妈像花儿一样》电视剧插曲),2013-11-11,pub_time,Song,Pub_Time
+真心 (《将夜》影视剧插曲),真心专辑,album,Song,Album
+真心 (《将夜》影视剧插曲),庄心妍,artist,Song,Artist
+真心 (《将夜》影视剧插曲),乐动时代（北京）文化传播有限公司,company,Song,Company
+真心 (《将夜》影视剧插曲),Soundtrack,genre,Song,Genre
+真心 (《将夜》影视剧插曲),国语,lan,Song,Lan
+真心 (《将夜》影视剧插曲),2018-12-11,pub_time,Song,Pub_Time
+一丝不挂,Time Flies专辑,album,Song,Album
+一丝不挂,陈奕迅,artist,Song,Artist
+一丝不挂,环球唱片,company,Song,Company
+一丝不挂,Pop,genre,Song,Genre
+一丝不挂, 粤语,lan,Song,Lan
+一丝不挂,2010-03-12,pub_time,Song,Pub_Time
+未完的眷恋 (《我与你的光年距离2》网络剧主题曲),未完的眷恋专辑,album,Song,Album
+未完的眷恋 (《我与你的光年距离2》网络剧主题曲),A-Lin,artist,Song,Artist
+未完的眷恋 (《我与你的光年距离2》网络剧主题曲),奥斯特音乐,company,Song,Company
+未完的眷恋 (《我与你的光年距离2》网络剧主题曲),Soundtrack,genre,Song,Genre
+未完的眷恋 (《我与你的光年距离2》网络剧主题曲),国语,lan,Song,Lan
+未完的眷恋 (《我与你的光年距离2》网络剧主题曲),2018-12-13,pub_time,Song,Pub_Time
+学不会,学不会专辑,album,Song,Album
+学不会,林俊杰,artist,Song,Artist
+学不会,华纳唱片,company,Song,Company
+学不会,Pop,genre,Song,Genre
+学不会,国语,lan,Song,Lan
+学不会,2011-12-31,pub_time,Song,Pub_Time
+买条街,买条街专辑,album,Song,Album
+买条街,$唐老师,artist,Song,Artist
+买条街,Wya乌鸦,artist,Song,Artist
+买条街,看见文娱·音乐中心,company,Song,Company
+买条街, Rap/Hip Hop,genre,Song,Genre
+买条街,国语,lan,Song,Lan
+买条街,2018-06-16,pub_time,Song,Pub_Time
+想太多 (《原来我不帅》电视剧插曲),想太多专辑,album,Song,Album
+想太多 (《原来我不帅》电视剧插曲),李玖哲,artist,Song,Artist
+想太多 (《原来我不帅》电视剧插曲),中视华影,company,Song,Company
+想太多 (《原来我不帅》电视剧插曲),Pop,genre,Song,Genre
+想太多 (《原来我不帅》电视剧插曲),国语,lan,Song,Lan
+想太多 (《原来我不帅》电视剧插曲),2007-10-12,pub_time,Song,Pub_Time
+望爱却步,望爱却步专辑,album,Song,Album
+望爱却步,于洋,artist,Song,Artist
+望爱却步,恬音文化,company,Song,Company
+望爱却步,Pop,genre,Song,Genre
+望爱却步,国语,lan,Song,Lan
+望爱却步,2018-07-04,pub_time,Song,Pub_Time
+舒适圈,我乐意沉默释放内心焰火专辑,album,Song,Album
+舒适圈,易烊千玺,artist,Song,Artist
+舒适圈,北京时代峰峻文化艺术发展有限公司,company,Song,Company
+舒适圈,Pop,genre,Song,Genre
+舒适圈,国语,lan,Song,Lan
+舒适圈,2018-11-28,pub_time,Song,Pub_Time
+我们的时光,吉姆餐厅专辑,album,Song,Album
+我们的时光,赵雷,artist,Song,Artist
+我们的时光,StreetVoice,company,Song,Company
+我们的时光,Folk,genre,Song,Genre
+我们的时光,国语,lan,Song,Lan
+我们的时光,2014-10-19,pub_time,Song,Pub_Time
+出局,分爱专辑,album,Song,Album
+出局,易欣,artist,Song,Artist
+出局,昌禾文化,company,Song,Company
+出局,Pop,genre,Song,Genre
+出局,国语,lan,Song,Lan
+出局,2009-04-03,pub_time,Song,Pub_Time
+做我自己 (QQ会员18周年主题曲),做我自己专辑,album,Song,Album
+做我自己 (QQ会员18周年主题曲),王源,artist,Song,Artist
+做我自己 (QQ会员18周年主题曲),北京时代峰峻文化艺术发展有限公司,company,Song,Company
+做我自己 (QQ会员18周年主题曲),Pop,genre,Song,Genre
+做我自己 (QQ会员18周年主题曲),国语,lan,Song,Lan
+做我自己 (QQ会员18周年主题曲),2018-06-28,pub_time,Song,Pub_Time
+来生缘 (《一起走过的日子》国语版),来生缘专辑,album,Song,Album
+来生缘 (《一起走过的日子》国语版),刘德华,artist,Song,Artist
+来生缘 (《一起走过的日子》国语版),Universal Music Ltd.,company,Song,Company
+来生缘 (《一起走过的日子》国语版),Pop,genre,Song,Genre
+来生缘 (《一起走过的日子》国语版),国语,lan,Song,Lan
+来生缘 (《一起走过的日子》国语版),1991-12-09,pub_time,Song,Pub_Time
+选择失忆,选择失忆专辑,album,Song,Album
+选择失忆,季彦霖,artist,Song,Artist
+选择失忆,启韵传媒,company,Song,Company
+选择失忆,Pop,genre,Song,Genre
+选择失忆,国语,lan,Song,Lan
+选择失忆,2018-03-29,pub_time,Song,Pub_Time
+美人鱼,第二天堂专辑,album,Song,Album
+美人鱼,林俊杰,artist,Song,Artist
+美人鱼,海蝶音乐,company,Song,Company
+美人鱼,Pop,genre,Song,Genre
+美人鱼,国语,lan,Song,Lan
+美人鱼,2004-06-04,pub_time,Song,Pub_Time
+流着泪说分手,爱比不爱更寂寞专辑,album,Song,Album
+流着泪说分手,金志文,artist,Song,Artist
+流着泪说分手,Pop,genre,Song,Genre
+流着泪说分手,国语,lan,Song,Lan
+流着泪说分手,2009-03-06,pub_time,Song,Pub_Time
+可能否,可能否专辑,album,Song,Album
+可能否,洛晴,artist,Song,Artist
+可能否,极韵文化,company,Song,Company
+可能否,Pop,genre,Song,Genre
+可能否,国语,lan,Song,Lan
+可能否,2018-07-07,pub_time,Song,Pub_Time
+再见青春 (《悲伤逆流成河》电影插曲),再见青春专辑,album,Song,Album
+再见青春 (《悲伤逆流成河》电影插曲),任素汐,artist,Song,Artist
+再见青春 (《悲伤逆流成河》电影插曲),霍尔果斯青春光线,company,Song,Company
+再见青春 (《悲伤逆流成河》电影插曲),Soundtrack,genre,Song,Genre
+再见青春 (《悲伤逆流成河》电影插曲),国语,lan,Song,Lan
+再见青春 (《悲伤逆流成河》电影插曲),2018-09-13,pub_time,Song,Pub_Time
+下定决心忘记你,下定决心忘记你专辑,album,Song,Album
+下定决心忘记你,大哲,artist,Song,Artist
+下定决心忘记你,启韵传媒,company,Song,Company
+下定决心忘记你,Pop,genre,Song,Genre
+下定决心忘记你,国语,lan,Song,Lan
+下定决心忘记你,2017-09-06,pub_time,Song,Pub_Time
+为你祈祷,为你祈祷专辑,album,Song,Album
+为你祈祷,魏新雨,artist,Song,Artist
+为你祈祷,北京恒青文化传媒有限公司,company,Song,Company
+为你祈祷,Pop,genre,Song,Genre
+为你祈祷,国语,lan,Song,Lan
+为你祈祷,2018-10-31,pub_time,Song,Pub_Time
+突然想起你,突然想起你专辑,album,Song,Album
+突然想起你,王北车,artist,Song,Artist
+突然想起你,大玩咖,company,Song,Company
+突然想起你,Pop,genre,Song,Genre
+突然想起你,国语,lan,Song,Lan
+突然想起你,2018-10-10,pub_time,Song,Pub_Time
+失恋无罪,失恋无罪专辑,album,Song,Album
+失恋无罪,A-Lin,artist,Song,Artist
+失恋无罪,Pop,genre,Song,Genre
+失恋无罪,国语,lan,Song,Lan
+失恋无罪,2006-02-10,pub_time,Song,Pub_Time
+致姗姗来迟的你,我愚蠢的理想主义专辑,album,Song,Album
+致姗姗来迟的你,阿肆,artist,Song,Artist
+致姗姗来迟的你,林宥嘉,artist,Song,Artist
+致姗姗来迟的你,摩登天空,company,Song,Company
+致姗姗来迟的你,Pop,genre,Song,Genre
+致姗姗来迟的你,国语,lan,Song,Lan
+致姗姗来迟的你,2016-10-01,pub_time,Song,Pub_Time
+叹云兮 (《芸汐传》电视剧片尾曲),叹云兮专辑,album,Song,Album
+叹云兮 (《芸汐传》电视剧片尾曲),鞠婧祎,artist,Song,Artist
+叹云兮 (《芸汐传》电视剧片尾曲),丝芭文化,company,Song,Company
+叹云兮 (《芸汐传》电视剧片尾曲),Soundtrack,genre,Song,Genre
+叹云兮 (《芸汐传》电视剧片尾曲),国语,lan,Song,Lan
+叹云兮 (《芸汐传》电视剧片尾曲),2018-07-02,pub_time,Song,Pub_Time
+FLOWER ROAD (꽃 길),FLOWER ROAD专辑,album,Song,Album
+FLOWER ROAD (꽃 길),BIGBANG (빅뱅),artist,Song,Artist
+FLOWER ROAD (꽃 길),YG Entertainment,company,Song,Company
+FLOWER ROAD (꽃 길),Pop,genre,Song,Genre
+FLOWER ROAD (꽃 길), 韩语,lan,Song,Lan
+FLOWER ROAD (꽃 길),2018-03-13,pub_time,Song,Pub_Time
+佛系少女,佛系少女专辑,album,Song,Album
+佛系少女,冯提莫,artist,Song,Artist
+佛系少女,谣音乐,company,Song,Company
+佛系少女,Pop,genre,Song,Genre
+佛系少女,国语,lan,Song,Lan
+佛系少女,2018-02-18,pub_time,Song,Pub_Time
+浴火成诗 (《烈火如歌》电视剧片尾曲),烈火如歌 电视剧原声带专辑,album,Song,Album
+浴火成诗 (《烈火如歌》电视剧片尾曲),迪丽热巴,artist,Song,Artist
+浴火成诗 (《烈火如歌》电视剧片尾曲),毛不易,artist,Song,Artist
+浴火成诗 (《烈火如歌》电视剧片尾曲),上海希瓜音乐制作有限公司,company,Song,Company
+浴火成诗 (《烈火如歌》电视剧片尾曲),Pop,genre,Song,Genre
+浴火成诗 (《烈火如歌》电视剧片尾曲),国语,lan,Song,Lan
+浴火成诗 (《烈火如歌》电视剧片尾曲),2018-03-22,pub_time,Song,Pub_Time
+最后我们没在一起,最后我们没在一起专辑,album,Song,Album
+最后我们没在一起,白小白,artist,Song,Artist
+最后我们没在一起,禾信,company,Song,Company
+最后我们没在一起,Pop,genre,Song,Genre
+最后我们没在一起,国语,lan,Song,Lan
+最后我们没在一起,2018-02-06,pub_time,Song,Pub_Time
+Superstar,Superstar专辑,album,Song,Album
+Superstar,Beatrich,artist,Song,Artist
+Superstar,华纳唱片,company,Song,Company
+Superstar,Dance,genre,Song,Genre
+Superstar, 英语,lan,Song,Lan
+Superstar,2017-07-21,pub_time,Song,Pub_Time
+BINGBIAN病变 (原曲：《Lonely Day》-Jurrivh),BINGBIAN病变专辑,album,Song,Album
+BINGBIAN病变 (原曲：《Lonely Day》-Jurrivh),Cubi,artist,Song,Artist
+BINGBIAN病变 (原曲：《Lonely Day》-Jurrivh),Fi9,artist,Song,Artist
+BINGBIAN病变 (原曲：《Lonely Day》-Jurrivh),Younglife,artist,Song,Artist
+BINGBIAN病变 (原曲：《Lonely Day》-Jurrivh),北京唐羽文化有限公司,company,Song,Company
+BINGBIAN病变 (原曲：《Lonely Day》-Jurrivh), Rap/Hip Hop,genre,Song,Genre
+BINGBIAN病变 (原曲：《Lonely Day》-Jurrivh),国语,lan,Song,Lan
+BINGBIAN病变 (原曲：《Lonely Day》-Jurrivh),2017-06-23,pub_time,Song,Pub_Time
+RUBBER BAND (고무줄다리기),Rubber Band专辑,album,Song,Album
+RUBBER BAND (고무줄다리기),iKON (아이콘),artist,Song,Artist
+RUBBER BAND (고무줄다리기),YG Entertainment,company,Song,Company
+RUBBER BAND (고무줄다리기),Pop,genre,Song,Genre
+RUBBER BAND (고무줄다리기), 韩语,lan,Song,Lan
+RUBBER BAND (고무줄다리기),2018-03-05,pub_time,Song,Pub_Time
+对的人 (《美好生活》电视剧主题曲),美好生活 电视剧原声带专辑,album,Song,Album
+对的人 (《美好生活》电视剧主题曲),庄心妍,artist,Song,Artist
+对的人 (《美好生活》电视剧主题曲),上海希瓜音乐制作有限公司,company,Song,Company
+对的人 (《美好生活》电视剧主题曲),Pop,genre,Song,Genre
+对的人 (《美好生活》电视剧主题曲),国语,lan,Song,Lan
+对的人 (《美好生活》电视剧主题曲),2018-03-20,pub_time,Song,Pub_Time
+带你去旅行,带你去旅行专辑,album,Song,Album
+带你去旅行,校长（张驰）,artist,Song,Artist
+带你去旅行,北京千和世纪文化传播有限公司,company,Song,Company
+带你去旅行,Pop,genre,Song,Genre
+带你去旅行,国语,lan,Song,Lan
+带你去旅行,2017-08-10,pub_time,Song,Pub_Time
+如歌 (《烈火如歌》电视剧主题曲),烈火如歌 电视剧原声带专辑,album,Song,Album
+如歌 (《烈火如歌》电视剧主题曲),张杰,artist,Song,Artist
+如歌 (《烈火如歌》电视剧主题曲),上海希瓜音乐制作有限公司,company,Song,Company
+如歌 (《烈火如歌》电视剧主题曲),Pop,genre,Song,Genre
+如歌 (《烈火如歌》电视剧主题曲),国语,lan,Song,Lan
+如歌 (《烈火如歌》电视剧主题曲),2018-03-22,pub_time,Song,Pub_Time
+별이 빛나는 밤(Starry night) (星星闪耀的夜晚),Yellow Flower专辑,album,Song,Album
+별이 빛나는 밤(Starry night) (星星闪耀的夜晚),MAMAMOO (마마무),artist,Song,Artist
+별이 빛나는 밤(Starry night) (星星闪耀的夜晚),RBW, Inc,company,Song,Company
+별이 빛나는 밤(Starry night) (星星闪耀的夜晚),Dance,genre,Song,Genre
+별이 빛나는 밤(Starry night) (星星闪耀的夜晚), 韩语,lan,Song,Lan
+별이 빛나는 밤(Starry night) (星星闪耀的夜晚),2018-03-07,pub_time,Song,Pub_Time
+广东爱情故事,广东爱情故事专辑,album,Song,Album
+广东爱情故事,广东雨神,artist,Song,Artist
+广东爱情故事,浙江信庭网络科技有限公司,company,Song,Company
+广东爱情故事,Pop,genre,Song,Genre
+广东爱情故事, 粤语,lan,Song,Lan
+广东爱情故事,2017-10-19,pub_time,Song,Pub_Time
+那个人,那个人专辑,album,Song,Album
+那个人,周延英（英子-effie）,artist,Song,Artist
+那个人,重庆赛乐文化传播有限公司,company,Song,Company
+那个人,Pop,genre,Song,Genre
+那个人,国语,lan,Song,Lan
+那个人,2017-09-18,pub_time,Song,Pub_Time
+Like I Do,Like I Do专辑,album,Song,Album
+Like I Do,David Guetta,artist,Song,Artist
+Like I Do,Martin Garrix,artist,Song,Artist
+Like I Do,Brooks,artist,Song,Artist
+Like I Do,华纳PLG,company,Song,Company
+Like I Do,Dance,genre,Song,Genre
+Like I Do, 英语,lan,Song,Lan
+Like I Do,2018-02-22,pub_time,Song,Pub_Time
+Jenga,바람专辑,album,Song,Album
+Jenga,Heize (헤이즈),artist,Song,Artist
+Jenga,GAEKO (개코),artist,Song,Artist
+Jenga,Stone Music Entertainment,company,Song,Company
+Jenga,Pop,genre,Song,Genre
+Jenga, 韩语,lan,Song,Lan
+Jenga,2018-03-08,pub_time,Song,Pub_Time
+Зая,Зая专辑,album,Song,Album
+Зая,Бамбинтон,artist,Song,Artist
+Зая,Kruzheva Music,company,Song,Company
+Зая,Pop,genre,Song,Genre
+Зая, 俄语,lan,Song,Lan
+Зая,2017-02-17,pub_time,Song,Pub_Time
+独孤 (《独孤天下》电视剧插曲),独孤天下 电视剧影视原声专辑,album,Song,Album
+独孤 (《独孤天下》电视剧插曲),金莎,artist,Song,Artist
+独孤 (《独孤天下》电视剧插曲),北京听见时代娱乐传媒有限公司,company,Song,Company
+独孤 (《独孤天下》电视剧插曲),Pop,genre,Song,Genre
+独孤 (《独孤天下》电视剧插曲),国语,lan,Song,Lan
+独孤 (《独孤天下》电视剧插曲),2018-03-16,pub_time,Song,Pub_Time
+尽头,尽头专辑,album,Song,Album
+尽头,赵方婧,artist,Song,Artist
+尽头,北京千和世纪文化传播有限公司,company,Song,Company
+尽头,Pop,genre,Song,Genre
+尽头,国语,lan,Song,Lan
+尽头,2016-11-30,pub_time,Song,Pub_Time
+Panama,Panama专辑,album,Song,Album
+Panama,Matteo,artist,Song,Artist
+Panama,启韵传媒,company,Song,Company
+Panama,Pop,genre,Song,Genre
+Panama,,lan,Song,Lan
+Panama,2013-10-02,pub_time,Song,Pub_Time
+再也没有,再也没有专辑,album,Song,Album
+再也没有,永彬Ryan.B,artist,Song,Artist
+再也没有,AY楊佬叁,artist,Song,Artist
+再也没有,Pop,genre,Song,Genre
+再也没有,国语,lan,Song,Lan
+再也没有,2017-06-09,pub_time,Song,Pub_Time
+약속해요 (I.P.U.) (约定),0+1=1 (I PROMISE YOU)专辑,album,Song,Album
+약속해요 (I.P.U.) (约定),Wanna One (워너원),artist,Song,Artist
+약속해요 (I.P.U.) (约定),Stone Music Entertainment,company,Song,Company
+약속해요 (I.P.U.) (约定),Dance,genre,Song,Genre
+약속해요 (I.P.U.) (约定), 韩语,lan,Song,Lan
+약속해요 (I.P.U.) (约定),2018-03-19,pub_time,Song,Pub_Time
+下个，路口，见,Chris Lee 同名专辑专辑,album,Song,Album
+下个，路口，见,李宇春,artist,Song,Artist
+下个，路口，见,太合麦田,company,Song,Company
+下个，路口，见,Pop,genre,Song,Genre
+下个，路口，见,国语,lan,Song,Lan
+下个，路口，见,2009-12-22,pub_time,Song,Pub_Time
+放下的时候 (《老男孩》电视剧情感插曲),老男孩 电视剧原声带专辑,album,Song,Album
+放下的时候 (《老男孩》电视剧情感插曲),刘烨,artist,Song,Artist
+放下的时候 (《老男孩》电视剧情感插曲),上海希瓜音乐制作有限公司,company,Song,Company
+放下的时候 (《老男孩》电视剧情感插曲),Soundtrack,genre,Song,Genre
+放下的时候 (《老男孩》电视剧情感插曲),国语,lan,Song,Lan
+放下的时候 (《老男孩》电视剧情感插曲),2018-03-29,pub_time,Song,Pub_Time
+摇滚唐人街 (《唐人街探案2》电影推广曲),摇滚唐人街专辑,album,Song,Album
+摇滚唐人街 (《唐人街探案2》电影推广曲),汪苏泷,artist,Song,Artist
+摇滚唐人街 (《唐人街探案2》电影推广曲),北京听见时代娱乐传媒有限公司,company,Song,Company
+摇滚唐人街 (《唐人街探案2》电影推广曲),Soundtrack,genre,Song,Genre
+摇滚唐人街 (《唐人街探案2》电影推广曲),国语,lan,Song,Lan
+摇滚唐人街 (《唐人街探案2》电影推广曲),2018-02-28,pub_time,Song,Pub_Time
+成都,无法长大专辑,album,Song,Album
+成都,赵雷,artist,Song,Artist
+成都,StreetVoice,company,Song,Company
+成都,Folk,genre,Song,Genre
+成都,国语,lan,Song,Lan
+成都,2016-12-21,pub_time,Song,Pub_Time
+怀念青春,这些年专辑,album,Song,Album
+怀念青春,刘刚,artist,Song,Artist
+怀念青春,北京丰盈联合文化有限公司,company,Song,Company
+怀念青春,Pop,genre,Song,Genre
+怀念青春,国语,lan,Song,Lan
+怀念青春,2014-12-15,pub_time,Song,Pub_Time
+在人间,禾信,company,Song,Company
+在人间,Pop,genre,Song,Genre
+在人间,国语,lan,Song,Lan
+缺氧,缺氧专辑,album,Song,Album
+缺氧,安苏羽,artist,Song,Artist
+缺氧,启韵传媒,company,Song,Company
+缺氧,Pop,genre,Song,Genre
+缺氧,国语,lan,Song,Lan
+缺氧,2017-11-29,pub_time,Song,Pub_Time
+说散就散,说散就散专辑,album,Song,Album
+说散就散,JC陈泳彤,artist,Song,Artist
+说散就散,Pop,genre,Song,Genre
+说散就散,国语,lan,Song,Lan
+说散就散,2016-06-14,pub_time,Song,Pub_Time
+差一步,差一步专辑,album,Song,Album
+差一步,大壮,artist,Song,Artist
+差一步,北京丰盈联合文化有限公司,company,Song,Company
+差一步,Pop,genre,Song,Genre
+差一步,国语,lan,Song,Lan
+差一步,2017-11-11,pub_time,Song,Pub_Time
+就是爱你,太平盛世专辑,album,Song,Album
+就是爱你,陶喆,artist,Song,Artist
+就是爱你,金牌大风,company,Song,Company
+就是爱你,R&B,genre,Song,Genre
+就是爱你,国语,lan,Song,Lan
+就是爱你,2005-01-21,pub_time,Song,Pub_Time
+全部都是你,全部都是你专辑,album,Song,Album
+全部都是你,DP龙猪,artist,Song,Artist
+全部都是你,CLOUDWANG 王云,artist,Song,Artist
+全部都是你,CNBALLER,artist,Song,Artist
+全部都是你,Pop,genre,Song,Genre
+全部都是你,国语,lan,Song,Lan
+全部都是你,2017-03-16,pub_time,Song,Pub_Time
+未关的留声机,在常玉的房间里专辑,album,Song,Album
+未关的留声机,陈粒,artist,Song,Artist
+未关的留声机,北京有此山文化传媒有限公司,company,Song,Company
+未关的留声机,Pop,genre,Song,Genre
+未关的留声机, 纯音乐,lan,Song,Lan
+未关的留声机,2018-03-06,pub_time,Song,Pub_Time
+菩提偈 (《独孤天下》电视剧片尾曲),独孤天下 电视剧影视原声专辑,album,Song,Album
+菩提偈 (《独孤天下》电视剧片尾曲),刘惜君,artist,Song,Artist
+菩提偈 (《独孤天下》电视剧片尾曲),北京听见时代娱乐传媒有限公司,company,Song,Company
+菩提偈 (《独孤天下》电视剧片尾曲),Soundtrack,genre,Song,Genre
+菩提偈 (《独孤天下》电视剧片尾曲),国语,lan,Song,Lan
+菩提偈 (《独孤天下》电视剧片尾曲),2018-03-16,pub_time,Song,Pub_Time
+Havana,Havana专辑,album,Song,Album
+Havana,Camila Cabello,artist,Song,Artist
+Havana,Young Thug,artist,Song,Artist
+Havana,Pop,genre,Song,Genre
+Havana, 英语,lan,Song,Lan
+Havana,2017-08-05,pub_time,Song,Pub_Time
+文爱,文爱专辑,album,Song,Album
+文爱,CG,artist,Song,Artist
+文爱,贺敬轩,artist,Song,Artist
+文爱,启韵传媒,company,Song,Company
+文爱, Rap/Hip Hop,genre,Song,Genre
+文爱,国语,lan,Song,Lan
+文爱,2017-10-28,pub_time,Song,Pub_Time
+Colors (2018年可口可乐世界杯主题曲),Colors专辑,album,Song,Album
+Colors (2018年可口可乐世界杯主题曲),Jason Derulo,artist,Song,Artist
+Colors (2018年可口可乐世界杯主题曲),华纳唱片,company,Song,Company
+Colors (2018年可口可乐世界杯主题曲),Pop,genre,Song,Genre
+Colors (2018年可口可乐世界杯主题曲), 英语,lan,Song,Lan
+Colors (2018年可口可乐世界杯主题曲),2018-03-09,pub_time,Song,Pub_Time
+Samsara,ULTRA DANCE 2015专辑,album,Song,Album
+Samsara,Tungevaag & Raaban,artist,Song,Artist
+Samsara,Emila,artist,Song,Artist
+Samsara,索尼音乐,company,Song,Company
+Samsara,Pop,genre,Song,Genre
+Samsara, 英语,lan,Song,Lan
+Samsara,2015-06-19,pub_time,Song,Pub_Time
+See You Again (第58届格莱美提名歌曲|《速度与激情7》电影片尾曲),Furious 7 (Original Motion Picture Soundtrack)专辑,album,Song,Album
+See You Again (第58届格莱美提名歌曲|《速度与激情7》电影片尾曲),Wiz Khalifa,artist,Song,Artist
+See You Again (第58届格莱美提名歌曲|《速度与激情7》电影片尾曲),Charlie Puth,artist,Song,Artist
+See You Again (第58届格莱美提名歌曲|《速度与激情7》电影片尾曲),华纳唱片,company,Song,Company
+See You Again (第58届格莱美提名歌曲|《速度与激情7》电影片尾曲),Pop,genre,Song,Genre
+See You Again (第58届格莱美提名歌曲|《速度与激情7》电影片尾曲), 英语,lan,Song,Lan
+See You Again (第58届格莱美提名歌曲|《速度与激情7》电影片尾曲),2015-03-17,pub_time,Song,Pub_Time
+Dancer,Dancer专辑,album,Song,Album
+Dancer,Flo Rida,artist,Song,Artist
+Dancer,华纳唱片,company,Song,Company
+Dancer,Pop,genre,Song,Genre
+Dancer, 英语,lan,Song,Lan
+Dancer,2018-03-02,pub_time,Song,Pub_Time
+Top Off,Top Off专辑,album,Song,Album
+Top Off,DJ Khaled,artist,Song,Artist
+Top Off,Jay-Z,artist,Song,Artist
+Top Off,Future,artist,Song,Artist
+Top Off,Beyoncé,artist,Song,Artist
+Top Off,索尼音乐,company,Song,Company
+Top Off,Pop,genre,Song,Genre
+Top Off, 英语,lan,Song,Lan
+Top Off,2018-03-04,pub_time,Song,Pub_Time
+9420,9420专辑,album,Song,Album
+9420,麦小兜,artist,Song,Artist
+9420,北京亿格艾科技有限公司,company,Song,Company
+9420,Pop,genre,Song,Genre
+9420,国语,lan,Song,Lan
+9420,2017-10-24,pub_time,Song,Pub_Time
+萤火虫 (《萤火虫为戏而生》真人秀主题曲),萤火虫专辑,album,Song,Album
+萤火虫 (《萤火虫为戏而生》真人秀主题曲),GAI周延,artist,Song,Artist
+萤火虫 (《萤火虫为戏而生》真人秀主题曲), Rap/Hip Hop,genre,Song,Genre
+萤火虫 (《萤火虫为戏而生》真人秀主题曲),国语,lan,Song,Lan
+萤火虫 (《萤火虫为戏而生》真人秀主题曲),2018-02-28,pub_time,Song,Pub_Time
+给你们,男人的好（新歌 + 精选）专辑,album,Song,Album
+给你们,张宇,artist,Song,Artist
+给你们,华纳唱片,company,Song,Company
+给你们,Pop,genre,Song,Genre
+给你们,国语,lan,Song,Lan
+给你们,2005-03-01,pub_time,Song,Pub_Time
+I Want You,I Want You专辑,album,Song,Album
+I Want You,Chris Lake,artist,Song,Artist
+I Want You,华纳唱片,company,Song,Company
+I Want You,Electronica,genre,Song,Genre
+I Want You, 英语,lan,Song,Lan
+I Want You,2017-03-22,pub_time,Song,Pub_Time
+羞答答的玫瑰静悄悄地开,念·旧专辑,album,Song,Album
+羞答答的玫瑰静悄悄地开,胡夏,artist,Song,Artist
+羞答答的玫瑰静悄悄地开,大雨文化,company,Song,Company
+羞答答的玫瑰静悄悄地开,Pop,genre,Song,Genre
+羞答答的玫瑰静悄悄地开,国语,lan,Song,Lan
+羞答答的玫瑰静悄悄地开,2019-04-17,pub_time,Song,Pub_Time
+We Don't Talk Anymore,Nine Track Mind (Special Edition)专辑,album,Song,Album
+We Don't Talk Anymore,Charlie Puth,artist,Song,Artist
+We Don't Talk Anymore,Selena Gomez,artist,Song,Artist
+We Don't Talk Anymore,华纳唱片,company,Song,Company
+We Don't Talk Anymore,Pop,genre,Song,Genre
+We Don't Talk Anymore, 英语,lan,Song,Lan
+We Don't Talk Anymore,2015-12-05,pub_time,Song,Pub_Time
+Stay With Me (《孤单又灿烂的神－鬼怪》韩剧插曲),쓸쓸하고찬란하神-도깨비 OST专辑,album,Song,Album
+Stay With Me (《孤单又灿烂的神－鬼怪》韩剧插曲),灿烈 (찬열),artist,Song,Artist
+Stay With Me (《孤单又灿烂的神－鬼怪》韩剧插曲),PUNCH (펀치),artist,Song,Artist
+Stay With Me (《孤单又灿烂的神－鬼怪》韩剧插曲),Stone Music Entertainment,company,Song,Company
+Stay With Me (《孤单又灿烂的神－鬼怪》韩剧插曲),Soundtrack,genre,Song,Genre
+Stay With Me (《孤单又灿烂的神－鬼怪》韩剧插曲), 韩语,lan,Song,Lan
+Stay With Me (《孤单又灿烂的神－鬼怪》韩剧插曲),2016-12-03,pub_time,Song,Pub_Time
+Beautiful Now,Beautiful Now专辑,album,Song,Album
+Beautiful Now,Zedd,artist,Song,Artist
+Beautiful Now,Jon Bellion,artist,Song,Artist
+Beautiful Now,环球唱片,company,Song,Company
+Beautiful Now,Dance,genre,Song,Genre
+Beautiful Now, 英语,lan,Song,Lan
+Beautiful Now,2015-05-13,pub_time,Song,Pub_Time
+7538 (Me U-Remix),7538(Me U-Remix)专辑,album,Song,Album
+7538 (Me U-Remix),KT杨君涛,artist,Song,Artist
+7538 (Me U-Remix),Chiu Chiu,artist,Song,Artist
+7538 (Me U-Remix), Rap/Hip Hop,genre,Song,Genre
+7538 (Me U-Remix), 粤语,lan,Song,Lan
+7538 (Me U-Remix),2017-06-23,pub_time,Song,Pub_Time
+我们之间 (《我站在桥上看风景》电视剧高甜宠爱插曲),我站在桥上看风景 电视剧原声带专辑,album,Song,Album
+我们之间 (《我站在桥上看风景》电视剧高甜宠爱插曲),孙子涵,artist,Song,Artist
+我们之间 (《我站在桥上看风景》电视剧高甜宠爱插曲),冯提莫,artist,Song,Artist
+我们之间 (《我站在桥上看风景》电视剧高甜宠爱插曲),华纳唱片,company,Song,Company
+我们之间 (《我站在桥上看风景》电视剧高甜宠爱插曲),Soundtrack,genre,Song,Genre
+我们之间 (《我站在桥上看风景》电视剧高甜宠爱插曲),国语,lan,Song,Lan
+我们之间 (《我站在桥上看风景》电视剧高甜宠爱插曲),2018-02-02,pub_time,Song,Pub_Time
+易燃易爆炸,如也专辑,album,Song,Album
+易燃易爆炸,陈粒,artist,Song,Artist
+易燃易爆炸,北京有此山文化传媒有限公司,company,Song,Company
+易燃易爆炸,Folk,genre,Song,Genre
+易燃易爆炸,国语,lan,Song,Lan
+易燃易爆炸,2015-02-02,pub_time,Song,Pub_Time
+小公主,北京市龙天腾文化,company,Song,Company
+小公主,Pop,genre,Song,Genre
+小公主,国语,lan,Song,Lan
+想你,想你专辑,album,Song,Album
+想你,吴亦凡,artist,Song,Artist
+想你,赵丽颖,artist,Song,Artist
+想你,ACE UNIT CULTURE MEDIA CO.,LIMITED,company,Song,Company
+想你, Rap/Hip Hop,genre,Song,Genre
+想你,国语,lan,Song,Lan
+想你,2017-12-25,pub_time,Song,Pub_Time
+拥抱你离去,拥抱你离去专辑,album,Song,Album
+拥抱你离去,张北北,artist,Song,Artist
+拥抱你离去,启韵传媒,company,Song,Company
+拥抱你离去,Pop,genre,Song,Genre
+拥抱你离去,国语,lan,Song,Lan
+拥抱你离去,2016-04-23,pub_time,Song,Pub_Time
+我们不一样 (《这！就是街舞》第八期背景音乐),我们不一样专辑,album,Song,Album
+我们不一样 (《这！就是街舞》第八期背景音乐),大壮,artist,Song,Artist
+我们不一样 (《这！就是街舞》第八期背景音乐),北京丰盈联合文化有限公司,company,Song,Company
+我们不一样 (《这！就是街舞》第八期背景音乐),Pop,genre,Song,Genre
+我们不一样 (《这！就是街舞》第八期背景音乐),国语,lan,Song,Lan
+我们不一样 (《这！就是街舞》第八期背景音乐),2017-06-06,pub_time,Song,Pub_Time
+我想,我想专辑,album,Song,Album
+我想,董昱昆,artist,Song,Artist
+我想,北京亿格艾科技有限公司,company,Song,Company
+我想,Pop,genre,Song,Genre
+我想,国语,lan,Song,Lan
+我想,2017-05-17,pub_time,Song,Pub_Time
+粉红色的回忆,粉红色的回忆专辑,album,Song,Album
+粉红色的回忆,韩宝仪,artist,Song,Artist
+粉红色的回忆,花仙子,company,Song,Company
+粉红色的回忆,Pop,genre,Song,Genre
+粉红色的回忆,国语,lan,Song,Lan
+粉红色的回忆,1987-01-01,pub_time,Song,Pub_Time
+Old Boy (《老男孩》电视剧同名主题曲|《不老男孩》英文版),老男孩 电视剧原声带专辑,album,Song,Album
+Old Boy (《老男孩》电视剧同名主题曲|《不老男孩》英文版),古巨基,artist,Song,Artist
+Old Boy (《老男孩》电视剧同名主题曲|《不老男孩》英文版),上海希瓜音乐制作有限公司,company,Song,Company
+Old Boy (《老男孩》电视剧同名主题曲|《不老男孩》英文版),Soundtrack,genre,Song,Genre
+Old Boy (《老男孩》电视剧同名主题曲|《不老男孩》英文版), 英语,lan,Song,Lan
+Old Boy (《老男孩》电视剧同名主题曲|《不老男孩》英文版),2018-03-29,pub_time,Song,Pub_Time
+실례해도 될까요 (可以打扰一下吗),LISTEN 020 실례해도 될까요专辑,album,Song,Album
+실례해도 될까요 (可以打扰一下吗),张才人 (장재인),artist,Song,Artist
+실례해도 될까요 (可以打扰一下吗),SUHO (수호),artist,Song,Artist
+실례해도 될까요 (可以打扰一下吗),Pop,genre,Song,Genre
+실례해도 될까요 (可以打扰一下吗), 韩语,lan,Song,Lan
+실례해도 될까요 (可以打扰一下吗),2018-03-09,pub_time,Song,Pub_Time
+잘자 내 몫까지 (晚安 连我的份一起),잘자 내 몫까지 (with 이루마)专辑,album,Song,Album
+잘자 내 몫까지 (晚安 连我的份一起),裴秀智 (배수지),artist,Song,Artist
+잘자 내 몫까지 (晚安 连我的份一起),李闰珉 (이루마),artist,Song,Artist
+잘자 내 몫까지 (晚安 连我的份一起),JYP Entertainment,company,Song,Company
+잘자 내 몫까지 (晚安 连我的份一起),Pop,genre,Song,Genre
+잘자 내 몫까지 (晚安 连我的份一起), 韩语,lan,Song,Lan
+잘자 내 몫까지 (晚安 连我的份一起),2018-03-09,pub_time,Song,Pub_Time
+We Can't Stop,We Can't Stop - Single专辑,album,Song,Album
+We Can't Stop,Miley Cyrus,artist,Song,Artist
+We Can't Stop,索尼音乐,company,Song,Company
+We Can't Stop,Pop,genre,Song,Genre
+We Can't Stop, 英语,lan,Song,Lan
+We Can't Stop,2013-06-03,pub_time,Song,Pub_Time
+Uptown Funk,Uptown Special专辑,album,Song,Album
+Uptown Funk,Mark Ronson,artist,Song,Artist
+Uptown Funk,Bruno Mars,artist,Song,Artist
+Uptown Funk,索尼音乐,company,Song,Company
+Uptown Funk,Pop,genre,Song,Genre
+Uptown Funk, 英语,lan,Song,Lan
+Uptown Funk,2015-01-13,pub_time,Song,Pub_Time
+平凡之路 (《后会无期》电影主题曲),猎户星座专辑,album,Song,Album
+平凡之路 (《后会无期》电影主题曲),朴树,artist,Song,Artist
+平凡之路 (《后会无期》电影主题曲),不晚音乐,company,Song,Company
+平凡之路 (《后会无期》电影主题曲),Pop,genre,Song,Genre
+平凡之路 (《后会无期》电影主题曲),国语,lan,Song,Lan
+平凡之路 (《后会无期》电影主题曲),2017-04-30,pub_time,Song,Pub_Time
+走在冷风中,拥抱你专辑,album,Song,Album
+走在冷风中,刘思涵,artist,Song,Artist
+走在冷风中,Pop,genre,Song,Genre
+走在冷风中,国语,lan,Song,Lan
+走在冷风中,2013-10-09,pub_time,Song,Pub_Time
+十年,十年专辑,album,Song,Album
+十年,校长（张驰）,artist,Song,Artist
+十年,北京千和世纪文化传播有限公司,company,Song,Company
+十年,Pop,genre,Song,Genre
+十年,国语,lan,Song,Lan
+十年,2018-03-08,pub_time,Song,Pub_Time
+You Owe Me,Sick Boy专辑,album,Song,Album
+You Owe Me,The Chainsmokers,artist,Song,Artist
+You Owe Me,索尼音乐,company,Song,Company
+You Owe Me,Dance,genre,Song,Genre
+You Owe Me, 英语,lan,Song,Lan
+You Owe Me,2018-12-14,pub_time,Song,Pub_Time
+Oops,Glory Days (Deluxe)专辑,album,Song,Album
+Oops,Little Mix,artist,Song,Artist
+Oops,Charlie Puth,artist,Song,Artist
+Oops,索尼音乐,company,Song,Company
+Oops,Pop,genre,Song,Genre
+Oops, 英语,lan,Song,Lan
+Oops,2016-11-18,pub_time,Song,Pub_Time
+宠爱吖,宠爱吖专辑,album,Song,Album
+宠爱吖,白小白,artist,Song,Artist
+宠爱吖,球球,artist,Song,Artist
+宠爱吖,启韵传媒,company,Song,Company
+宠爱吖,Pop,genre,Song,Genre
+宠爱吖,国语,lan,Song,Lan
+宠爱吖,2018-01-04,pub_time,Song,Pub_Time
+短发,短发（The Girl With Short Hair）专辑,album,Song,Album
+短发,Lamp猴子,artist,Song,Artist
+短发,看见文娱·音乐中心,company,Song,Company
+短发, Rap/Hip Hop,genre,Song,Genre
+短发,国语,lan,Song,Lan
+短发,2017-08-17,pub_time,Song,Pub_Time
+屋顶着火 (《热血街舞团》总决赛背景音乐),屋顶着火专辑,album,Song,Album
+屋顶着火 (《热血街舞团》总决赛背景音乐),宋茜,artist,Song,Artist
+屋顶着火 (《热血街舞团》总决赛背景音乐),少城时代,company,Song,Company
+屋顶着火 (《热血街舞团》总决赛背景音乐),Pop,genre,Song,Genre
+屋顶着火 (《热血街舞团》总决赛背景音乐),国语,lan,Song,Lan
+屋顶着火 (《热血街舞团》总决赛背景音乐),2018-03-13,pub_time,Song,Pub_Time
+天后 (《面具》国语版|《同伊》电视剧片尾曲),天后专辑,album,Song,Album
+天后 (《面具》国语版|《同伊》电视剧片尾曲),陈势安,artist,Song,Artist
+天后 (《面具》国语版|《同伊》电视剧片尾曲),Pop,genre,Song,Genre
+天后 (《面具》国语版|《同伊》电视剧片尾曲),国语,lan,Song,Lan
+天后 (《面具》国语版|《同伊》电视剧片尾曲),2010-10-08,pub_time,Song,Pub_Time
+我们,北京市龙天腾文化,company,Song,Company
+我们,Pop,genre,Song,Genre
+我们,国语,lan,Song,Lan
+暧昧,渡 The Crossing专辑,album,Song,Album
+暧昧,薛之谦,artist,Song,Artist
+暧昧,华宇世博,company,Song,Company
+暧昧,Pop,genre,Song,Genre
+暧昧,国语,lan,Song,Lan
+暧昧,2017-11-28,pub_time,Song,Pub_Time
+HATER,HATER专辑,album,Song,Album
+HATER,黄子韬,artist,Song,Artist
+HATER,Pop,genre,Song,Genre
+HATER,国语,lan,Song,Lan
+HATER,2018-03-02,pub_time,Song,Pub_Time
+退,庸医专辑,album,Song,Album
+退,蒋蒋,artist,Song,Artist
+退,北京千和世纪文化传播有限公司,company,Song,Company
+退,Pop,genre,Song,Genre
+退,国语,lan,Song,Lan
+退,2018-09-21,pub_time,Song,Pub_Time
+放过自己,放过自己专辑,album,Song,Album
+放过自己,庄心妍,artist,Song,Artist
+放过自己,致力音乐,company,Song,Company
+放过自己,Pop,genre,Song,Genre
+放过自己,国语,lan,Song,Lan
+放过自己,2015-11-05,pub_time,Song,Pub_Time
+再见前任 (《前任3：再见前任》电影同名宣传曲),再见前任专辑,album,Song,Album
+再见前任 (《前任3：再见前任》电影同名宣传曲),冯提莫,artist,Song,Artist
+再见前任 (《前任3：再见前任》电影同名宣传曲),北京自在天浩文化娱乐有限公司,company,Song,Company
+再见前任 (《前任3：再见前任》电影同名宣传曲),Pop,genre,Song,Genre
+再见前任 (《前任3：再见前任》电影同名宣传曲),国语,lan,Song,Lan
+再见前任 (《前任3：再见前任》电影同名宣传曲),2017-12-20,pub_time,Song,Pub_Time
+走着走着就散了 (《双世宠妃》网剧插曲),走着走着就散了专辑,album,Song,Album
+走着走着就散了 (《双世宠妃》网剧插曲),庄心妍,artist,Song,Artist
+走着走着就散了 (《双世宠妃》网剧插曲),致力音乐,company,Song,Company
+走着走着就散了 (《双世宠妃》网剧插曲),Pop,genre,Song,Genre
+走着走着就散了 (《双世宠妃》网剧插曲),国语,lan,Song,Lan
+走着走着就散了 (《双世宠妃》网剧插曲),2015-10-13,pub_time,Song,Pub_Time
+너 하나만 (唯有你),Eyes On You专辑,album,Song,Album
+너 하나만 (唯有你),GOT7 (갓세븐),artist,Song,Artist
+너 하나만 (唯有你),孝琳 (효린),artist,Song,Artist
+너 하나만 (唯有你),JYP Entertainment,company,Song,Company
+너 하나만 (唯有你),Dance,genre,Song,Genre
+너 하나만 (唯有你), 韩语,lan,Song,Lan
+너 하나만 (唯有你),2018-03-12,pub_time,Song,Pub_Time
+李白,模特专辑,album,Song,Album
+李白,李荣浩,artist,Song,Artist
+李白,一样音乐,company,Song,Company
+李白,Pop,genre,Song,Genre
+李白,国语,lan,Song,Lan
+李白,2013-09-17,pub_time,Song,Pub_Time
+最美情侣,最美情侣专辑,album,Song,Album
+最美情侣,白小白,artist,Song,Artist
+最美情侣,浙江信庭网络科技有限公司,company,Song,Company
+最美情侣,Pop,genre,Song,Genre
+最美情侣,国语,lan,Song,Lan
+最美情侣,2017-04-04,pub_time,Song,Pub_Time
+Good Time,Good Time专辑,album,Song,Album
+Good Time,Owl City,artist,Song,Artist
+Good Time,Carly Rae Jepsen,artist,Song,Artist
+Good Time,环球唱片,company,Song,Company
+Good Time,Pop,genre,Song,Genre
+Good Time, 英语,lan,Song,Lan
+Good Time,2012-06-21,pub_time,Song,Pub_Time
+隐隐作秀,隐隐作秀专辑,album,Song,Album
+隐隐作秀,张碧晨,artist,Song,Artist
+隐隐作秀,梦响当然,company,Song,Company
+隐隐作秀,Pop,genre,Song,Genre
+隐隐作秀,国语,lan,Song,Lan
+隐隐作秀,2018-01-25,pub_time,Song,Pub_Time
+狐狸 (《二代妖精之今生有幸》电影推广曲),怪咖专辑,album,Song,Album
+狐狸 (《二代妖精之今生有幸》电影推广曲),薛之谦,artist,Song,Artist
+狐狸 (《二代妖精之今生有幸》电影推广曲),华宇世博,company,Song,Company
+狐狸 (《二代妖精之今生有幸》电影推广曲),Soundtrack,genre,Song,Genre
+狐狸 (《二代妖精之今生有幸》电影推广曲),国语,lan,Song,Lan
+狐狸 (《二代妖精之今生有幸》电影推广曲),2018-12-31,pub_time,Song,Pub_Time
+Sugar (2015年维多利亚的秘密泳装秀秀场音乐),V (Deluxe Version)专辑,album,Song,Album
+Sugar (2015年维多利亚的秘密泳装秀秀场音乐),Maroon 5,artist,Song,Artist
+Sugar (2015年维多利亚的秘密泳装秀秀场音乐),环球唱片,company,Song,Company
+Sugar (2015年维多利亚的秘密泳装秀秀场音乐),Pop,genre,Song,Genre
+Sugar (2015年维多利亚的秘密泳装秀秀场音乐), 英语,lan,Song,Lan
+Sugar (2015年维多利亚的秘密泳装秀秀场音乐),2014-09-02,pub_time,Song,Pub_Time
+Closer,Closer专辑,album,Song,Album
+Closer,The Chainsmokers,artist,Song,Artist
+Closer,Halsey,artist,Song,Artist
+Closer,索尼音乐,company,Song,Company
+Closer,Dance,genre,Song,Genre
+Closer, 英语,lan,Song,Lan
+Closer,2016-07-29,pub_time,Song,Pub_Time
+What Are Words,What Are Words专辑,album,Song,Album
+What Are Words,Chris Medina,artist,Song,Artist
+What Are Words,Universal Music AS,company,Song,Company
+What Are Words,Pop,genre,Song,Genre
+What Are Words, 英语,lan,Song,Lan
+What Are Words,2011-11-28,pub_time,Song,Pub_Time
+뿜뿜 (BBoom BBoom),GREAT!专辑,album,Song,Album
+뿜뿜 (BBoom BBoom),MOMOLAND (모모랜드),artist,Song,Artist
+뿜뿜 (BBoom BBoom),Pop,genre,Song,Genre
+뿜뿜 (BBoom BBoom), 韩语,lan,Song,Lan
+뿜뿜 (BBoom BBoom),2018-01-03,pub_time,Song,Pub_Time
+多幸运,多幸运专辑,album,Song,Album
+多幸运,韩安旭,artist,Song,Artist
+多幸运,北京亿格艾科技有限公司,company,Song,Company
+多幸运,Pop,genre,Song,Genre
+多幸运,国语,lan,Song,Lan
+多幸运,2015-10-23,pub_time,Song,Pub_Time
+Love Yourself (2016年AMA全美音乐奖最受欢迎流行/摇滚歌曲获奖歌曲),Purpose (Deluxe)专辑,album,Song,Album
+Love Yourself (2016年AMA全美音乐奖最受欢迎流行/摇滚歌曲获奖歌曲),Justin Bieber,artist,Song,Artist
+Love Yourself (2016年AMA全美音乐奖最受欢迎流行/摇滚歌曲获奖歌曲),RBMG/Def Jam,company,Song,Company
+Love Yourself (2016年AMA全美音乐奖最受欢迎流行/摇滚歌曲获奖歌曲),Pop,genre,Song,Genre
+Love Yourself (2016年AMA全美音乐奖最受欢迎流行/摇滚歌曲获奖歌曲), 英语,lan,Song,Lan
+Love Yourself (2016年AMA全美音乐奖最受欢迎流行/摇滚歌曲获奖歌曲),2015-11-13,pub_time,Song,Pub_Time
+我要的,我要的专辑,album,Song,Album
+我要的,张靓颖,artist,Song,Artist
+我要的,哆咪哆音乐,company,Song,Company
+我要的,Pop,genre,Song,Genre
+我要的,国语,lan,Song,Lan
+我要的,2018-03-01,pub_time,Song,Pub_Time
+Worth It,Reflection (Deluxe)专辑,album,Song,Album
+Worth It,Fifth Harmony,artist,Song,Artist
+Worth It,Kid Ink,artist,Song,Artist
+Worth It,索尼音乐,company,Song,Company
+Worth It,Pop,genre,Song,Genre
+Worth It, 英语,lan,Song,Lan
+Worth It,2015-02-02,pub_time,Song,Pub_Time
+一生所爱 (《大话西游》电影插曲|《港囧》电影插曲),齐天周大圣之西游双记 电影歌乐游唱版专辑,album,Song,Album
+一生所爱 (《大话西游》电影插曲|《港囧》电影插曲),卢冠廷,artist,Song,Artist
+一生所爱 (《大话西游》电影插曲|《港囧》电影插曲),莫文蔚,artist,Song,Artist
+一生所爱 (《大话西游》电影插曲|《港囧》电影插曲),滚石唱片,company,Song,Company
+一生所爱 (《大话西游》电影插曲|《港囧》电影插曲),Soundtrack,genre,Song,Genre
+一生所爱 (《大话西游》电影插曲|《港囧》电影插曲), 粤语,lan,Song,Lan
+一生所爱 (《大话西游》电影插曲|《港囧》电影插曲),1995-05-01,pub_time,Song,Pub_Time
+无问 (《无问西东》电影宣传曲),无问专辑,album,Song,Album
+无问 (《无问西东》电影宣传曲),毛不易,artist,Song,Artist
+无问 (《无问西东》电影宣传曲),麦特文化,company,Song,Company
+无问 (《无问西东》电影宣传曲),Pop,genre,Song,Genre
+无问 (《无问西东》电影宣传曲),国语,lan,Song,Lan
+无问 (《无问西东》电影宣传曲),2017-12-25,pub_time,Song,Pub_Time
+丑八怪 (《如果我爱你》电视剧插曲),意外专辑,album,Song,Album
+丑八怪 (《如果我爱你》电视剧插曲),薛之谦,artist,Song,Artist
+丑八怪 (《如果我爱你》电视剧插曲),华宇世博,company,Song,Company
+丑八怪 (《如果我爱你》电视剧插曲),Pop,genre,Song,Genre
+丑八怪 (《如果我爱你》电视剧插曲),国语,lan,Song,Lan
+丑八怪 (《如果我爱你》电视剧插曲),2013-11-11,pub_time,Song,Pub_Time
+다시 너를 (再次见到你) (《太阳的后裔》韩剧插曲),태양의 후예 OST Part.5专辑,album,Song,Album
+다시 너를 (再次见到你) (《太阳的后裔》韩剧插曲),Mad Clown (매드 클라운),artist,Song,Artist
+다시 너를 (再次见到你) (《太阳的后裔》韩剧插曲),金娜英 (김나영),artist,Song,Artist
+다시 너를 (再次见到你) (《太阳的后裔》韩剧插曲),Music&New,company,Song,Company
+다시 너를 (再次见到你) (《太阳的后裔》韩剧插曲),Soundtrack,genre,Song,Genre
+다시 너를 (再次见到你) (《太阳的后裔》韩剧插曲), 韩语,lan,Song,Lan
+다시 너를 (再次见到你) (《太阳的后裔》韩剧插曲),2016-03-17,pub_time,Song,Pub_Time
+三生三世 (《三生三世十里桃花》电视剧主题曲),三生三世十里桃花 电视剧原声专辑专辑,album,Song,Album
+三生三世 (《三生三世十里桃花》电视剧主题曲),张杰,artist,Song,Artist
+三生三世 (《三生三世十里桃花》电视剧主题曲),上海希瓜音乐制作有限公司,company,Song,Company
+三生三世 (《三生三世十里桃花》电视剧主题曲),Soundtrack,genre,Song,Genre
+三生三世 (《三生三世十里桃花》电视剧主题曲),国语,lan,Song,Lan
+三生三世 (《三生三世十里桃花》电视剧主题曲),2017-02-18,pub_time,Song,Pub_Time
+有点甜 (《萌三国》网游主题曲|《微微一笑很倾城》电视剧插曲),万有引力专辑,album,Song,Album
+有点甜 (《萌三国》网游主题曲|《微微一笑很倾城》电视剧插曲),汪苏泷,artist,Song,Artist
+有点甜 (《萌三国》网游主题曲|《微微一笑很倾城》电视剧插曲),BY2,artist,Song,Artist
+有点甜 (《萌三国》网游主题曲|《微微一笑很倾城》电视剧插曲),大象音乐,company,Song,Company
+有点甜 (《萌三国》网游主题曲|《微微一笑很倾城》电视剧插曲),Pop,genre,Song,Genre
+有点甜 (《萌三国》网游主题曲|《微微一笑很倾城》电视剧插曲),国语,lan,Song,Lan
+有点甜 (《萌三国》网游主题曲|《微微一笑很倾城》电视剧插曲),2012-07-16,pub_time,Song,Pub_Time
+IF YOU,MADE SERIES 《D》专辑,album,Song,Album
+IF YOU,BIGBANG (빅뱅),artist,Song,Artist
+IF YOU,YG Entertainment,company,Song,Company
+IF YOU,Pop,genre,Song,Genre
+IF YOU, 韩语,lan,Song,Lan
+IF YOU,2015-07-01,pub_time,Song,Pub_Time
+千禧,千禧专辑,album,Song,Album
+千禧,徐秉龙,artist,Song,Artist
+千禧,上海煮草文化传播有限公司,company,Song,Company
+千禧,Pop,genre,Song,Genre
+千禧,国语,lan,Song,Lan
+千禧,2017-12-15,pub_time,Song,Pub_Time
+虹之间 (《爱情公寓4》电视剧插曲),I Believe爱不离专辑,album,Song,Album
+虹之间 (《爱情公寓4》电视剧插曲),金贵晟,artist,Song,Artist
+虹之间 (《爱情公寓4》电视剧插曲),索尼音乐,company,Song,Company
+虹之间 (《爱情公寓4》电视剧插曲),Pop,genre,Song,Genre
+虹之间 (《爱情公寓4》电视剧插曲),国语,lan,Song,Lan
+虹之间 (《爱情公寓4》电视剧插曲),2014-10-30,pub_time,Song,Pub_Time
+勋章 (《我是证人》电影主题曲),勋章专辑,album,Song,Album
+勋章 (《我是证人》电影主题曲),鹿晗,artist,Song,Artist
+勋章 (《我是证人》电影主题曲),上海风华秋实文化传媒有限公司,company,Song,Company
+勋章 (《我是证人》电影主题曲),Pop,genre,Song,Genre
+勋章 (《我是证人》电影主题曲),国语,lan,Song,Lan
+勋章 (《我是证人》电影主题曲),2015-10-14,pub_time,Song,Pub_Time
+心愿便利贴 (《命中注定我爱你》电视剧片尾曲),命中注定我爱你 电视剧原声带专辑,album,Song,Album
+心愿便利贴 (《命中注定我爱你》电视剧片尾曲),元若蓝,artist,Song,Artist
+心愿便利贴 (《命中注定我爱你》电视剧片尾曲),大Q秉洛,artist,Song,Artist
+心愿便利贴 (《命中注定我爱你》电视剧片尾曲),滚石唱片,company,Song,Company
+心愿便利贴 (《命中注定我爱你》电视剧片尾曲),Soundtrack,genre,Song,Genre
+心愿便利贴 (《命中注定我爱你》电视剧片尾曲),国语,lan,Song,Lan
+心愿便利贴 (《命中注定我爱你》电视剧片尾曲),2008-04-18,pub_time,Song,Pub_Time
+最后我们没有在一起,昭示录专辑,album,Song,Album
+最后我们没有在一起,吴正潇,artist,Song,Artist
+最后我们没有在一起,百纳娱乐,company,Song,Company
+最后我们没有在一起,Rock,genre,Song,Genre
+最后我们没有在一起,国语,lan,Song,Lan
+最后我们没有在一起,2014-12-27,pub_time,Song,Pub_Time
+Take Me to Infinity,Take Me to Infinity专辑,album,Song,Album
+Take Me to Infinity,Consoul Trainin,artist,Song,Artist
+Take Me to Infinity,Planetworks,company,Song,Company
+Take Me to Infinity,Dance,genre,Song,Genre
+Take Me to Infinity, 英语,lan,Song,Lan
+Take Me to Infinity,2016-05-10,pub_time,Song,Pub_Time
+甜到爆表,甜到爆表专辑,album,Song,Album
+甜到爆表,晓华,artist,Song,Artist
+甜到爆表,林小坤,artist,Song,Artist
+甜到爆表,成都塔堡文化传播有限公司,company,Song,Company
+甜到爆表,Pop,genre,Song,Genre
+甜到爆表,国语,lan,Song,Lan
+甜到爆表,2018-02-06,pub_time,Song,Pub_Time
+说散就散 (《前任3：再见前任》电影主题曲),说散就散专辑,album,Song,Album
+说散就散 (《前任3：再见前任》电影主题曲),艾福杰尼,artist,Song,Artist
+说散就散 (《前任3：再见前任》电影主题曲),黄旭,artist,Song,Artist
+说散就散 (《前任3：再见前任》电影主题曲),田羽生,artist,Song,Artist
+说散就散 (《前任3：再见前任》电影主题曲),北京自在天浩文化娱乐有限公司,company,Song,Company
+说散就散 (《前任3：再见前任》电影主题曲), Rap/Hip Hop,genre,Song,Genre
+说散就散 (《前任3：再见前任》电影主题曲),国语,lan,Song,Lan
+说散就散 (《前任3：再见前任》电影主题曲),2017-12-13,pub_time,Song,Pub_Time
+致爱 Your Song,致爱 Your Song专辑,album,Song,Album
+致爱 Your Song,鹿晗,artist,Song,Artist
+致爱 Your Song,上海风华秋实文化传媒有限公司,company,Song,Company
+致爱 Your Song,Pop,genre,Song,Genre
+致爱 Your Song,国语,lan,Song,Lan
+致爱 Your Song,2015-09-21,pub_time,Song,Pub_Time
+这个年纪,这个年纪专辑,album,Song,Album
+这个年纪,齐一,artist,Song,Artist
+这个年纪,华纳唱片,company,Song,Company
+这个年纪,Pop,genre,Song,Genre
+这个年纪,国语,lan,Song,Lan
+这个年纪,2015-10-12,pub_time,Song,Pub_Time
+奇妙能力歌,陈粒的单曲列表专辑,album,Song,Album
+奇妙能力歌,陈粒,artist,Song,Artist
+奇妙能力歌,北京有此山文化传媒有限公司,company,Song,Company
+奇妙能力歌,Folk,genre,Song,Genre
+奇妙能力歌,国语,lan,Song,Lan
+奇妙能力歌,2014-02-01,pub_time,Song,Pub_Time
+女儿国 (《西游记女儿国》电影主题曲),女儿国专辑,album,Song,Album
+女儿国 (《西游记女儿国》电影主题曲),张靓颖,artist,Song,Artist
+女儿国 (《西游记女儿国》电影主题曲),李荣浩,artist,Song,Artist
+女儿国 (《西游记女儿国》电影主题曲),燃音乐,company,Song,Company
+女儿国 (《西游记女儿国》电影主题曲),Soundtrack,genre,Song,Genre
+女儿国 (《西游记女儿国》电影主题曲),国语,lan,Song,Lan
+女儿国 (《西游记女儿国》电影主题曲),2017-12-04,pub_time,Song,Pub_Time
+全世界失眠,反正是我专辑,album,Song,Album
+全世界失眠,陈奕迅,artist,Song,Artist
+全世界失眠,英皇唱片,company,Song,Company
+全世界失眠,Pop,genre,Song,Genre
+全世界失眠,国语,lan,Song,Lan
+全世界失眠,2001-07-17,pub_time,Song,Pub_Time
+Baby (Album Version),My Worlds专辑,album,Song,Album
+Baby (Album Version),Justin Bieber,artist,Song,Artist
+Baby (Album Version),Ludacris,artist,Song,Artist
+Baby (Album Version),环球唱片,company,Song,Company
+Baby (Album Version),Pop,genre,Song,Genre
+Baby (Album Version), 英语,lan,Song,Lan
+Baby (Album Version),2010-11-19,pub_time,Song,Pub_Time
+晚枫歌 (《烈火如歌》电视剧战枫情感主题曲),烈火如歌 电视剧原声带专辑,album,Song,Album
+晚枫歌 (《烈火如歌》电视剧战枫情感主题曲),孟子坤,artist,Song,Artist
+晚枫歌 (《烈火如歌》电视剧战枫情感主题曲),上海希瓜音乐制作有限公司,company,Song,Company
+晚枫歌 (《烈火如歌》电视剧战枫情感主题曲),Soundtrack,genre,Song,Genre
+晚枫歌 (《烈火如歌》电视剧战枫情感主题曲),国语,lan,Song,Lan
+晚枫歌 (《烈火如歌》电视剧战枫情感主题曲),2018-03-22,pub_time,Song,Pub_Time
+Alone,Alone专辑,album,Song,Album
+Alone,Alan Walker,artist,Song,Artist
+Alone,索尼音乐,company,Song,Company
+Alone,Dance,genre,Song,Genre
+Alone, 英语,lan,Song,Lan
+Alone,2016-12-02,pub_time,Song,Pub_Time
+我怀念的 (《第二回合我爱你（幸运日)》电视剧主题曲),逆光专辑,album,Song,Album
+我怀念的 (《第二回合我爱你（幸运日)》电视剧主题曲),孙燕姿,artist,Song,Artist
+我怀念的 (《第二回合我爱你（幸运日)》电视剧主题曲),金牌大风,company,Song,Company
+我怀念的 (《第二回合我爱你（幸运日)》电视剧主题曲),Pop,genre,Song,Genre
+我怀念的 (《第二回合我爱你（幸运日)》电视剧主题曲),国语,lan,Song,Lan
+我怀念的 (《第二回合我爱你（幸运日)》电视剧主题曲),2007-03-22,pub_time,Song,Pub_Time
+Don't Let Me Down,Don't Let Me Down专辑,album,Song,Album
+Don't Let Me Down,The Chainsmokers,artist,Song,Artist
+Don't Let Me Down,Daya,artist,Song,Artist
+Don't Let Me Down,索尼音乐,company,Song,Company
+Don't Let Me Down,Dance,genre,Song,Genre
+Don't Let Me Down, 英语,lan,Song,Lan
+Don't Let Me Down,2016-02-05,pub_time,Song,Pub_Time
+做我的猫,做我的猫专辑,album,Song,Album
+做我的猫,满舒克,artist,Song,Artist
+做我的猫,摩登天空,company,Song,Company
+做我的猫, Rap/Hip Hop,genre,Song,Genre
+做我的猫,国语,lan,Song,Lan
+做我的猫,2017-11-22,pub_time,Song,Pub_Time
+一次就好 (《夏洛特烦恼》电影暖水曲),夏洛特烦恼 电影原声带专辑,album,Song,Album
+一次就好 (《夏洛特烦恼》电影暖水曲),杨宗纬,artist,Song,Artist
+一次就好 (《夏洛特烦恼》电影暖水曲),呆猫互娱,company,Song,Company
+一次就好 (《夏洛特烦恼》电影暖水曲),Soundtrack,genre,Song,Genre
+一次就好 (《夏洛特烦恼》电影暖水曲),国语,lan,Song,Lan
+一次就好 (《夏洛特烦恼》电影暖水曲),2016-02-02,pub_time,Song,Pub_Time
+Me Too,Thank You (Deluxe)专辑,album,Song,Album
+Me Too,Meghan Trainor,artist,Song,Artist
+Me Too,索尼音乐,company,Song,Company
+Me Too,Pop,genre,Song,Genre
+Me Too, 英语,lan,Song,Lan
+Me Too,2017-05-12,pub_time,Song,Pub_Time
+专属情歌,专属情歌专辑,album,Song,Album
+专属情歌,刘辰希,artist,Song,Artist
+专属情歌,北京亿格艾科技有限公司,company,Song,Company
+专属情歌,Pop,genre,Song,Genre
+专属情歌,国语,lan,Song,Lan
+专属情歌,2017-08-18,pub_time,Song,Pub_Time
+Shivers,Waves专辑,album,Song,Album
+Shivers,Rachel Platten,artist,Song,Artist
+Shivers,索尼音乐,company,Song,Company
+Shivers,Pop,genre,Song,Genre
+Shivers, 英语,lan,Song,Lan
+Shivers,2017-10-27,pub_time,Song,Pub_Time
+理想三旬,浓烟下的诗歌电台专辑,album,Song,Album
+理想三旬,陈鸿宇,artist,Song,Artist
+理想三旬,北京众乐纪文化传播有限公司,company,Song,Company
+理想三旬,Folk,genre,Song,Genre
+理想三旬,国语,lan,Song,Lan
+理想三旬,2016-03-01,pub_time,Song,Pub_Time
+等一分钟,茉莉花开专辑,album,Song,Album
+等一分钟,徐誉滕,artist,Song,Artist
+等一分钟,启韵传媒,company,Song,Company
+等一分钟,Pop,genre,Song,Genre
+等一分钟,国语,lan,Song,Lan
+等一分钟,2007-06-18,pub_time,Song,Pub_Time
+以后的以后,以后的以后专辑,album,Song,Album
+以后的以后,庄心妍,artist,Song,Artist
+以后的以后,致力音乐,company,Song,Company
+以后的以后,Pop,genre,Song,Genre
+以后的以后,国语,lan,Song,Lan
+以后的以后,2013-06-13,pub_time,Song,Pub_Time
+There For You,There For You专辑,album,Song,Album
+There For You,Martin Garrix,artist,Song,Artist
+There For You,Troye Sivan,artist,Song,Artist
+There For You,索尼音乐,company,Song,Company
+There For You,Pop,genre,Song,Genre
+There For You, 英语,lan,Song,Lan
+There For You,2017-05-26,pub_time,Song,Pub_Time
+小跳蛙,我们爱音乐专辑,album,Song,Album
+小跳蛙,青蛙乐队,artist,Song,Artist
+小跳蛙,福州智永信息科技有限公司,company,Song,Company
+小跳蛙,Pop,genre,Song,Genre
+小跳蛙,国语,lan,Song,Lan
+小跳蛙,2009-01-01,pub_time,Song,Pub_Time
+How To Love,How To Love专辑,album,Song,Album
+How To Love,Cash Cash,artist,Song,Artist
+How To Love,Sofia Reyes,artist,Song,Artist
+How To Love,华纳唱片,company,Song,Company
+How To Love,Dance,genre,Song,Genre
+How To Love, 英语,lan,Song,Lan
+How To Love,2016-04-29,pub_time,Song,Pub_Time
+Whistle,Whistle专辑,album,Song,Album
+Whistle,Flo Rida,artist,Song,Artist
+Whistle,华纳唱片,company,Song,Company
+Whistle,Electronica,genre,Song,Genre
+Whistle, 英语,lan,Song,Lan
+Whistle,2012-04-23,pub_time,Song,Pub_Time
+很久以后 (《单恋大作战》网络剧片尾曲),很久以后专辑,album,Song,Album
+很久以后 (《单恋大作战》网络剧片尾曲),金玟岐,artist,Song,Artist
+很久以后 (《单恋大作战》网络剧片尾曲),燃音乐,company,Song,Company
+很久以后 (《单恋大作战》网络剧片尾曲),Soundtrack,genre,Song,Genre
+很久以后 (《单恋大作战》网络剧片尾曲),国语,lan,Song,Lan
+很久以后 (《单恋大作战》网络剧片尾曲),2018-03-02,pub_time,Song,Pub_Time
+你就不要想起我,你就不要想起我专辑,album,Song,Album
+你就不要想起我,简弘亦,artist,Song,Artist
+你就不要想起我,Pop,genre,Song,Genre
+你就不要想起我,国语,lan,Song,Lan
+你就不要想起我,2016-12-28,pub_time,Song,Pub_Time
+真的爱你 (《摆渡人》电影插曲),BEYOND IV专辑,album,Song,Album
+真的爱你 (《摆渡人》电影插曲),BEYOND,artist,Song,Artist
+真的爱你 (《摆渡人》电影插曲),环球唱片,company,Song,Company
+真的爱你 (《摆渡人》电影插曲),Rock,genre,Song,Genre
+真的爱你 (《摆渡人》电影插曲), 粤语,lan,Song,Lan
+真的爱你 (《摆渡人》电影插曲),1989-07-01,pub_time,Song,Pub_Time
+独孤天下 (《独孤天下》电视剧片头曲),独孤天下 电视剧影视原声专辑,album,Song,Album
+独孤天下 (《独孤天下》电视剧片头曲),李玉刚,artist,Song,Artist
+独孤天下 (《独孤天下》电视剧片头曲),北京听见时代娱乐传媒有限公司,company,Song,Company
+独孤天下 (《独孤天下》电视剧片头曲),Soundtrack,genre,Song,Genre
+独孤天下 (《独孤天下》电视剧片头曲),国语,lan,Song,Lan
+独孤天下 (《独孤天下》电视剧片头曲),2018-03-16,pub_time,Song,Pub_Time
+How Long,Voicenotes专辑,album,Song,Album
+How Long,Charlie Puth,artist,Song,Artist
+How Long,华纳唱片,company,Song,Company
+How Long,Pop,genre,Song,Genre
+How Long, 英语,lan,Song,Lan
+How Long,2018-05-11,pub_time,Song,Pub_Time
+Boom Clap,Boom Clap专辑,album,Song,Album
+Boom Clap,Charli XCX,artist,Song,Artist
+Boom Clap,华纳唱片,company,Song,Company
+Boom Clap,Pop,genre,Song,Genre
+Boom Clap, 英语,lan,Song,Lan
+Boom Clap,2014-06-16,pub_time,Song,Pub_Time
+不要说话 (《时尚先生》电影主题曲),不想放手专辑,album,Song,Album
+不要说话 (《时尚先生》电影主题曲),陈奕迅,artist,Song,Artist
+不要说话 (《时尚先生》电影主题曲),Cinepoly Records Co. Ltd.,company,Song,Company
+不要说话 (《时尚先生》电影主题曲),Pop,genre,Song,Genre
+不要说话 (《时尚先生》电影主题曲),国语,lan,Song,Lan
+不要说话 (《时尚先生》电影主题曲),2008-06-30,pub_time,Song,Pub_Time
+Animals (2015年维多利亚的秘密泳装秀秀场音乐),Animals专辑,album,Song,Album
+Animals (2015年维多利亚的秘密泳装秀秀场音乐),Maroon 5,artist,Song,Artist
+Animals (2015年维多利亚的秘密泳装秀秀场音乐),Interscope Records*,company,Song,Company
+Animals (2015年维多利亚的秘密泳装秀秀场音乐),Pop,genre,Song,Genre
+Animals (2015年维多利亚的秘密泳装秀秀场音乐), 英语,lan,Song,Lan
+Animals (2015年维多利亚的秘密泳装秀秀场音乐),2014-08-24,pub_time,Song,Pub_Time
+那些年 (《那些年，我们一起追的女孩》电影主题曲),燃点专辑,album,Song,Album
+那些年 (《那些年，我们一起追的女孩》电影主题曲),胡夏,artist,Song,Artist
+那些年 (《那些年，我们一起追的女孩》电影主题曲),索尼音乐,company,Song,Company
+那些年 (《那些年，我们一起追的女孩》电影主题曲),Soundtrack,genre,Song,Genre
+那些年 (《那些年，我们一起追的女孩》电影主题曲),国语,lan,Song,Lan
+那些年 (《那些年，我们一起追的女孩》电影主题曲),2012-03-29,pub_time,Song,Pub_Time
+What Do You Mean? (2015年维多利亚的秘密秀秀场音乐),What Do You Mean?专辑,album,Song,Album
+What Do You Mean? (2015年维多利亚的秘密秀秀场音乐),Justin Bieber,artist,Song,Artist
+What Do You Mean? (2015年维多利亚的秘密秀秀场音乐),环球唱片,company,Song,Company
+What Do You Mean? (2015年维多利亚的秘密秀秀场音乐),Pop,genre,Song,Genre
+What Do You Mean? (2015年维多利亚的秘密秀秀场音乐), 英语,lan,Song,Lan
+What Do You Mean? (2015年维多利亚的秘密秀秀场音乐),2015-08-28,pub_time,Song,Pub_Time
+其实都没有,初。爱专辑,album,Song,Album
+其实都没有,杨宗纬,artist,Song,Artist
+其实都没有,Universal Music Taiwan,company,Song,Company
+其实都没有,Pop,genre,Song,Genre
+其实都没有,国语,lan,Song,Lan
+其实都没有,2013-03-29,pub_time,Song,Pub_Time
+我好想你 (《小时代》电影主题曲),秋：故事专辑,album,Song,Album
+我好想你 (《小时代》电影主题曲),苏打绿,artist,Song,Artist
+我好想你 (《小时代》电影主题曲),林暐哲音乐社,company,Song,Company
+我好想你 (《小时代》电影主题曲),Pop,genre,Song,Genre
+我好想你 (《小时代》电影主题曲),国语,lan,Song,Lan
+我好想你 (《小时代》电影主题曲),2013-09-18,pub_time,Song,Pub_Time
+回忆那么伤 (《花间提壶方大厨》电视剧片尾曲),回忆那么伤专辑,album,Song,Album
+回忆那么伤 (《花间提壶方大厨》电视剧片尾曲),孙子涵,artist,Song,Artist
+回忆那么伤 (《花间提壶方大厨》电视剧片尾曲),北京简单快乐文化发展有限公司,company,Song,Company
+回忆那么伤 (《花间提壶方大厨》电视剧片尾曲),Pop,genre,Song,Genre
+回忆那么伤 (《花间提壶方大厨》电视剧片尾曲),国语,lan,Song,Lan
+回忆那么伤 (《花间提壶方大厨》电视剧片尾曲),2016-09-19,pub_time,Song,Pub_Time
+她说 (《爱情睡醒了》电视剧插曲),她说 概念自选辑专辑,album,Song,Album
+她说 (《爱情睡醒了》电视剧插曲),林俊杰,artist,Song,Artist
+她说 (《爱情睡醒了》电视剧插曲),海蝶音乐,company,Song,Company
+她说 (《爱情睡醒了》电视剧插曲),Pop,genre,Song,Genre
+她说 (《爱情睡醒了》电视剧插曲),国语,lan,Song,Lan
+她说 (《爱情睡醒了》电视剧插曲),2010-12-08,pub_time,Song,Pub_Time
+山还是山,与荒野专辑,album,Song,Album
+山还是山,陈鸿宇,artist,Song,Artist
+山还是山,北京众乐纪文化传播有限公司,company,Song,Company
+山还是山,Pop,genre,Song,Genre
+山还是山,国语,lan,Song,Lan
+山还是山,2018-03-12,pub_time,Song,Pub_Time
+羊 (SHEEP),SHEEP专辑,album,Song,Album
+羊 (SHEEP),张艺兴,artist,Song,Artist
+羊 (SHEEP),东阳横店张艺兴影视工作室,company,Song,Company
+羊 (SHEEP), Rap/Hip Hop,genre,Song,Genre
+羊 (SHEEP),国语,lan,Song,Lan
+羊 (SHEEP),2017-10-07,pub_time,Song,Pub_Time
+蓝莲花,时光·漫步专辑,album,Song,Album
+蓝莲花,许巍,artist,Song,Artist
+蓝莲花,金牌大风,company,Song,Company
+蓝莲花,Pop,genre,Song,Genre
+蓝莲花,国语,lan,Song,Lan
+蓝莲花,2002-12-01,pub_time,Song,Pub_Time
+你瞒我瞒,Close Up专辑,album,Song,Album
+你瞒我瞒,陈柏宇,artist,Song,Artist
+你瞒我瞒,索尼音乐,company,Song,Company
+你瞒我瞒,Pop,genre,Song,Genre
+你瞒我瞒, 粤语,lan,Song,Lan
+你瞒我瞒,2009-05-11,pub_time,Song,Pub_Time
+Right Now (Na Na Na) (《QQ飞车手游》游戏背景歌曲),Right Now (Na Na Na)专辑,album,Song,Album
+Right Now (Na Na Na) (《QQ飞车手游》游戏背景歌曲),Akon,artist,Song,Artist
+Right Now (Na Na Na) (《QQ飞车手游》游戏背景歌曲),环球唱片,company,Song,Company
+Right Now (Na Na Na) (《QQ飞车手游》游戏背景歌曲),R&B,genre,Song,Genre
+Right Now (Na Na Na) (《QQ飞车手游》游戏背景歌曲), 英语,lan,Song,Lan
+Right Now (Na Na Na) (《QQ飞车手游》游戏背景歌曲),2008-01-01,pub_time,Song,Pub_Time
+Fantastic Baby,빅뱅 미니앨범 5집 'ALIVE'专辑,album,Song,Album
+Fantastic Baby,BIGBANG (빅뱅),artist,Song,Artist
+Fantastic Baby,YG Entertainment,company,Song,Company
+Fantastic Baby,Pop,genre,Song,Genre
+Fantastic Baby, 韩语,lan,Song,Lan
+Fantastic Baby,2012-02-29,pub_time,Song,Pub_Time
+素颜,素颜专辑,album,Song,Album
+素颜,许嵩,artist,Song,Artist
+素颜,何曼婷,artist,Song,Artist
+素颜,华宇世博,company,Song,Company
+素颜,Pop,genre,Song,Genre
+素颜,国语,lan,Song,Lan
+素颜,2010-08-18,pub_time,Song,Pub_Time
+不再,不再专辑,album,Song,Album
+不再,张信哲,artist,Song,Artist
+不再,潮水音乐,company,Song,Company
+不再,Pop,genre,Song,Genre
+不再,国语,lan,Song,Lan
+不再,2018-03-13,pub_time,Song,Pub_Time
+Look,Eyes On You专辑,album,Song,Album
+Look,GOT7 (갓세븐),artist,Song,Artist
+Look,JYP Entertainment,company,Song,Company
+Look,Dance,genre,Song,Genre
+Look, 韩语,lan,Song,Lan
+Look,2018-03-12,pub_time,Song,Pub_Time
+Sakura Tears,壹伍壹捌·离专辑,album,Song,Album
+Sakura Tears,Snigellin,artist,Song,Artist
+Sakura Tears,北京太声文化传播有限公司,company,Song,Company
+Sakura Tears,Pop,genre,Song,Genre
+Sakura Tears, 纯音乐,lan,Song,Lan
+Sakura Tears,2016-08-11,pub_time,Song,Pub_Time
+What Makes You Beautiful,What Makes You Beautiful专辑,album,Song,Album
+What Makes You Beautiful,One Direction,artist,Song,Artist
+What Makes You Beautiful,索尼音乐,company,Song,Company
+What Makes You Beautiful,Pop,genre,Song,Genre
+What Makes You Beautiful, 英语,lan,Song,Lan
+What Makes You Beautiful,2011-10-31,pub_time,Song,Pub_Time
+离骚 (《思美人》电视剧片尾曲),离骚专辑,album,Song,Album
+离骚 (《思美人》电视剧片尾曲),易烊千玺,artist,Song,Artist
+离骚 (《思美人》电视剧片尾曲),北京时代峰峻文化艺术发展有限公司,company,Song,Company
+离骚 (《思美人》电视剧片尾曲),Pop,genre,Song,Genre
+离骚 (《思美人》电视剧片尾曲),国语,lan,Song,Lan
+离骚 (《思美人》电视剧片尾曲),2017-04-21,pub_time,Song,Pub_Time
+此生不换 (《仙剑奇侠传》电视剧插曲),仙剑奇侠传三 电视剧原声带专辑,album,Song,Album
+此生不换 (《仙剑奇侠传》电视剧插曲),青鸟飞鱼,artist,Song,Artist
+此生不换 (《仙剑奇侠传》电视剧插曲),金牌大风,company,Song,Company
+此生不换 (《仙剑奇侠传》电视剧插曲),Soundtrack,genre,Song,Genre
+此生不换 (《仙剑奇侠传》电视剧插曲),国语,lan,Song,Lan
+此生不换 (《仙剑奇侠传》电视剧插曲),2009-06-18,pub_time,Song,Pub_Time
+明天，你好 (《加油吧实习生》电视剧插曲),Lost & Found去寻找专辑,album,Song,Album
+明天，你好 (《加油吧实习生》电视剧插曲),牛奶咖啡,artist,Song,Artist
+明天，你好 (《加油吧实习生》电视剧插曲),华谊音乐,company,Song,Company
+明天，你好 (《加油吧实习生》电视剧插曲),Pop,genre,Song,Genre
+明天，你好 (《加油吧实习生》电视剧插曲),国语,lan,Song,Lan
+明天，你好 (《加油吧实习生》电视剧插曲),2011-07-11,pub_time,Song,Pub_Time
+匆匆那年 (《匆匆那年》电影同名主题曲),匆匆那年专辑,album,Song,Album
+匆匆那年 (《匆匆那年》电影同名主题曲),王菲,artist,Song,Artist
+匆匆那年 (《匆匆那年》电影同名主题曲),KC DIGITAL LIMITED,company,Song,Company
+匆匆那年 (《匆匆那年》电影同名主题曲),Pop,genre,Song,Genre
+匆匆那年 (《匆匆那年》电影同名主题曲),国语,lan,Song,Lan
+匆匆那年 (《匆匆那年》电影同名主题曲),2014-11-05,pub_time,Song,Pub_Time
+Love The Way You Lie,Recovery (Deluxe Edition)专辑,album,Song,Album
+Love The Way You Lie,Eminem,artist,Song,Artist
+Love The Way You Lie,Rihanna,artist,Song,Artist
+Love The Way You Lie,EMI百代唱片,company,Song,Company
+Love The Way You Lie, Rap/Hip Hop,genre,Song,Genre
+Love The Way You Lie, 英语,lan,Song,Lan
+Love The Way You Lie,2010-01-01,pub_time,Song,Pub_Time
+谁的青春不迷茫,1st专辑,album,Song,Album
+谁的青春不迷茫,小来哥,artist,Song,Artist
+谁的青春不迷茫,北京千和世纪文化传播有限公司,company,Song,Company
+谁的青春不迷茫,Pop,genre,Song,Genre
+谁的青春不迷茫,国语,lan,Song,Lan
+谁的青春不迷茫,2016-10-20,pub_time,Song,Pub_Time
+爱的魔法,他不爱我专辑,album,Song,Album
+爱的魔法,金莎,artist,Song,Artist
+爱的魔法,Pop,genre,Song,Genre
+爱的魔法,国语,lan,Song,Lan
+爱的魔法,2012-03-19,pub_time,Song,Pub_Time
+白山茶,白山茶专辑,album,Song,Album
+白山茶,陈雪凝,artist,Song,Artist
+白山茶,Pop,genre,Song,Genre
+白山茶,国语,lan,Song,Lan
+白山茶,2017-05-05,pub_time,Song,Pub_Time
+只住我自己,心上认专辑,album,Song,Album
+只住我自己,孙子涵,artist,Song,Artist
+只住我自己,北京简单快乐文化发展有限公司,company,Song,Company
+只住我自己,Pop,genre,Song,Genre
+只住我自己,国语,lan,Song,Lan
+只住我自己,2018-05-18,pub_time,Song,Pub_Time
+拜托,拜托专辑,album,Song,Album
+拜托,孙晨,artist,Song,Artist
+拜托,北京千和世纪文化传播有限公司,company,Song,Company
+拜托,Pop,genre,Song,Genre
+拜托,国语,lan,Song,Lan
+拜托,2017-05-17,pub_time,Song,Pub_Time
+老街,小黄专辑,album,Song,Album
+老街,李荣浩,artist,Song,Artist
+老街,一样音乐,company,Song,Company
+老街,Pop,genre,Song,Genre
+老街,国语,lan,Song,Lan
+老街,2010-09-09,pub_time,Song,Pub_Time
+任我去跑：和李荣浩跑进奇幻魔音,任我去跑专辑,album,Song,Album
+任我去跑：和李荣浩跑进奇幻魔音,李荣浩,artist,Song,Artist
+任我去跑：和李荣浩跑进奇幻魔音,耐克体育（中国）有限公司,company,Song,Company
+任我去跑：和李荣浩跑进奇幻魔音,Pop,genre,Song,Genre
+任我去跑：和李荣浩跑进奇幻魔音,国语,lan,Song,Lan
+任我去跑：和李荣浩跑进奇幻魔音,2018-03-07,pub_time,Song,Pub_Time
+不浪漫罪名 (Alcatel手提电话TVC主题曲),万岁2001专辑,album,Song,Album
+不浪漫罪名 (Alcatel手提电话TVC主题曲),王杰,artist,Song,Artist
+不浪漫罪名 (Alcatel手提电话TVC主题曲),英皇唱片,company,Song,Company
+不浪漫罪名 (Alcatel手提电话TVC主题曲),Pop,genre,Song,Genre
+不浪漫罪名 (Alcatel手提电话TVC主题曲), 粤语,lan,Song,Lan
+不浪漫罪名 (Alcatel手提电话TVC主题曲),2001-04-03,pub_time,Song,Pub_Time
+The Next Episode (《这！就是街舞》第十一期背景音乐),2001 (Censored Version)专辑,album,Song,Album
+The Next Episode (《这！就是街舞》第十一期背景音乐),Dr. Dre,artist,Song,Artist
+The Next Episode (《这！就是街舞》第十一期背景音乐),Snoop Dogg,artist,Song,Artist
+The Next Episode (《这！就是街舞》第十一期背景音乐),Kurupt,artist,Song,Artist
+The Next Episode (《这！就是街舞》第十一期背景音乐),Nate Dogg,artist,Song,Artist
+The Next Episode (《这！就是街舞》第十一期背景音乐),Aftermath,company,Song,Company
+The Next Episode (《这！就是街舞》第十一期背景音乐), Rap/Hip Hop,genre,Song,Genre
+The Next Episode (《这！就是街舞》第十一期背景音乐), 英语,lan,Song,Lan
+The Next Episode (《这！就是街舞》第十一期背景音乐),1999-11-16,pub_time,Song,Pub_Time
+给我一个理由忘记,寂寞不痛专辑,album,Song,Album
+给我一个理由忘记,A-Lin,artist,Song,Artist
+给我一个理由忘记,Pop,genre,Song,Genre
+给我一个理由忘记,国语,lan,Song,Lan
+给我一个理由忘记,2010-12-24,pub_time,Song,Pub_Time
+全世界谁倾听你 (《从你的全世界路过》电影插曲),全世界谁倾听你专辑,album,Song,Album
+全世界谁倾听你 (《从你的全世界路过》电影插曲),林宥嘉,artist,Song,Artist
+全世界谁倾听你 (《从你的全世界路过》电影插曲),Soundtrack,genre,Song,Genre
+全世界谁倾听你 (《从你的全世界路过》电影插曲),国语,lan,Song,Lan
+全世界谁倾听你 (《从你的全世界路过》电影插曲),2016-10-01,pub_time,Song,Pub_Time
+忘记时间 (《仙剑奇侠传3》片尾曲),蓝光专辑,album,Song,Album
+忘记时间 (《仙剑奇侠传3》片尾曲),胡歌,artist,Song,Artist
+忘记时间 (《仙剑奇侠传3》片尾曲),金牌大风,company,Song,Company
+忘记时间 (《仙剑奇侠传3》片尾曲),Pop,genre,Song,Genre
+忘记时间 (《仙剑奇侠传3》片尾曲),国语,lan,Song,Lan
+忘记时间 (《仙剑奇侠传3》片尾曲),2010-07-02,pub_time,Song,Pub_Time
+Es Rappelt Im Karton,Es Rappelt Im Karton专辑,album,Song,Album
+Es Rappelt Im Karton,Pixie Paris,artist,Song,Artist
+Es Rappelt Im Karton,索尼音乐,company,Song,Company
+Es Rappelt Im Karton,Dance,genre,Song,Genre
+Es Rappelt Im Karton, 德语,lan,Song,Lan
+Es Rappelt Im Karton,2014-11-03,pub_time,Song,Pub_Time
+我最亲爱的人,我最亲爱的人专辑,album,Song,Album
+我最亲爱的人,叶蓓,artist,Song,Artist
+我最亲爱的人,老狼,artist,Song,Artist
+我最亲爱的人,北京声享音乐文化有限公司,company,Song,Company
+我最亲爱的人,Pop,genre,Song,Genre
+我最亲爱的人,国语,lan,Song,Lan
+我最亲爱的人,2018-03-02,pub_time,Song,Pub_Time
+逆流成河,来生专辑,album,Song,Album
+逆流成河,金南玲,artist,Song,Artist
+逆流成河,Pop,genre,Song,Genre
+逆流成河,国语,lan,Song,Lan
+逆流成河,2013-12-06,pub_time,Song,Pub_Time
+Because Of You,Breakaway (Limited Edition)专辑,album,Song,Album
+Because Of You,Kelly Clarkson,artist,Song,Artist
+Because Of You,索尼音乐,company,Song,Company
+Because Of You,Pop,genre,Song,Genre
+Because Of You, 英语,lan,Song,Lan
+Because Of You,2004-11-30,pub_time,Song,Pub_Time
+Friendships (Album Version),Twelve's It专辑,album,Song,Album
+Friendships (Album Version),The Ellis Marsalis Trio,artist,Song,Artist
+Friendships (Album Version),索尼音乐,company,Song,Company
+Friendships (Album Version),Jazz,genre,Song,Genre
+Friendships (Album Version), 纯音乐,lan,Song,Lan
+Friendships (Album Version),1998-06-15,pub_time,Song,Pub_Time
+Attention,Attention专辑,album,Song,Album
+Attention,Charlie Puth,artist,Song,Artist
+Attention,华纳唱片,company,Song,Company
+Attention,Pop,genre,Song,Genre
+Attention, 英语,lan,Song,Lan
+Attention,2017-04-21,pub_time,Song,Pub_Time
+Sing Me to Sleep,Sing Me to Sleep专辑,album,Song,Album
+Sing Me to Sleep,Alan Walker,artist,Song,Artist
+Sing Me to Sleep,Iselin Solheim,artist,Song,Artist
+Sing Me to Sleep,索尼音乐,company,Song,Company
+Sing Me to Sleep,Dance,genre,Song,Genre
+Sing Me to Sleep, 英语,lan,Song,Lan
+Sing Me to Sleep,2016-06-03,pub_time,Song,Pub_Time
+愿得一人心 (《最美的时光》电视剧主题曲),愿得一人心专辑,album,Song,Album
+愿得一人心 (《最美的时光》电视剧主题曲),李行亮,artist,Song,Artist
+愿得一人心 (《最美的时光》电视剧主题曲),讯通诒合,company,Song,Company
+愿得一人心 (《最美的时光》电视剧主题曲),Pop,genre,Song,Genre
+愿得一人心 (《最美的时光》电视剧主题曲),国语,lan,Song,Lan
+愿得一人心 (《最美的时光》电视剧主题曲),2012-09-22,pub_time,Song,Pub_Time
+模特,模特专辑,album,Song,Album
+模特,李荣浩,artist,Song,Artist
+模特,一样音乐,company,Song,Company
+模特,Pop,genre,Song,Genre
+模特,国语,lan,Song,Lan
+模特,2013-09-17,pub_time,Song,Pub_Time
+独家记忆,独家记忆专辑,album,Song,Album
+独家记忆,陈小春,artist,Song,Artist
+独家记忆,环球唱片,company,Song,Company
+独家记忆,Pop,genre,Song,Genre
+独家记忆,国语,lan,Song,Lan
+独家记忆,2008-04-09,pub_time,Song,Pub_Time
+罗曼蒂克的爱情,罗曼蒂克的爱情专辑,album,Song,Album
+罗曼蒂克的爱情,贺敬轩,artist,Song,Artist
+罗曼蒂克的爱情,启韵传媒,company,Song,Company
+罗曼蒂克的爱情,Pop,genre,Song,Genre
+罗曼蒂克的爱情,国语,lan,Song,Lan
+罗曼蒂克的爱情,2017-11-14,pub_time,Song,Pub_Time
+怎么说我不爱你,狂想曲专辑,album,Song,Album
+怎么说我不爱你,萧敬腾,artist,Song,Artist
+怎么说我不爱你,华纳唱片,company,Song,Company
+怎么说我不爱你,Pop,genre,Song,Genre
+怎么说我不爱你,国语,lan,Song,Lan
+怎么说我不爱你,2011-06-30,pub_time,Song,Pub_Time
+春风十里 (《春风十里不如你》电视剧插曲),所有的酒，都不如你专辑,album,Song,Album
+春风十里 (《春风十里不如你》电视剧插曲),鹿先森乐队,artist,Song,Artist
+春风十里 (《春风十里不如你》电视剧插曲),StreetVoice,company,Song,Company
+春风十里 (《春风十里不如你》电视剧插曲),Rock,genre,Song,Genre
+春风十里 (《春风十里不如你》电视剧插曲),国语,lan,Song,Lan
+春风十里 (《春风十里不如你》电视剧插曲),2016-11-09,pub_time,Song,Pub_Time
+闹够了没有,男朋女友专辑,album,Song,Album
+闹够了没有,赖伟锋,artist,Song,Artist
+闹够了没有,北京简单快乐文化发展有限公司,company,Song,Company
+闹够了没有,Pop,genre,Song,Genre
+闹够了没有,国语,lan,Song,Lan
+闹够了没有,2014-03-11,pub_time,Song,Pub_Time
+默 (《何以笙箫默》电影插曲|《这！就是街舞》第四期背景音乐),默专辑,album,Song,Album
+默 (《何以笙箫默》电影插曲|《这！就是街舞》第四期背景音乐),那英,artist,Song,Artist
+默 (《何以笙箫默》电影插曲|《这！就是街舞》第四期背景音乐),Pop,genre,Song,Genre
+默 (《何以笙箫默》电影插曲|《这！就是街舞》第四期背景音乐),国语,lan,Song,Lan
+默 (《何以笙箫默》电影插曲|《这！就是街舞》第四期背景音乐),2015-04-19,pub_time,Song,Pub_Time
+Stay,Stay专辑,album,Song,Album
+Stay,Zedd,artist,Song,Artist
+Stay,Alessia Cara,artist,Song,Artist
+Stay,UMGRI Interscope,company,Song,Company
+Stay,Dance,genre,Song,Genre
+Stay, 英语,lan,Song,Lan
+Stay,2017-02-23,pub_time,Song,Pub_Time
+各自天涯,各自天涯专辑,album,Song,Album
+各自天涯,威仔,artist,Song,Artist
+各自天涯,极韵文化,company,Song,Company
+各自天涯,Pop,genre,Song,Genre
+各自天涯,国语,lan,Song,Lan
+各自天涯,2018-03-07,pub_time,Song,Pub_Time
+好心分手,力宏二十 20周年唯一精选专辑,album,Song,Album
+好心分手,王力宏,artist,Song,Artist
+好心分手,卢巧音,artist,Song,Artist
+好心分手,索尼音乐,company,Song,Company
+好心分手,Rock,genre,Song,Genre
+好心分手, 粤语,lan,Song,Lan
+好心分手,2015-07-24,pub_time,Song,Pub_Time
+情非得已 (《流星花园》电视剧主题曲),海啸专辑,album,Song,Album
+情非得已 (《流星花园》电视剧主题曲),庾澄庆,artist,Song,Artist
+情非得已 (《流星花园》电视剧主题曲),索尼音乐,company,Song,Company
+情非得已 (《流星花园》电视剧主题曲),Pop,genre,Song,Genre
+情非得已 (《流星花园》电视剧主题曲),国语,lan,Song,Lan
+情非得已 (《流星花园》电视剧主题曲),2001-06-15,pub_time,Song,Pub_Time
+让全世界知道我爱你,放下那个我不爱的人专辑,album,Song,Album
+让全世界知道我爱你,六哲,artist,Song,Artist
+让全世界知道我爱你,贺敬轩,artist,Song,Artist
+让全世界知道我爱你,启韵传媒,company,Song,Company
+让全世界知道我爱你,Pop,genre,Song,Genre
+让全世界知道我爱你,国语,lan,Song,Lan
+让全世界知道我爱你,2017-06-22,pub_time,Song,Pub_Time
+一生有你,一生有你专辑,album,Song,Album
+一生有你,水木年华,artist,Song,Artist
+一生有你,北京钧天乐文化传播有限公司,company,Song,Company
+一生有你,Folk,genre,Song,Genre
+一生有你,国语,lan,Song,Lan
+一生有你,2001-09-26,pub_time,Song,Pub_Time
+小情歌,小宇宙专辑,album,Song,Album
+小情歌,苏打绿,artist,Song,Artist
+小情歌,林暐哲音乐社,company,Song,Company
+小情歌,Pop,genre,Song,Genre
+小情歌,国语,lan,Song,Lan
+小情歌,2006-10-20,pub_time,Song,Pub_Time
+Counting Stars (2015年苹果秋季发布会表演歌曲原曲),Native (Deluxe Version)专辑,album,Song,Album
+Counting Stars (2015年苹果秋季发布会表演歌曲原曲),OneRepublic,artist,Song,Artist
+Counting Stars (2015年苹果秋季发布会表演歌曲原曲),环球唱片,company,Song,Company
+Counting Stars (2015年苹果秋季发布会表演歌曲原曲),Pop,genre,Song,Genre
+Counting Stars (2015年苹果秋季发布会表演歌曲原曲), 英语,lan,Song,Lan
+Counting Stars (2015年苹果秋季发布会表演歌曲原曲),2013-03-25,pub_time,Song,Pub_Time
+No Excuses,No Excuses专辑,album,Song,Album
+No Excuses,Meghan Trainor,artist,Song,Artist
+No Excuses,索尼音乐,company,Song,Company
+No Excuses,Pop,genre,Song,Genre
+No Excuses, 英语,lan,Song,Lan
+No Excuses,2018-03-02,pub_time,Song,Pub_Time
+至少还有你,林忆莲's专辑,album,Song,Album
+至少还有你,林忆莲,artist,Song,Artist
+至少还有你,金牌大风,company,Song,Company
+至少还有你,Pop,genre,Song,Genre
+至少还有你,国语,lan,Song,Lan
+至少还有你,2000-01-18,pub_time,Song,Pub_Time
+智商二五零 (《王者荣耀》鲁班七号英雄主打歌),智商二五零专辑,album,Song,Album
+智商二五零 (《王者荣耀》鲁班七号英雄主打歌),华晨宇,artist,Song,Artist
+智商二五零 (《王者荣耀》鲁班七号英雄主打歌),腾讯,company,Song,Company
+智商二五零 (《王者荣耀》鲁班七号英雄主打歌), Rap/Hip Hop,genre,Song,Genre
+智商二五零 (《王者荣耀》鲁班七号英雄主打歌),国语,lan,Song,Lan
+智商二五零 (《王者荣耀》鲁班七号英雄主打歌),2017-09-27,pub_time,Song,Pub_Time
+小苹果 (Remix),Dance for CN专辑,album,Song,Album
+小苹果 (Remix),筷子兄弟,artist,Song,Artist
+小苹果 (Remix),Pop,genre,Song,Genre
+小苹果 (Remix),国语,lan,Song,Lan
+小苹果 (Remix),2014-03-22,pub_time,Song,Pub_Time
+Solo Dance,Solo Dance专辑,album,Song,Album
+Solo Dance,Martin Jensen,artist,Song,Artist
+Solo Dance,环球唱片,company,Song,Company
+Solo Dance,Pop,genre,Song,Genre
+Solo Dance, 英语,lan,Song,Lan
+Solo Dance,2016-11-04,pub_time,Song,Pub_Time
+Maps,Maps专辑,album,Song,Album
+Maps,Maroon 5,artist,Song,Artist
+Maps,Big Sean,artist,Song,Artist
+Maps,环球唱片,company,Song,Company
+Maps,Pop,genre,Song,Genre
+Maps, 英语,lan,Song,Lan
+Maps,2014-06-16,pub_time,Song,Pub_Time
+时间煮雨 (《小时代3：刺金时代》电影片尾曲|《小时代4：灵魂尽头》电影宣传曲|《小时代4：灵魂尽头》电影插曲),小时代3：刺金时代 电影原声带专辑,album,Song,Album
+时间煮雨 (《小时代3：刺金时代》电影片尾曲|《小时代4：灵魂尽头》电影宣传曲|《小时代4：灵魂尽头》电影插曲),吴亦凡,artist,Song,Artist
+时间煮雨 (《小时代3：刺金时代》电影片尾曲|《小时代4：灵魂尽头》电影宣传曲|《小时代4：灵魂尽头》电影插曲),Pop,genre,Song,Genre
+时间煮雨 (《小时代3：刺金时代》电影片尾曲|《小时代4：灵魂尽头》电影宣传曲|《小时代4：灵魂尽头》电影插曲),国语,lan,Song,Lan
+时间煮雨 (《小时代3：刺金时代》电影片尾曲|《小时代4：灵魂尽头》电影宣传曲|《小时代4：灵魂尽头》电影插曲),2014-07-18,pub_time,Song,Pub_Time
+Victory,Battlecry专辑,album,Song,Album
+Victory,Two Steps From Hell,artist,Song,Artist
+Victory,Thomas Bergersen,artist,Song,Artist
+Victory,Two Steps From Hell,company,Song,Company
+Victory,Soundtrack,genre,Song,Genre
+Victory, 英语,lan,Song,Lan
+Victory,2015-04-28,pub_time,Song,Pub_Time
+Hello,25专辑,album,Song,Album
+Hello,Adele,artist,Song,Artist
+Hello,XL Recordings,company,Song,Company
+Hello,Pop,genre,Song,Genre
+Hello, 英语,lan,Song,Lan
+Hello,2015-11-20,pub_time,Song,Pub_Time
+月半小夜曲 (原曲：ハーフムーン·セレナーデ),命运符号专辑,album,Song,Album
+月半小夜曲 (原曲：ハーフムーン·セレナーデ),李克勤,artist,Song,Artist
+月半小夜曲 (原曲：ハーフムーン·セレナーデ),Universal Music Ltd.,company,Song,Company
+月半小夜曲 (原曲：ハーフムーン·セレナーデ),Pop,genre,Song,Genre
+月半小夜曲 (原曲：ハーフムーン·セレナーデ), 粤语,lan,Song,Lan
+月半小夜曲 (原曲：ハーフムーン·セレナーデ),1987-12-01,pub_time,Song,Pub_Time
+洋葱 (《爱的秘籍》电视剧插曲),鸽子专辑,album,Song,Album
+洋葱 (《爱的秘籍》电视剧插曲),杨宗纬,artist,Song,Artist
+洋葱 (《爱的秘籍》电视剧插曲),滚石唱片,company,Song,Company
+洋葱 (《爱的秘籍》电视剧插曲),国语,lan,Song,Lan
+洋葱 (《爱的秘籍》电视剧插曲),2008-01-11,pub_time,Song,Pub_Time
+Papillon (《热血街舞团》总决赛背景音乐),Papillon专辑,album,Song,Album
+Papillon (《热血街舞团》总决赛背景音乐),王嘉尔,artist,Song,Artist
+Papillon (《热血街舞团》总决赛背景音乐),看见网络科技（上海）有限公司,company,Song,Company
+Papillon (《热血街舞团》总决赛背景音乐), Rap/Hip Hop,genre,Song,Genre
+Papillon (《热血街舞团》总决赛背景音乐), 英语,lan,Song,Lan
+Papillon (《热血街舞团》总决赛背景音乐),2017-08-29,pub_time,Song,Pub_Time
+父亲 (《父亲》电影主题曲),父亲专辑,album,Song,Album
+父亲 (《父亲》电影主题曲),筷子兄弟,artist,Song,Artist
+父亲 (《父亲》电影主题曲),Pop,genre,Song,Genre
+父亲 (《父亲》电影主题曲),国语,lan,Song,Lan
+父亲 (《父亲》电影主题曲),2011-12-20,pub_time,Song,Pub_Time
+穿越吧！猛犸,玩乐专辑,album,Song,Album
+穿越吧！猛犸,霍尊,artist,Song,Artist
+穿越吧！猛犸,北京听见时代娱乐传媒有限公司,company,Song,Company
+穿越吧！猛犸,Pop,genre,Song,Genre
+穿越吧！猛犸,国语,lan,Song,Lan
+穿越吧！猛犸,2018-12-18,pub_time,Song,Pub_Time
+I Just Wanna Run (《实况足球2011》游戏背景音乐),Best I Never Had专辑,album,Song,Album
+I Just Wanna Run (《实况足球2011》游戏背景音乐),The Downtown Fiction,artist,Song,Artist
+I Just Wanna Run (《实况足球2011》游戏背景音乐),华纳唱片,company,Song,Company
+I Just Wanna Run (《实况足球2011》游戏背景音乐),Alternative,genre,Song,Genre
+I Just Wanna Run (《实况足球2011》游戏背景音乐), 英语,lan,Song,Lan
+I Just Wanna Run (《实况足球2011》游戏背景音乐),2010-03-23,pub_time,Song,Pub_Time
+爱情的骗子我问你 (《我不做大哥好多年》电影插曲),台语畅销辑2专辑,album,Song,Album
+爱情的骗子我问你 (《我不做大哥好多年》电影插曲),陈小云,artist,Song,Artist
+爱情的骗子我问你 (《我不做大哥好多年》电影插曲),Pop,genre,Song,Genre
+爱情的骗子我问你 (《我不做大哥好多年》电影插曲), 闽南语,lan,Song,Lan
+爱情的骗子我问你 (《我不做大哥好多年》电影插曲),1990-01-01,pub_time,Song,Pub_Time
+Cheap Thrills,Cheap Thrills专辑,album,Song,Album
+Cheap Thrills,Sia,artist,Song,Artist
+Cheap Thrills,索尼音乐,company,Song,Company
+Cheap Thrills,Pop,genre,Song,Genre
+Cheap Thrills, 英语,lan,Song,Lan
+Cheap Thrills,2015-12-17,pub_time,Song,Pub_Time
+大城小爱,盖世英雄专辑,album,Song,Album
+大城小爱,王力宏,artist,Song,Artist
+大城小爱,宏声音乐,company,Song,Company
+大城小爱,Pop,genre,Song,Genre
+大城小爱,国语,lan,Song,Lan
+大城小爱,2005-12-30,pub_time,Song,Pub_Time
+Let's not fall in love (우리 사랑하지 말아요),MADE SERIES 《E》专辑,album,Song,Album
+Let's not fall in love (우리 사랑하지 말아요),BIGBANG (빅뱅),artist,Song,Artist
+Let's not fall in love (우리 사랑하지 말아요),YG Entertainment,company,Song,Company
+Let's not fall in love (우리 사랑하지 말아요), Rap/Hip Hop,genre,Song,Genre
+Let's not fall in love (우리 사랑하지 말아요), 韩语,lan,Song,Lan
+Let's not fall in love (우리 사랑하지 말아요),2015-08-05,pub_time,Song,Pub_Time
+差不多先生,滚石唱片,company,Song,Company
+差不多先生,Pop,genre,Song,Genre
+差不多先生,国语,lan,Song,Lan
+异想天开 (Heavy Metal Version),异想天开专辑,album,Song,Album
+异想天开 (Heavy Metal Version),谢霆锋,artist,Song,Artist
+异想天开 (Heavy Metal Version),英皇唱片,company,Song,Company
+异想天开 (Heavy Metal Version),Rock,genre,Song,Genre
+异想天开 (Heavy Metal Version),国语,lan,Song,Lan
+异想天开 (Heavy Metal Version),2018-01-04,pub_time,Song,Pub_Time
+不分手的恋爱,好安静专辑,album,Song,Album
+不分手的恋爱,汪苏泷,artist,Song,Artist
+不分手的恋爱,大象音乐,company,Song,Company
+不分手的恋爱,Pop,genre,Song,Genre
+不分手的恋爱,国语,lan,Song,Lan
+不分手的恋爱,2011-09-09,pub_time,Song,Pub_Time
+房间,私房歌专辑,album,Song,Album
+房间,刘瑞琦,artist,Song,Artist
+房间,通力唱片,company,Song,Company
+房间,Pop,genre,Song,Genre
+房间,国语,lan,Song,Lan
+房间,2013-11-06,pub_time,Song,Pub_Time
+Wicked Wonderland,Wicked Wonderland专辑,album,Song,Album
+Wicked Wonderland,Tungevaag,artist,Song,Artist
+Wicked Wonderland,看见网络科技（上海）有限公司,company,Song,Company
+Wicked Wonderland,Dance,genre,Song,Genre
+Wicked Wonderland, 英语,lan,Song,Lan
+Wicked Wonderland,2014-06-30,pub_time,Song,Pub_Time
+阿刁,无法长大专辑,album,Song,Album
+阿刁,赵雷,artist,Song,Artist
+阿刁,StreetVoice,company,Song,Company
+阿刁,Folk,genre,Song,Genre
+阿刁,国语,lan,Song,Lan
+阿刁,2016-12-21,pub_time,Song,Pub_Time
+隐形的翅膀 (《爱杀17》电视剧片尾曲),潘朵拉专辑,album,Song,Album
+隐形的翅膀 (《爱杀17》电视剧片尾曲),张韶涵,artist,Song,Artist
+隐形的翅膀 (《爱杀17》电视剧片尾曲),福茂唱片,company,Song,Company
+隐形的翅膀 (《爱杀17》电视剧片尾曲),Pop,genre,Song,Genre
+隐形的翅膀 (《爱杀17》电视剧片尾曲),国语,lan,Song,Lan
+隐形的翅膀 (《爱杀17》电视剧片尾曲),2006-01-06,pub_time,Song,Pub_Time
+Poker Face,The Fame专辑,album,Song,Album
+Poker Face,Lady Gaga,artist,Song,Artist
+Poker Face,Interscope,company,Song,Company
+Poker Face,Pop,genre,Song,Genre
+Poker Face, 英语,lan,Song,Lan
+Poker Face,2008-08-19,pub_time,Song,Pub_Time
+小星星,慢慢懂专辑,album,Song,Album
+小星星,汪苏泷,artist,Song,Artist
+小星星,大象音乐,company,Song,Company
+小星星,Pop,genre,Song,Genre
+小星星,国语,lan,Song,Lan
+小星星,2010-11-19,pub_time,Song,Pub_Time
+童话,童话专辑,album,Song,Album
+童话,光良,artist,Song,Artist
+童话,滚石唱片,company,Song,Company
+童话,Pop,genre,Song,Genre
+童话,国语,lan,Song,Lan
+童话,2005-01-21,pub_time,Song,Pub_Time
+春风吹,Soulboy专辑,album,Song,Album
+春风吹,方大同,artist,Song,Artist
+春风吹,华纳唱片,company,Song,Company
+春风吹,Pop,genre,Song,Genre
+春风吹,国语,lan,Song,Lan
+春风吹,2005-11-16,pub_time,Song,Pub_Time
+女孩 (厦门版),女孩（厦门版）专辑,album,Song,Album
+女孩 (厦门版),韦礼安,artist,Song,Artist
+女孩 (厦门版),福茂唱片,company,Song,Company
+女孩 (厦门版),Pop,genre,Song,Genre
+女孩 (厦门版),国语,lan,Song,Lan
+女孩 (厦门版),2017-10-18,pub_time,Song,Pub_Time
+青柠,青柠专辑,album,Song,Album
+青柠,徐秉龙,artist,Song,Artist
+青柠,桃十五,artist,Song,Artist
+青柠,上海煮草文化传播有限公司,company,Song,Company
+青柠,Pop,genre,Song,Genre
+青柠,国语,lan,Song,Lan
+青柠,2017-08-25,pub_time,Song,Pub_Time
+疑心病,从小到大专辑,album,Song,Album
+疑心病,任然,artist,Song,Artist
+疑心病,北京千和世纪文化传播有限公司,company,Song,Company
+疑心病,Pop,genre,Song,Genre
+疑心病,国语,lan,Song,Lan
+疑心病,2016-01-15,pub_time,Song,Pub_Time
+为你写诗,情人节专辑,album,Song,Album
+为你写诗,吴克群,artist,Song,Artist
+为你写诗,Pop,genre,Song,Genre
+为你写诗,国语,lan,Song,Lan
+为你写诗,2008-02-11,pub_time,Song,Pub_Time
+一笑倾城 (《微微一笑很倾城》电视剧片头曲),微微一笑很倾城 电视剧原声带专辑,album,Song,Album
+一笑倾城 (《微微一笑很倾城》电视剧片头曲),汪苏泷,artist,Song,Artist
+一笑倾城 (《微微一笑很倾城》电视剧片头曲),Soundtrack,genre,Song,Genre
+一笑倾城 (《微微一笑很倾城》电视剧片头曲),国语,lan,Song,Lan
+一笑倾城 (《微微一笑很倾城》电视剧片头曲),2016-08-25,pub_time,Song,Pub_Time
+玻璃之情,一切随风专辑,album,Song,Album
+玻璃之情,张国荣,artist,Song,Artist
+玻璃之情,Universal Music Ltd.,company,Song,Company
+玻璃之情,Pop,genre,Song,Genre
+玻璃之情, 粤语,lan,Song,Lan
+玻璃之情,2003-07-08,pub_time,Song,Pub_Time
+Sorry (2016年EMA最佳歌曲获奖歌曲),Sorry专辑,album,Song,Album
+Sorry (2016年EMA最佳歌曲获奖歌曲),Justin Bieber,artist,Song,Artist
+Sorry (2016年EMA最佳歌曲获奖歌曲),环球唱片,company,Song,Company
+Sorry (2016年EMA最佳歌曲获奖歌曲),Pop,genre,Song,Genre
+Sorry (2016年EMA最佳歌曲获奖歌曲), 英语,lan,Song,Lan
+Sorry (2016年EMA最佳歌曲获奖歌曲),2015-10-22,pub_time,Song,Pub_Time
+重来,Cherished 割爱专辑,album,Song,Album
+重来,蔡健雅,artist,Song,Artist
+重来,Go East Music Entertainment Consulting Limited,company,Song,Company
+重来,Pop,genre,Song,Genre
+重来,国语,lan,Song,Lan
+重来,2018-01-12,pub_time,Song,Pub_Time

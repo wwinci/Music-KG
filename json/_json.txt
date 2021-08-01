@@ -1,0 +1,54 @@
+list和song的关系：歌单中的歌不一定全部解析过，可能只有songlist里一个编号；歌曲的相关歌单也不一定解析过
+每个文件夹内部都有对应的文件清单，即'playlist文件夹名.json'和'songlist文件夹名.json'
+---
+
+topListID_year_week_num.json # song
+
+playlistID_depth_pll.json # playlist
+playlistID_depth_pls.json # song
+
+---
+
+format example:
+playlist:
+{
+    "7051134566": {
+        "dissid": "7051134566",
+        "dissname": "雪中埋红豆，玲珑安骰子",
+        "songlist": [
+            "0030TQjT3kL8eI", # songid
+            "001lQStZ05xh9r",
+            ...
+            "000n1Ms226mJWw"
+        ]
+    },
+    ...
+}
+
+song:
+[
+    {
+        "songname": "长恨歌",
+        "songid": "0030TQjT3kL8eI",
+        "album": [
+            "分开"
+        ],
+        "artist": [
+            "邢宇博"
+        ],
+        "artistid": [
+            "003MaItl0R9tQH"
+        ],
+        ----- OPTIONAL content below -----
+        "rela_hot": [
+            "7789463694",
+            "7777558205",
+            "7770454486"
+        ],
+        "company": "深圳市纯娱文化传媒有限公司",
+        "genre": "Pop",
+        "lan": "国语",
+        "pub_time": "2014-10-27"
+    },
+    ...
+]
